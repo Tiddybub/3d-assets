@@ -1,0 +1,3263 @@
+{
+ "repo": "3d-assets",
+ "packs": 178,
+ "assets": [
+  {
+   "id": "animated-characters-protagonists",
+   "title": "Animated Characters Protagonists",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "criminal",
+    "cyborg",
+    "skater",
+    "skating"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-protagonists",
+   "path": "characters/animated-characters-protagonists"
+  },
+  {
+   "id": "blocky-characters",
+   "title": "Blocky Characters",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/blocky-characters",
+   "path": "characters/blocky-characters"
+  },
+  {
+   "id": "cube-pets",
+   "title": "Cube Pets",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "animal",
+    "cat",
+    "dog",
+    "pet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/cube-pets",
+   "path": "characters/cube-pets"
+  },
+  {
+   "id": "graveyard-kit",
+   "title": "Graveyard Kit",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "graveyard",
+    "halloween",
+    "horror",
+    "monster",
+    "spooky"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/graveyard-kit",
+   "path": "characters/graveyard-kit"
+  },
+  {
+   "id": "mini-characters",
+   "title": "Mini Characters",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "disability",
+    "people"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-characters",
+   "path": "characters/mini-characters"
+  },
+  {
+   "id": "castle-kit",
+   "title": "Castle Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "castle",
+    "medieval"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/castle-kit",
+   "path": "fantasy/castle-kit"
+  },
+  {
+   "id": "fantasy-town-kit",
+   "title": "Fantasy Town Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "medieval",
+    "town",
+    "wall"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/fantasy-town-kit",
+   "path": "fantasy/fantasy-town-kit"
+  },
+  {
+   "id": "mini-dungeon",
+   "title": "Mini Dungeon",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "dungeon",
+    "medieval",
+    "roguelike",
+    "rpg"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-dungeon",
+   "path": "fantasy/mini-dungeon"
+  },
+  {
+   "id": "modular-dungeon-kit",
+   "title": "Modular Dungeon Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "dungeon",
+    "modular",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-dungeon-kit",
+   "path": "fantasy/modular-dungeon-kit"
+  },
+  {
+   "id": "pirate-kit",
+   "title": "Pirate Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "vehicles",
+    "characters"
+   ],
+   "tags": [
+    "boat",
+    "character",
+    "island",
+    "pirate",
+    "ship",
+    "tropical"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/pirate-kit",
+   "path": "fantasy/pirate-kit"
+  },
+  {
+   "id": "retro-fantasy-kit",
+   "title": "Retro Fantasy Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "castle",
+    "medieval",
+    "retro",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/retro-fantasy-kit",
+   "path": "fantasy/retro-fantasy-kit"
+  },
+  {
+   "id": "tower-defense-kit",
+   "title": "Tower Defense Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "castle",
+    "defense",
+    "medieval"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/tower-defense-kit",
+   "path": "fantasy/tower-defense-kit"
+  },
+  {
+   "id": "aarfontein_dirt_road",
+   "title": "Aarfontein Dirt Road",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "natural light",
+    "high contrast",
+    "clear",
+    "morning-afternoon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jarod Guest, Dario Barresi",
+   "source_page": "https://polyhaven.com/a/aarfontein_dirt_road",
+   "path": "hdri/aarfontein_dirt_road"
+  },
+  {
+   "id": "abandoned_bakery",
+   "title": "Abandoned Bakery",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "natural light",
+    "artificial light",
+    "urban",
+    "indoor",
+    "high contrast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_bakery",
+   "path": "hdri/abandoned_bakery"
+  },
+  {
+   "id": "abandoned_church",
+   "title": "Abandoned Church",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_church",
+   "path": "hdri/abandoned_church"
+  },
+  {
+   "id": "abandoned_construction",
+   "title": "Abandoned Construction",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "overcast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_construction",
+   "path": "hdri/abandoned_construction"
+  },
+  {
+   "id": "abandoned_factory_canteen_01",
+   "title": "Abandoned Factory Canteen 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_01",
+   "path": "hdri/abandoned_factory_canteen_01"
+  },
+  {
+   "id": "abandoned_factory_canteen_02",
+   "title": "Abandoned Factory Canteen 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_02",
+   "path": "hdri/abandoned_factory_canteen_02"
+  },
+  {
+   "id": "abandoned_games_room_01",
+   "title": "Abandoned Games Room 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "midday",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_games_room_01",
+   "path": "hdri/abandoned_games_room_01"
+  },
+  {
+   "id": "abandoned_games_room_02",
+   "title": "Abandoned Games Room 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "midday",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_games_room_02",
+   "path": "hdri/abandoned_games_room_02"
+  },
+  {
+   "id": "abandoned_garage",
+   "title": "Abandoned Garage",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "medium contrast",
+    "urban",
+    "natural light",
+    "midday",
+    "overcast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Grzegorz Wronkowski",
+   "source_page": "https://polyhaven.com/a/abandoned_garage",
+   "path": "hdri/abandoned_garage"
+  },
+  {
+   "id": "abandoned_greenhouse",
+   "title": "Abandoned Greenhouse",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "low contrast",
+    "natural light",
+    "indoor",
+    "urban",
+    "overcast",
+    "midday"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Andreas Mischok",
+   "source_page": "https://polyhaven.com/a/abandoned_greenhouse",
+   "path": "hdri/abandoned_greenhouse"
+  },
+  {
+   "id": "abandoned_hall_01",
+   "title": "Abandoned Hall 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_hall_01",
+   "path": "hdri/abandoned_hall_01"
+  },
+  {
+   "id": "abandoned_hopper_terminal_01",
+   "title": "Abandoned Hopper Terminal 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_01",
+   "path": "hdri/abandoned_hopper_terminal_01"
+  },
+  {
+   "id": "abandoned_hopper_terminal_02",
+   "title": "Abandoned Hopper Terminal 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_02",
+   "path": "hdri/abandoned_hopper_terminal_02"
+  },
+  {
+   "id": "abandoned_hopper_terminal_03",
+   "title": "Abandoned Hopper Terminal 03",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_03",
+   "path": "hdri/abandoned_hopper_terminal_03"
+  },
+  {
+   "id": "abandoned_hopper_terminal_04",
+   "title": "Abandoned Hopper Terminal 04",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_04",
+   "path": "hdri/abandoned_hopper_terminal_04"
+  },
+  {
+   "id": "abandoned_parking",
+   "title": "Abandoned Parking",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "skies",
+    "urban",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_parking",
+   "path": "hdri/abandoned_parking"
+  },
+  {
+   "id": "Asphalt023S",
+   "title": "Asphalt023S",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt023S",
+   "path": "materials/Asphalt023S"
+  },
+  {
+   "id": "Asphalt025C",
+   "title": "Asphalt025C",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt025C",
+   "path": "materials/Asphalt025C"
+  },
+  {
+   "id": "Asphalt031",
+   "title": "Asphalt031",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt031",
+   "path": "materials/Asphalt031"
+  },
+  {
+   "id": "Asphalt033",
+   "title": "Asphalt033",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt033",
+   "path": "materials/Asphalt033"
+  },
+  {
+   "id": "Bricks097",
+   "title": "Bricks097",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks097",
+   "path": "materials/Bricks097"
+  },
+  {
+   "id": "Bricks101",
+   "title": "Bricks101",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks101",
+   "path": "materials/Bricks101"
+  },
+  {
+   "id": "Bricks102",
+   "title": "Bricks102",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks102",
+   "path": "materials/Bricks102"
+  },
+  {
+   "id": "Bricks104",
+   "title": "Bricks104",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks104",
+   "path": "materials/Bricks104"
+  },
+  {
+   "id": "Concrete034",
+   "title": "Concrete034",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete034",
+   "path": "materials/Concrete034"
+  },
+  {
+   "id": "Concrete046",
+   "title": "Concrete046",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete046",
+   "path": "materials/Concrete046"
+  },
+  {
+   "id": "Concrete047A",
+   "title": "Concrete047A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete047A",
+   "path": "materials/Concrete047A"
+  },
+  {
+   "id": "Concrete048",
+   "title": "Concrete048",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete048",
+   "path": "materials/Concrete048"
+  },
+  {
+   "id": "Fabric061",
+   "title": "Fabric061",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric061",
+   "path": "materials/Fabric061"
+  },
+  {
+   "id": "Fabric066",
+   "title": "Fabric066",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric066",
+   "path": "materials/Fabric066"
+  },
+  {
+   "id": "Fabric081C",
+   "title": "Fabric081C",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric081C",
+   "path": "materials/Fabric081C"
+  },
+  {
+   "id": "Fabric083",
+   "title": "Fabric083",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric083",
+   "path": "materials/Fabric083"
+  },
+  {
+   "id": "Grass001",
+   "title": "Grass001",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass001",
+   "path": "materials/Grass001"
+  },
+  {
+   "id": "Grass004",
+   "title": "Grass004",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass004",
+   "path": "materials/Grass004"
+  },
+  {
+   "id": "Grass005",
+   "title": "Grass005",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass005",
+   "path": "materials/Grass005"
+  },
+  {
+   "id": "Grass008",
+   "title": "Grass008",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass008",
+   "path": "materials/Grass008"
+  },
+  {
+   "id": "Ground037",
+   "title": "Ground037",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground037",
+   "path": "materials/Ground037"
+  },
+  {
+   "id": "Ground054",
+   "title": "Ground054",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground054",
+   "path": "materials/Ground054"
+  },
+  {
+   "id": "Ground068",
+   "title": "Ground068",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground068",
+   "path": "materials/Ground068"
+  },
+  {
+   "id": "Ground103",
+   "title": "Ground103",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground103",
+   "path": "materials/Ground103"
+  },
+  {
+   "id": "Leather026",
+   "title": "Leather026",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather026",
+   "path": "materials/Leather026"
+  },
+  {
+   "id": "Leather030",
+   "title": "Leather030",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather030",
+   "path": "materials/Leather030"
+  },
+  {
+   "id": "Leather037",
+   "title": "Leather037",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather037",
+   "path": "materials/Leather037"
+  },
+  {
+   "id": "Leather038",
+   "title": "Leather038",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather038",
+   "path": "materials/Leather038"
+  },
+  {
+   "id": "Marble006",
+   "title": "Marble006",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble006",
+   "path": "materials/Marble006"
+  },
+  {
+   "id": "Marble012",
+   "title": "Marble012",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble012",
+   "path": "materials/Marble012"
+  },
+  {
+   "id": "Marble016",
+   "title": "Marble016",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble016",
+   "path": "materials/Marble016"
+  },
+  {
+   "id": "Marble021",
+   "title": "Marble021",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble021",
+   "path": "materials/Marble021"
+  },
+  {
+   "id": "Metal046B",
+   "title": "Metal046B",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal046B",
+   "path": "materials/Metal046B"
+  },
+  {
+   "id": "Metal049A",
+   "title": "Metal049A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal049A",
+   "path": "materials/Metal049A"
+  },
+  {
+   "id": "Metal055A",
+   "title": "Metal055A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal055A",
+   "path": "materials/Metal055A"
+  },
+  {
+   "id": "Metal063",
+   "title": "Metal063",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal063",
+   "path": "materials/Metal063"
+  },
+  {
+   "id": "PavingStones128",
+   "title": "PavingStones128",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones128",
+   "path": "materials/PavingStones128"
+  },
+  {
+   "id": "PavingStones138",
+   "title": "PavingStones138",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones138",
+   "path": "materials/PavingStones138"
+  },
+  {
+   "id": "PavingStones150",
+   "title": "PavingStones150",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones150",
+   "path": "materials/PavingStones150"
+  },
+  {
+   "id": "PavingStones151",
+   "title": "PavingStones151",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones151",
+   "path": "materials/PavingStones151"
+  },
+  {
+   "id": "Plaster001",
+   "title": "Plaster001",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster001",
+   "path": "materials/Plaster001"
+  },
+  {
+   "id": "Plaster002",
+   "title": "Plaster002",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster002",
+   "path": "materials/Plaster002"
+  },
+  {
+   "id": "Plaster003",
+   "title": "Plaster003",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster003",
+   "path": "materials/Plaster003"
+  },
+  {
+   "id": "Plaster007",
+   "title": "Plaster007",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster007",
+   "path": "materials/Plaster007"
+  },
+  {
+   "id": "Rock051",
+   "title": "Rock051",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock051",
+   "path": "materials/Rock051"
+  },
+  {
+   "id": "Rock058",
+   "title": "Rock058",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock058",
+   "path": "materials/Rock058"
+  },
+  {
+   "id": "Rock063",
+   "title": "Rock063",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock063",
+   "path": "materials/Rock063"
+  },
+  {
+   "id": "Rock064",
+   "title": "Rock064",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock064",
+   "path": "materials/Rock064"
+  },
+  {
+   "id": "Tiles139",
+   "title": "Tiles139",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles139",
+   "path": "materials/Tiles139"
+  },
+  {
+   "id": "Tiles140",
+   "title": "Tiles140",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles140",
+   "path": "materials/Tiles140"
+  },
+  {
+   "id": "Tiles141",
+   "title": "Tiles141",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles141",
+   "path": "materials/Tiles141"
+  },
+  {
+   "id": "Tiles143",
+   "title": "Tiles143",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles143",
+   "path": "materials/Tiles143"
+  },
+  {
+   "id": "Wood051",
+   "title": "Wood051",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood051",
+   "path": "materials/Wood051"
+  },
+  {
+   "id": "Wood092",
+   "title": "Wood092",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood092",
+   "path": "materials/Wood092"
+  },
+  {
+   "id": "Wood094",
+   "title": "Wood094",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood094",
+   "path": "materials/Wood094"
+  },
+  {
+   "id": "Wood095",
+   "title": "Wood095",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood095",
+   "path": "materials/Wood095"
+  },
+  {
+   "id": "blaster-kit",
+   "title": "Blaster Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "blaster",
+    "target",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/blaster-kit",
+   "path": "misc/blaster-kit"
+  },
+  {
+   "id": "food-kit",
+   "title": "Food Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "eat",
+    "food",
+    "kitchen"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/food-kit",
+   "path": "misc/food-kit"
+  },
+  {
+   "id": "mini-arcade",
+   "title": "Mini Arcade",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "arcade",
+    "game",
+    "machine",
+    "play"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-arcade",
+   "path": "misc/mini-arcade"
+  },
+  {
+   "id": "mini-arena",
+   "title": "Mini Arena",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "arena",
+    "battle",
+    "roman"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-arena",
+   "path": "misc/mini-arena"
+  },
+  {
+   "id": "mini-market",
+   "title": "Mini Market",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "market",
+    "shop",
+    "store",
+    "supermarket"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-market",
+   "path": "misc/mini-market"
+  },
+  {
+   "id": "mini-skate",
+   "title": "Mini Skate",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "park",
+    "skateboard"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-skate",
+   "path": "misc/mini-skate"
+  },
+  {
+   "id": "minigolf-kit",
+   "title": "Minigolf Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "course",
+    "golf",
+    "level"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/minigolf-kit",
+   "path": "misc/minigolf-kit"
+  },
+  {
+   "id": "3d-road-tiles",
+   "title": "3D Road Tiles",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "road",
+    "tile"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/3d-road-tiles",
+   "path": "modern-urban/3d-road-tiles"
+  },
+  {
+   "id": "ArmChair_01",
+   "title": "Arm Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "gothic",
+    "vintage",
+    "chair",
+    "furniture",
+    "victorian",
+    "couch",
+    "wood",
+    "varnished"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ArmChair_01",
+   "path": "modern-urban/ArmChair_01"
+  },
+  {
+   "id": "BarberShopChair_01",
+   "title": "Barber Shop Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "chair",
+    "vintage",
+    "wood",
+    "leather",
+    "fancy",
+    "upholstery",
+    "barber",
+    "salon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/BarberShopChair_01",
+   "path": "modern-urban/BarberShopChair_01"
+  },
+  {
+   "id": "CashRegister_01",
+   "title": "Cash Register 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "commercial",
+    "store",
+    "vintage",
+    "cash",
+    "transaction",
+    "register",
+    "money",
+    "sales"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joe Seabuhr",
+   "source_page": "https://polyhaven.com/a/CashRegister_01",
+   "path": "modern-urban/CashRegister_01"
+  },
+  {
+   "id": "Chandelier_01",
+   "title": "Chandelier 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "hanging",
+    "fixture",
+    "chandelier",
+    "ornate",
+    "vintage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_01",
+   "path": "modern-urban/Chandelier_01"
+  },
+  {
+   "id": "Chandelier_02",
+   "title": "Chandelier 02",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "decorative",
+    "chandelier",
+    "elegant",
+    "hanging",
+    "ornate",
+    "vintage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_02",
+   "path": "modern-urban/Chandelier_02"
+  },
+  {
+   "id": "Chandelier_03",
+   "title": "Chandelier 03",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "hanging",
+    "fixture",
+    "chandelier",
+    "ornate",
+    "decor",
+    "elegant"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_03",
+   "path": "modern-urban/Chandelier_03"
+  },
+  {
+   "id": "ClassicConsole_01",
+   "title": "Classic Console 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "gothic",
+    "victorian",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ClassicConsole_01",
+   "path": "modern-urban/ClassicConsole_01"
+  },
+  {
+   "id": "ClassicNightstand_01",
+   "title": "Classic Nightstand 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "gothic",
+    "victorian",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ClassicNightstand_01",
+   "path": "modern-urban/ClassicNightstand_01"
+  },
+  {
+   "id": "CoffeeCart_01",
+   "title": "Coffee Cart 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "table",
+    "metal",
+    "shelf",
+    "plastic",
+    "cart",
+    "coffee",
+    "portable",
+    "wheels"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joe Seabuhr",
+   "source_page": "https://polyhaven.com/a/CoffeeCart_01",
+   "path": "modern-urban/CoffeeCart_01"
+  },
+  {
+   "id": "CoffeeTable_01",
+   "title": "Coffee Table 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "painted",
+    "old",
+    "worn",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/CoffeeTable_01",
+   "path": "modern-urban/CoffeeTable_01"
+  },
+  {
+   "id": "GothicBed_01",
+   "title": "Gothic Bed 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "gothic",
+    "furniture",
+    "bed",
+    "wood",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicBed_01",
+   "path": "modern-urban/GothicBed_01"
+  },
+  {
+   "id": "GothicCabinet_01",
+   "title": "Gothic Cabinet 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "gothic",
+    "furniture",
+    "table",
+    "shelf",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicCabinet_01",
+   "path": "modern-urban/GothicCabinet_01"
+  },
+  {
+   "id": "GothicCommode_01",
+   "title": "Gothic Commode 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "table",
+    "gothic",
+    "shelf",
+    "furniture",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicCommode_01",
+   "path": "modern-urban/GothicCommode_01"
+  },
+  {
+   "id": "GreenChair_01",
+   "title": "Green Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "gothic",
+    "furniture",
+    "chair",
+    "fabric",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GreenChair_01",
+   "path": "modern-urban/GreenChair_01"
+  },
+  {
+   "id": "brick-kit",
+   "title": "Brick Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "brick",
+    "building",
+    "plastic",
+    "toy"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/brick-kit",
+   "path": "modern-urban/brick-kit"
+  },
+  {
+   "id": "building-kit",
+   "title": "Building Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "house",
+    "structure"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/building-kit",
+   "path": "modern-urban/building-kit"
+  },
+  {
+   "id": "city-kit-commercial",
+   "title": "City Kit (Commercial)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "skyscraper"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-commercial",
+   "path": "modern-urban/city-kit-commercial"
+  },
+  {
+   "id": "city-kit-industrial",
+   "title": "City Kit (Industrial)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "factory",
+    "warehouse"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-industrial",
+   "path": "modern-urban/city-kit-industrial"
+  },
+  {
+   "id": "city-kit-roads",
+   "title": "City Kit (Roads)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "city",
+    "road",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-roads",
+   "path": "modern-urban/city-kit-roads"
+  },
+  {
+   "id": "city-kit-suburban",
+   "title": "City Kit (Suburban)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "suburban"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-suburban",
+   "path": "modern-urban/city-kit-suburban"
+  },
+  {
+   "id": "factory-kit",
+   "title": "Factory Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "belt",
+    "conveyor",
+    "factory",
+    "industrial",
+    "warehouse"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/factory-kit",
+   "path": "modern-urban/factory-kit"
+  },
+  {
+   "id": "furniture-kit",
+   "title": "Furniture Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "bed",
+    "chair",
+    "furniture",
+    "interior",
+    "table"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/furniture-kit",
+   "path": "modern-urban/furniture-kit"
+  },
+  {
+   "id": "hexagon-kit",
+   "title": "Hexagon Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban",
+    "nature",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "building",
+    "hexagon",
+    "terrain"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/hexagon-kit",
+   "path": "modern-urban/hexagon-kit"
+  },
+  {
+   "id": "modular-buildings",
+   "title": "Modular Buildings",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "house",
+    "modular",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-buildings",
+   "path": "modern-urban/modular-buildings"
+  },
+  {
+   "id": "retro-urban-kit",
+   "title": "Retro Urban Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "retro",
+    "urban"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/retro-urban-kit",
+   "path": "modern-urban/retro-urban-kit"
+  },
+  {
+   "id": "animated-characters-retro",
+   "title": "Animated Characters Retro",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "survival",
+    "survivor",
+    "zombie"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-retro",
+   "path": "nature/animated-characters-retro"
+  },
+  {
+   "id": "animated-characters-survivors",
+   "title": "Animated Characters Survivors",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "survival",
+    "survivor",
+    "zombie"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-survivors",
+   "path": "nature/animated-characters-survivors"
+  },
+  {
+   "id": "anthurium_botany_01",
+   "title": "Anthurium Botany 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "bush",
+    "leaf",
+    "shrub",
+    "leaves",
+    "forest",
+    "plant",
+    "green"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/anthurium_botany_01",
+   "path": "nature/anthurium_botany_01"
+  },
+  {
+   "id": "bark_debris_01",
+   "title": "Bark Debris 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "karoo",
+    "desert",
+    "dry",
+    "dead tree",
+    "stick"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Greg Zaal, Jenelle van Heerden",
+   "source_page": "https://polyhaven.com/a/bark_debris_01",
+   "path": "nature/bark_debris_01"
+  },
+  {
+   "id": "boulder_01",
+   "title": "Boulder 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "boulder",
+    "lichen",
+    "landscape",
+    "rock",
+    "geology",
+    "formation",
+    "weathered"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/boulder_01",
+   "path": "nature/boulder_01"
+  },
+  {
+   "id": "calathea_orbifolia_01",
+   "title": "Calathea Orbifolia 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "bush",
+    "leaf",
+    "shrub",
+    "green",
+    "leaves",
+    "forest",
+    "plant"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/calathea_orbifolia_01",
+   "path": "nature/calathea_orbifolia_01"
+  },
+  {
+   "id": "celandine_01",
+   "title": "Celandine 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "field",
+    "nature",
+    "green",
+    "shrub",
+    "plant",
+    "outdoor",
+    "leaf",
+    "botany"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/celandine_01",
+   "path": "nature/celandine_01"
+  },
+  {
+   "id": "cheiridopsis_succulent",
+   "title": "Cheiridopsis Succulent",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "karoo",
+    "desert",
+    "south africa",
+    "succulent",
+    "quartz",
+    "tiny",
+    "aloe",
+    "cactus"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / James Ray Cock, Jenelle van Heerden",
+   "source_page": "https://polyhaven.com/a/cheiridopsis_succulent",
+   "path": "nature/cheiridopsis_succulent"
+  },
+  {
+   "id": "coast_land_rocks_02",
+   "title": "Coast Land Rocks 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "coastal",
+    "landscape",
+    "formation",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_02",
+   "path": "nature/coast_land_rocks_02"
+  },
+  {
+   "id": "coast_land_rocks_03",
+   "title": "Coast Land Rocks 03",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "formation",
+    "coastal",
+    "landscape",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_03",
+   "path": "nature/coast_land_rocks_03"
+  },
+  {
+   "id": "coast_land_rocks_04",
+   "title": "Coast Land Rocks 04",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "landscape",
+    "rocks",
+    "shore",
+    "coastal",
+    "geology",
+    "shoreline",
+    "rock",
+    "stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_04",
+   "path": "nature/coast_land_rocks_04"
+  },
+  {
+   "id": "coast_line_01",
+   "title": "Coast Line 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "coast",
+    "shoreline",
+    "coastline",
+    "seaside",
+    "shore",
+    "coastal",
+    "geology",
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_line_01",
+   "path": "nature/coast_line_01"
+  },
+  {
+   "id": "coast_line_02",
+   "title": "Coast Line 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "landscape",
+    "rocks",
+    "coastal",
+    "rock",
+    "shoreline",
+    "shore",
+    "geology",
+    "stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_line_02",
+   "path": "nature/coast_line_02"
+  },
+  {
+   "id": "coast_rocks_01",
+   "title": "Coast Rocks 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "seaside",
+    "shore",
+    "coastal",
+    "stones",
+    "rock",
+    "landscape",
+    "geology"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_01",
+   "path": "nature/coast_rocks_01"
+  },
+  {
+   "id": "coast_rocks_02",
+   "title": "Coast Rocks 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "seaside",
+    "rocks",
+    "formation",
+    "landscape",
+    "shore",
+    "geology",
+    "coastal",
+    "shoreline"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_02",
+   "path": "nature/coast_rocks_02"
+  },
+  {
+   "id": "coast_rocks_03",
+   "title": "Coast Rocks 03",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "seaside",
+    "stones",
+    "formation",
+    "landscape",
+    "shore",
+    "rock",
+    "shoreline"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_03",
+   "path": "nature/coast_rocks_03"
+  },
+  {
+   "id": "holiday-kit",
+   "title": "Holiday Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "cabin",
+    "christmas",
+    "holiday",
+    "tree"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/holiday-kit",
+   "path": "nature/holiday-kit"
+  },
+  {
+   "id": "mini-forest",
+   "title": "Mini Forest",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "archer",
+    "base",
+    "forest",
+    "tent"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-forest",
+   "path": "nature/mini-forest"
+  },
+  {
+   "id": "modular-cave-kit",
+   "title": "Modular Cave Kit",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "cave",
+    "modular",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-cave-kit",
+   "path": "nature/modular-cave-kit"
+  },
+  {
+   "id": "nature-kit",
+   "title": "Nature Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "foliage",
+    "nature",
+    "rock",
+    "tree"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/nature-kit",
+   "path": "nature/nature-kit"
+  },
+  {
+   "id": "survival-kit",
+   "title": "Survival Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "survival"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/survival-kit",
+   "path": "nature/survival-kit"
+  },
+  {
+   "id": "Camera_01",
+   "title": "Camera 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "camera",
+    "antique",
+    "ornate",
+    "photography",
+    "photography",
+    "retro",
+    "lens"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rajil Jose Macatangay",
+   "source_page": "https://polyhaven.com/a/Camera_01",
+   "path": "props/Camera_01"
+  },
+  {
+   "id": "CheeseBox_01",
+   "title": "CheeseBox_01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "box",
+    "wood",
+    "storage",
+    "crate",
+    "wooden",
+    "vintage",
+    "farmhouse",
+    "aged"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Gabriel Radi\u0107",
+   "source_page": "https://polyhaven.com/a/CheeseBox_01",
+   "path": "props/CheeseBox_01"
+  },
+  {
+   "id": "Drill_01",
+   "title": "Drill 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "metal",
+    "plastic",
+    "tool",
+    "drill",
+    "prop"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/Drill_01",
+   "path": "props/Drill_01"
+  },
+  {
+   "id": "Lantern_01",
+   "title": "Lantern 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "prop",
+    "metal",
+    "glass",
+    "lantern",
+    "antique",
+    "vintage",
+    "hurricane",
+    "lamp"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rajil Jose Macatangay",
+   "source_page": "https://polyhaven.com/a/Lantern_01",
+   "path": "props/Lantern_01"
+  },
+  {
+   "id": "Megaphone_01",
+   "title": "Megaphone 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "plastic",
+    "megaphone",
+    "device",
+    "audio",
+    "amplifier",
+    "loudspeaker",
+    "announcement"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Ethan Simon-Law",
+   "source_page": "https://polyhaven.com/a/Megaphone_01",
+   "path": "props/Megaphone_01"
+  },
+  {
+   "id": "Television_01",
+   "title": "Television 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "prop",
+    "furniture",
+    "metal",
+    "wood",
+    "tv",
+    "television",
+    "video"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Gabriel Radi\u0107",
+   "source_page": "https://polyhaven.com/a/Television_01",
+   "path": "props/Television_01"
+  },
+  {
+   "id": "Ukulele_01",
+   "title": "Ukulele 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "instrument",
+    "wood",
+    "prop",
+    "guitar",
+    "ukulele",
+    "music"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joseph Burgan",
+   "source_page": "https://polyhaven.com/a/Ukulele_01",
+   "path": "props/Ukulele_01"
+  },
+  {
+   "id": "WetFloorSign_01",
+   "title": "Wet Floor Sign 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "prop",
+    "plastic",
+    "sign",
+    "safety",
+    "caution",
+    "warning",
+    "yellow",
+    "hazard"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fran Calvente",
+   "source_page": "https://polyhaven.com/a/WetFloorSign_01",
+   "path": "props/WetFloorSign_01"
+  },
+  {
+   "id": "adjustable_wrench",
+   "title": "Adjustable Wrench",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "worn",
+    "antique",
+    "aged",
+    "shed",
+    "garage",
+    "hand tool",
+    "rustic"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Mateusz Sadek",
+   "source_page": "https://polyhaven.com/a/adjustable_wrench",
+   "path": "props/adjustable_wrench"
+  },
+  {
+   "id": "alarm_clock_01",
+   "title": "Alarm Clock 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "clock",
+    "time",
+    "alarm",
+    "bedside",
+    "old",
+    "90s",
+    "watch",
+    "blue"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, James Ray Cock",
+   "source_page": "https://polyhaven.com/a/alarm_clock_01",
+   "path": "props/alarm_clock_01"
+  },
+  {
+   "id": "all_purpose_cleaner",
+   "title": "All Purpose Cleaner",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "shed",
+    "cleaning",
+    "home",
+    "garage",
+    "chemicals",
+    "household",
+    "janitorial",
+    "cleaning supplies"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kuutti Siitonen",
+   "source_page": "https://polyhaven.com/a/all_purpose_cleaner",
+   "path": "props/all_purpose_cleaner"
+  },
+  {
+   "id": "american_football",
+   "title": "American Football",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "game",
+    "sports",
+    "sport",
+    "toy",
+    "ball",
+    "soccer",
+    "football",
+    "american"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Riley Queen",
+   "source_page": "https://polyhaven.com/a/american_football",
+   "path": "props/american_football"
+  },
+  {
+   "id": "antique_estoc",
+   "title": "Antique Estoc",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "antique",
+    "vintage",
+    "old",
+    "sword",
+    "historic",
+    "traditional",
+    "ornamental",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / James Ray Cock, Ulan Cabanilla",
+   "source_page": "https://polyhaven.com/a/antique_estoc",
+   "path": "props/antique_estoc"
+  },
+  {
+   "id": "antique_katana_01",
+   "title": "Antique Katana 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "antique",
+    "ninja",
+    "katana",
+    "sword",
+    "sharp",
+    "blade",
+    "japanese",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Tal Swicegood",
+   "source_page": "https://polyhaven.com/a/antique_katana_01",
+   "path": "props/antique_katana_01"
+  },
+  {
+   "id": "Barrel_01",
+   "title": "Barrel_01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "barrel",
+    "oil",
+    "explosive",
+    "radioactive",
+    "metal",
+    "red barrel",
+    "oil barrel",
+    "drums"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jorge Camacho",
+   "source_page": "https://polyhaven.com/a/Barrel_01",
+   "path": "sci-fi/Barrel_01"
+  },
+  {
+   "id": "Barrel_02",
+   "title": "Barrel 02",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "barrel",
+    "water",
+    "plastic",
+    "garage",
+    "warehouse",
+    "industrial",
+    "storage",
+    "drums"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jorge Camacho",
+   "source_page": "https://polyhaven.com/a/Barrel_02",
+   "path": "sci-fi/Barrel_02"
+  },
+  {
+   "id": "ammo_box",
+   "title": "Ammo Box",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "old",
+    "vintage",
+    "antique",
+    "metal",
+    "rusted",
+    "army",
+    "military",
+    "box"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / DanKit",
+   "source_page": "https://polyhaven.com/a/ammo_box",
+   "path": "sci-fi/ammo_box"
+  },
+  {
+   "id": "barrel_03",
+   "title": "Barrel 03",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "industrial",
+    "barrel",
+    "oil",
+    "fuel",
+    "truck",
+    "painted",
+    "blue"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Serhii Khromov",
+   "source_page": "https://polyhaven.com/a/barrel_03",
+   "path": "sci-fi/barrel_03"
+  },
+  {
+   "id": "barrel_stove",
+   "title": "Barrel Stove",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "urban",
+    "city",
+    "night",
+    "fire",
+    "heating",
+    "outdoor",
+    "barrel"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / MP",
+   "source_page": "https://polyhaven.com/a/barrel_stove",
+   "path": "sci-fi/barrel_stove"
+  },
+  {
+   "id": "bench_vice_01",
+   "title": "Bench Vice 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "workshop",
+    "garage",
+    "used",
+    "metal",
+    "old",
+    "shed",
+    "woodwork"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, Antanas Kep",
+   "source_page": "https://polyhaven.com/a/bench_vice_01",
+   "path": "sci-fi/bench_vice_01"
+  },
+  {
+   "id": "bolt_cutters_01",
+   "title": "Bolt Cutters 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "metal",
+    "worn",
+    "used",
+    "large",
+    "workshop",
+    "shed",
+    "garage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, Antanas Kep",
+   "source_page": "https://polyhaven.com/a/bolt_cutters_01",
+   "path": "sci-fi/bolt_cutters_01"
+  },
+  {
+   "id": "cardboard_box_01",
+   "title": "Cardboard Box 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "warehouse",
+    "shed",
+    "storage",
+    "box",
+    "paper",
+    "worn",
+    "old",
+    "broken"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rahul Chaudhary",
+   "source_page": "https://polyhaven.com/a/cardboard_box_01",
+   "path": "sci-fi/cardboard_box_01"
+  },
+  {
+   "id": "chemistry_set",
+   "title": "Chemistry Set",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "laboratory",
+    "science",
+    "chemistry",
+    "glassware",
+    "equipment",
+    "testing",
+    "lab",
+    "retort stand"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Ji\u0159\u00ed Pt\u00e1\u010dek",
+   "source_page": "https://polyhaven.com/a/chemistry_set",
+   "path": "sci-fi/chemistry_set"
+  },
+  {
+   "id": "circuit_board",
+   "title": "Circuit Board",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "computer",
+    "components",
+    "chip",
+    "motherboard",
+    "pc hardware",
+    "connectors",
+    "wiring",
+    "power supply"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Benny Weimer",
+   "source_page": "https://polyhaven.com/a/circuit_board",
+   "path": "sci-fi/circuit_board"
+  },
+  {
+   "id": "classic_laptop",
+   "title": "Classic Laptop",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "old",
+    "vintage",
+    "beige",
+    "notebook",
+    "lcd",
+    "trackball"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Arrangemonk",
+   "source_page": "https://polyhaven.com/a/classic_laptop",
+   "path": "sci-fi/classic_laptop"
+  },
+  {
+   "id": "combination_wrench",
+   "title": "Combination Wrench",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "garage",
+    "workshop",
+    "construction",
+    "scratched"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / BKS",
+   "source_page": "https://polyhaven.com/a/combination_wrench",
+   "path": "sci-fi/combination_wrench"
+  },
+  {
+   "id": "concrete_road_barrier",
+   "title": "Concrete Road Barrier",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "road barrier",
+    "traffic barrier",
+    "safety barrier",
+    "wall",
+    "road",
+    "road block",
+    "blockade",
+    "partition"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Amal Kumar",
+   "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+   "path": "sci-fi/concrete_road_barrier"
+  },
+  {
+   "id": "concrete_road_barrier_02",
+   "title": "Concrete Road Barrier 02",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "road barrier",
+    "traffic barrier",
+    "safety barrier",
+    "wall",
+    "road",
+    "road block",
+    "blockade"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Amal Kumar",
+   "source_page": "https://polyhaven.com/a/concrete_road_barrier_02",
+   "path": "sci-fi/concrete_road_barrier_02"
+  },
+  {
+   "id": "modular-space-kit",
+   "title": "Modular Space Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "modular",
+    "sci-fi",
+    "space",
+    "station",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-space-kit",
+   "path": "sci-fi/modular-space-kit"
+  },
+  {
+   "id": "space-kit",
+   "title": "Space Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi",
+    "vehicles"
+   ],
+   "tags": [
+    "planet",
+    "ship",
+    "space"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/space-kit",
+   "path": "sci-fi/space-kit"
+  },
+  {
+   "id": "space-station-kit",
+   "title": "Space Station Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "interior",
+    "sci-fi",
+    "space",
+    "station"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/space-station-kit",
+   "path": "sci-fi/space-station-kit"
+  },
+  {
+   "id": "platformer-kit",
+   "title": "Platformer Kit",
+   "genre": "tiles-terrain",
+   "genres": [
+    "tiles-terrain"
+   ],
+   "tags": [
+    "level",
+    "oopi",
+    "platformer"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/platformer-kit",
+   "path": "tiles-terrain/platformer-kit"
+  },
+  {
+   "id": "car-kit",
+   "title": "Car Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "car",
+    "oopi",
+    "transportation",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/car-kit",
+   "path": "vehicles/car-kit"
+  },
+  {
+   "id": "coaster-kit",
+   "title": "Coaster Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "attraction",
+    "coaster",
+    "ride",
+    "rollercoaster",
+    "theme park",
+    "track"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/coaster-kit",
+   "path": "vehicles/coaster-kit"
+  },
+  {
+   "id": "marble-kit",
+   "title": "Marble Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "marble",
+    "track"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/marble-kit",
+   "path": "vehicles/marble-kit"
+  },
+  {
+   "id": "prototype-kit",
+   "title": "Prototype Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles",
+    "modern-urban",
+    "characters"
+   ],
+   "tags": [
+    "animal",
+    "building",
+    "character",
+    "prototype",
+    "vehicle",
+    "wall",
+    "wheelchair"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/prototype-kit",
+   "path": "vehicles/prototype-kit"
+  },
+  {
+   "id": "racing-kit",
+   "title": "Racing Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "car",
+    "racing",
+    "tile",
+    "track",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/racing-kit",
+   "path": "vehicles/racing-kit"
+  },
+  {
+   "id": "toy-car-kit",
+   "title": "Toy Car Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "car",
+    "toy",
+    "track",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/toy-car-kit",
+   "path": "vehicles/toy-car-kit"
+  },
+  {
+   "id": "train-kit",
+   "title": "Train Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "rail",
+    "railroad",
+    "track",
+    "train",
+    "tram",
+    "trolley"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/train-kit",
+   "path": "vehicles/train-kit"
+  },
+  {
+   "id": "watercraft-kit",
+   "title": "Watercraft Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "boat",
+    "ship",
+    "vehicle",
+    "watercraft"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/watercraft-kit",
+   "path": "vehicles/watercraft-kit"
+  }
+ ]
+}
