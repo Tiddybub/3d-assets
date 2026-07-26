@@ -1,0 +1,313 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.1.20",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "adjustable_wrench_jaw"
+    },
+    {
+      "mesh": 1,
+      "name": "adjustable_wrench_nut"
+    },
+    {
+      "mesh": 2,
+      "name": "adjustable_wrench"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "adjustable_wrench",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube.010",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cylinder.009",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cube.008",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/jpeg",
+      "name": "adjustable_wrench_nor_gl",
+      "uri": "textures/adjustable_wrench_nor_gl_1k.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "adjustable_wrench_diff",
+      "uri": "textures/adjustable_wrench_diff_1k.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "adjustable_wrench_metal-adjustable_wrench_rough",
+      "uri": "textures/adjustable_wrench_arm_1k.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2014,
+      "max": [
+        0.011778129264712334,
+        0.20545992255210876,
+        0.008471561595797539
+      ],
+      "min": [
+        -0.04094117507338524,
+        0.08822223544120789,
+        -0.008473388850688934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2014,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2014,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 5670,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        -0.016424231231212616,
+        0.15429465472698212,
+        0.014654966071248055
+      ],
+      "min": [
+        -0.04578409343957901,
+        0.137978196144104,
+        -0.01470489613711834
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 768,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 2703,
+      "max": [
+        0.015671877190470695,
+        0.18641901016235352,
+        0.015294257551431656
+      ],
+      "min": [
+        -0.052672307938337326,
+        -0.04867038130760193,
+        -0.0152960866689682
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 2703,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 2703,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 9732,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 24168,
+      "byteOffset": 0,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24168,
+      "byteOffset": 24168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16112,
+      "byteOffset": 48336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11340,
+      "byteOffset": 64448,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 75788,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 78140,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1568,
+      "byteOffset": 80492,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1536,
+      "byteOffset": 82060,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32436,
+      "byteOffset": 83596,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32436,
+      "byteOffset": 116032,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21624,
+      "byteOffset": 148468,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19464,
+      "byteOffset": 170092,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 189556,
+      "uri": "adjustable_wrench.bin"
+    }
+  ]
+}
