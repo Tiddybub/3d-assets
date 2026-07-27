@@ -34,6 +34,9 @@ and used on its own.
 | [`web-scraper-to-csv/`](programs/web-scraper-to-csv/) | Config-driven, robots-respecting scraper → CSV/JSON/JSONL | none (stdlib) |
 | [`bulk-image-processor/`](programs/bulk-image-processor/) | Batch resize / convert / watermark / optimise with a CSV manifest | Pillow |
 
+[`portfolio/`](portfolio/) holds gig copy and portfolio images for these
+programs, generated from their real output.
+
 ## Index
 
 ### characters
