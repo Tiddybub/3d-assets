@@ -1,6 +1,6 @@
 # 3d-assets
 
-A curated, ready-to-use library of **178 free asset packs** - 3D models, PBR materials and HDRIs.
+A curated, ready-to-use library of **189 free asset packs** - 3D models, 2D sprites and tilesets, PBR materials and HDRIs.
 
 **Every asset here is CC0 (public domain equivalent):** free for commercial use, no attribution required, no license tracking needed. Nothing in this repo has usage restrictions.
 
@@ -10,6 +10,7 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 | Genre | Packs | What is in it |
 |---|---|---|
+| [`2d/`](2d/) | 11 | sprite sheets, tilesets, UI, board game and puzzle art |
 | [`characters/`](characters/) | 5 | player sprites, enemies, animals, NPCs |
 | [`fantasy/`](fantasy/) | 7 | RPG, medieval, dungeon, roguelike, pirate |
 | [`hdri/`](hdri/) | 16 | HDR environment maps for lighting and skyboxes |
@@ -23,6 +24,20 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 | [`vehicles/`](vehicles/) | 8 | cars, tanks, ships, planes, racing |
 
 ## Index
+
+### 2d
+
+- [`platformer-pack/`](2d/platformer-pack/) - **Platformer Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20%281330%20assets%29)) - platformer, sidescroller, tiles, character, sprites
+- [`pixel-platformer-pack/`](2d/pixel-platformer-pack/) - **Pixel Platformer Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20pixel%20%28900%20assets%29)) - pixel art, platformer, tiles, retro, sprites
+- [`space-shooter-pack/`](2d/space-shooter-pack/) - **Space Shooter Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Space%20shooter%20assets%20%28300%20assets%29)) - space, shooter, sci-fi, ship, sprites
+- [`rpg-pack/`](2d/rpg-pack/) - **RPG Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/RPG%20pack%20%28230%20assets%29)) - rpg, fantasy, top-down, dungeon, tiles
+- [`ui-pack/`](2d/ui-pack/) - **UI Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/UI%20pack%20%28220%20assets%29)) - ui, interface, buttons, hud
+- [`hexagon-pack/`](2d/hexagon-pack/) - **Hexagon Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Hexagon%20assets%20%28170%20assets%29)) - hex, tiles, strategy, terrain
+- [`isometric-roads-pack/`](2d/isometric-roads-pack/) - **Isometric Roads Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Isometric%20road%20assets%20%28140%20assets%29)) - isometric, road, city, tiles
+- [`onscreen-controls/`](2d/onscreen-controls/) - **Onscreen Controls** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Onscreen%20controls%20%28400%20assets%29)) - ui, touch, mobile, controls, buttons
+- [`puzzle-pack/`](2d/puzzle-pack/) - **Puzzle Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Puzzle%20assets%20%2880%20assets%29)) - puzzle, match-3, casual, sprites
+- [`boardgame-pack/`](2d/boardgame-pack/) - **Boardgame Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Boardgame%20pack%20%28480%20assets%29)) - boardgame, cards, dice, chess, tokens
+- [`tappy-plane/`](2d/tappy-plane/) - **Tappy Plane** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Tappy%20Plane%20%2880%20assets%29)) - plane, flappy, arcade, sidescroller
 
 ### characters
 
@@ -240,10 +255,11 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 - [Kenney](https://kenney.nl) - CC0
 - [Poly Haven](https://polyhaven.com) - CC0
 - [ambientCG](https://ambientcg.com) - CC0
+- [Kenney Asset Pack 1](https://github.com/iwenzhou/kenney) - CC0 (2D packs, mirror of the original Kenney release)
 
 ## Safety
 
-Every archive was scanned before extraction: path-traversal entries, zip bombs and all executable/script file types (`.exe`, `.dll`, `.bat`, `.ps1`, `.js`, `.vbs`, ...) are rejected or stripped. Only art, model, audio and text files are committed. Poly Haven downloads are additionally verified against the publisher's MD5 checksums.
+Every archive was scanned before extraction: path-traversal entries, zip bombs and all executable/script file types (`.exe`, `.dll`, `.bat`, `.ps1`, `.js`, `.vbs`, ...) are rejected or stripped. Only art, model, audio and text files are committed; the 2D packs additionally had their legacy Flash (`.swf`) sources and `Thumbs.db` files stripped. Poly Haven downloads are additionally verified against the publisher's MD5 checksums.
 
 ---
 
