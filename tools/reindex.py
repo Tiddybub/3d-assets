@@ -51,8 +51,13 @@ THEMES = [
     ("Fantasy / RPG", "fantasy"),
     ("Sci-fi / space", "sci-fi"),
     ("Shooter", "shooter"),
-    ("Horror / post-apocalyptic", "horror"),
+    ("Weapons", "weapons"),
+    ("Horror", "horror"),
+    ("Post-apocalyptic", "post-apocalyptic"),
     ("Western", "western"),
+    ("Platformer", "platformer"),
+    ("Racing", "racing"),
+    ("Puzzle / casual", "puzzle"),
 ]
 
 
@@ -65,8 +70,9 @@ def load_new(paths):
 
 
 def theme_match(asset, theme):
-    hay = " ".join(asset["genres"] + asset["tags"]).lower()
-    return theme in hay
+    """Match the curated `genres` field only - tags are free text and produce
+    false positives (a "sci-fi" tag on a wrench, a "monster" tag on a pet)."""
+    return theme in asset["genres"]
 
 
 def main(new_paths):
@@ -104,13 +110,16 @@ def main(new_paths):
             g, counts[g], GENRE_BLURB.get(g, "")))
 
     lines.append("\n## Build a game with these\n\n")
-    lines.append("Packs grouped by the themes they suit. Many packs ship a packed "
-                 "sprite sheet next to the individual frames.\n\n")
+    lines.append("Every pack carries a `genres` list (what it depicts) and a `type` "
+                 "(2d, 3d, audio, music, font, material, hdri). Filter on those, not on "
+                 "the folder - the 2D fantasy packs live in `2d/`, not `fantasy/`. Full "
+                 "lookup: [`index/by-genre.json`](index/by-genre.json).\n\n")
     for label, theme in THEMES:
         hits = [a for a in assets if theme_match(a, theme)]
         lines.append("- **{}** ({} packs): {}\n".format(
             label, len(hits),
-            ", ".join("[`{}`]({})".format(a["id"], a["path"]) for a in hits)))
+            ", ".join("[`{}`]({}) `{}`".format(a["id"], a["path"], a.get("type", "3d"))
+                      for a in hits)))
     lines.append("\n" + CLONING + "\n## Index\n\n")
 
     for g in genres:

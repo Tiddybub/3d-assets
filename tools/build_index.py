@@ -168,6 +168,14 @@ def main():
         if entry["id"] in per_pack_seconds:
             entry["audio_seconds"] = per_pack_seconds[entry["id"]]
 
+    by_genre, by_type = {}, {}
+    for entry in packs:
+        for g in entry["genres"]:
+            by_genre.setdefault(g, []).append(entry["id"])
+        by_type.setdefault(entry.get("type", "3d"), []).append(entry["id"])
+    by_genre = {g: sorted(v) for g, v in sorted(by_genre.items())}
+    by_type = {t: sorted(v) for t, v in sorted(by_type.items())}
+
     os.makedirs(OUT, exist_ok=True)
     manifests = {
         "packs.json": {
@@ -182,6 +190,13 @@ def main():
                     "null means the sheet is a uniform grid you slice yourself.",
             "count": len(all_sheets),
             "sheets": sorted(all_sheets, key=lambda s: s["sheet"]),
+        },
+        "by-genre.json": {
+            "note": "genre -> pack ids. `genres` is the theme axis (what a pack "
+                    "depicts) and is the field to filter on; `type` is the format "
+                    "axis. A pack appears under every genre it matches.",
+            "genres": by_genre,
+            "types": by_type,
         },
         "audio.json": {
             "note": "Every sound effect and music file, with duration in seconds.",

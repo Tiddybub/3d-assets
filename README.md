@@ -23,20 +23,25 @@ Building something with these? **[AGENTS.md](AGENTS.md)** is the entry point for
 | [`modern-urban/`](modern-urban/) | 26 | city, town, buildings, roads, furniture |
 | [`music/`](music/) | 6 | background music tracks by mood (OGG) |
 | [`nature/`](nature/) | 21 | trees, terrain, rocks, farm, landscape |
-| [`props/`](props/) | 14 | general-purpose scene props |
-| [`sci-fi/`](sci-fi/) | 17 | space, alien, robot, industrial, futuristic |
+| [`props/`](props/) | 28 | general-purpose scene props |
+| [`sci-fi/`](sci-fi/) | 3 | space, alien, robot, industrial, futuristic |
 | [`tiles-terrain/`](tiles-terrain/) | 1 | tilesets, platformer kits, isometric, hex |
 | [`vehicles/`](vehicles/) | 9 | cars, tanks, ships, planes, racing |
 
 ## Build a game with these
 
-Packs grouped by the themes they suit. Many packs ship a packed sprite sheet next to the individual frames.
+Every pack carries a `genres` list (what it depicts) and a `type` (2d, 3d, audio, music, font, material, hdri). Filter on those, not on the folder - the 2D fantasy packs live in `2d/`, not `fantasy/`. Full lookup: [`index/by-genre.json`](index/by-genre.json).
 
-- **Fantasy / RPG** (14 packs): [`rpg-battle-system`](2d/rpg-battle-system), [`ninja-adventure-pack`](2d/ninja-adventure-pack), [`medieval-fantasy-pack`](2d/medieval-fantasy-pack), [`rpg-pack`](2d/rpg-pack), [`rpg-sounds`](audio/rpg-sounds), [`superpowers-3d-warriors`](characters/superpowers-3d-warriors), [`castle-kit`](fantasy/castle-kit), [`fantasy-town-kit`](fantasy/fantasy-town-kit), [`mini-dungeon`](fantasy/mini-dungeon), [`modular-dungeon-kit`](fantasy/modular-dungeon-kit), [`pirate-kit`](fantasy/pirate-kit), [`retro-fantasy-kit`](fantasy/retro-fantasy-kit), [`tower-defense-kit`](fantasy/tower-defense-kit), [`fantasy-music`](music/fantasy-music)
-- **Sci-fi / space** (22 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`digital-sounds`](audio/digital-sounds), [`sci-fi-music`](music/sci-fi-music), [`Barrel_01`](sci-fi/Barrel_01), [`Barrel_02`](sci-fi/Barrel_02), [`ammo_box`](sci-fi/ammo_box), [`barrel_03`](sci-fi/barrel_03), [`barrel_stove`](sci-fi/barrel_stove), [`bench_vice_01`](sci-fi/bench_vice_01), [`bolt_cutters_01`](sci-fi/bolt_cutters_01), [`cardboard_box_01`](sci-fi/cardboard_box_01), [`chemistry_set`](sci-fi/chemistry_set), [`circuit_board`](sci-fi/circuit_board), [`classic_laptop`](sci-fi/classic_laptop), [`combination_wrench`](sci-fi/combination_wrench), [`concrete_road_barrier`](sci-fi/concrete_road_barrier), [`concrete_road_barrier_02`](sci-fi/concrete_road_barrier_02), [`modular-space-kit`](sci-fi/modular-space-kit), [`space-kit`](sci-fi/space-kit), [`space-station-kit`](sci-fi/space-station-kit)
-- **Shooter** (6 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites), [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`action-music`](music/action-music)
-- **Horror / post-apocalyptic** (2 packs): [`graveyard-kit`](characters/graveyard-kit), [`horror-music`](music/horror-music)
-- **Western** (2 packs): [`western-fps-pack`](2d/western-fps-pack), [`western-music`](music/western-music)
+- **Fantasy / RPG** (16 packs): [`rpg-battle-system`](2d/rpg-battle-system) `2d`, [`ninja-adventure-pack`](2d/ninja-adventure-pack) `2d`, [`medieval-fantasy-pack`](2d/medieval-fantasy-pack) `2d`, [`rpg-pack`](2d/rpg-pack) `2d`, [`rpg-sounds`](audio/rpg-sounds) `audio`, [`superpowers-3d-warriors`](characters/superpowers-3d-warriors) `3d`, [`castle-kit`](fantasy/castle-kit) `3d`, [`fantasy-town-kit`](fantasy/fantasy-town-kit) `3d`, [`mini-dungeon`](fantasy/mini-dungeon) `3d`, [`modular-dungeon-kit`](fantasy/modular-dungeon-kit) `3d`, [`pirate-kit`](fantasy/pirate-kit) `3d`, [`retro-fantasy-kit`](fantasy/retro-fantasy-kit) `3d`, [`tower-defense-kit`](fantasy/tower-defense-kit) `3d`, [`fantasy-music`](music/fantasy-music) `music`, [`antique_estoc`](props/antique_estoc) `3d`, [`antique_katana_01`](props/antique_katana_01) `3d`
+- **Sci-fi / space** (9 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack) `2d`, [`space-shooter-sprites`](2d/space-shooter-sprites) `2d`, [`space-shooter-pack`](2d/space-shooter-pack) `2d`, [`digital-sounds`](audio/digital-sounds) `audio`, [`animated-characters-protagonists`](characters/animated-characters-protagonists) `3d`, [`sci-fi-music`](music/sci-fi-music) `music`, [`modular-space-kit`](sci-fi/modular-space-kit) `3d`, [`space-kit`](sci-fi/space-kit) `3d`, [`space-station-kit`](sci-fi/space-station-kit) `3d`
+- **Shooter** (8 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites) `2d`, [`western-fps-pack`](2d/western-fps-pack) `2d`, [`top-down-shooter-pack`](2d/top-down-shooter-pack) `2d`, [`space-shooter-sprites`](2d/space-shooter-sprites) `2d`, [`space-shooter-pack`](2d/space-shooter-pack) `2d`, [`blaster-kit`](misc/blaster-kit) `3d`, [`action-music`](music/action-music) `music`, [`ammo_box`](props/ammo_box) `3d`
+- **Weapons** (6 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites) `2d`, [`western-fps-pack`](2d/western-fps-pack) `2d`, [`top-down-shooter-pack`](2d/top-down-shooter-pack) `2d`, [`action-music`](music/action-music) `music`, [`antique_estoc`](props/antique_estoc) `3d`, [`antique_katana_01`](props/antique_katana_01) `3d`
+- **Horror** (4 packs): [`graveyard-kit`](characters/graveyard-kit) `3d`, [`horror-music`](music/horror-music) `music`, [`animated-characters-retro`](nature/animated-characters-retro) `3d`, [`animated-characters-survivors`](nature/animated-characters-survivors) `3d`
+- **Post-apocalyptic** (2 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites) `2d`, [`horror-music`](music/horror-music) `music`
+- **Western** (2 packs): [`western-fps-pack`](2d/western-fps-pack) `2d`, [`western-music`](music/western-music) `music`
+- **Platformer** (6 packs): [`prehistoric-platformer-pack`](2d/prehistoric-platformer-pack) `2d`, [`platformer-bricks`](2d/platformer-bricks) `2d`, [`platformer-pack`](2d/platformer-pack) `2d`, [`pixel-platformer-pack`](2d/pixel-platformer-pack) `2d`, [`tappy-plane`](2d/tappy-plane) `2d`, [`platformer-kit`](tiles-terrain/platformer-kit) `3d`
+- **Racing** (5 packs): [`road-textures`](2d/road-textures) `2d`, [`coaster-kit`](vehicles/coaster-kit) `3d`, [`racing-kit`](vehicles/racing-kit) `3d`, [`toy-car-kit`](vehicles/toy-car-kit) `3d`, [`train-kit`](vehicles/train-kit) `3d`
+- **Puzzle / casual** (6 packs): [`puzzle-pack`](2d/puzzle-pack) `2d`, [`boardgame-pack`](2d/boardgame-pack) `2d`, [`tappy-plane`](2d/tappy-plane) `2d`, [`casino-sounds`](audio/casino-sounds) `audio`, [`mini-arcade`](misc/mini-arcade) `3d`, [`marble-kit`](vehicles/marble-kit) `3d`
 
 ## Cloning
 
@@ -285,23 +290,23 @@ git checkout
 - [`american_football/`](props/american_football/) - **American Football** ([source](https://polyhaven.com/a/american_football)) - game, sports, sport, toy, ball, soccer, football, american
 - [`antique_estoc/`](props/antique_estoc/) - **Antique Estoc** ([source](https://polyhaven.com/a/antique_estoc)) - antique, vintage, old, sword, historic, traditional, ornamental, weapon
 - [`antique_katana_01/`](props/antique_katana_01/) - **Antique Katana 01** ([source](https://polyhaven.com/a/antique_katana_01)) - antique, ninja, katana, sword, sharp, blade, japanese, weapon
+- [`Barrel_01/`](props/Barrel_01/) - **Barrel_01** ([source](https://polyhaven.com/a/Barrel_01)) - barrel, oil, explosive, radioactive, metal, red barrel, oil barrel, drums
+- [`Barrel_02/`](props/Barrel_02/) - **Barrel 02** ([source](https://polyhaven.com/a/Barrel_02)) - barrel, water, plastic, garage, warehouse, industrial, storage, drums
+- [`ammo_box/`](props/ammo_box/) - **Ammo Box** ([source](https://polyhaven.com/a/ammo_box)) - old, vintage, antique, metal, rusted, army, military, box
+- [`barrel_03/`](props/barrel_03/) - **Barrel 03** ([source](https://polyhaven.com/a/barrel_03)) - industrial, barrel, oil, fuel, truck, painted, blue
+- [`barrel_stove/`](props/barrel_stove/) - **Barrel Stove** ([source](https://polyhaven.com/a/barrel_stove)) - urban, city, night, fire, heating, outdoor, barrel
+- [`bench_vice_01/`](props/bench_vice_01/) - **Bench Vice 01** ([source](https://polyhaven.com/a/bench_vice_01)) - workshop, garage, used, metal, old, shed, woodwork
+- [`bolt_cutters_01/`](props/bolt_cutters_01/) - **Bolt Cutters 01** ([source](https://polyhaven.com/a/bolt_cutters_01)) - metal, worn, used, large, workshop, shed, garage
+- [`cardboard_box_01/`](props/cardboard_box_01/) - **Cardboard Box 01** ([source](https://polyhaven.com/a/cardboard_box_01)) - warehouse, shed, storage, box, paper, worn, old, broken
+- [`chemistry_set/`](props/chemistry_set/) - **Chemistry Set** ([source](https://polyhaven.com/a/chemistry_set)) - laboratory, science, chemistry, glassware, equipment, testing, lab, retort stand
+- [`circuit_board/`](props/circuit_board/) - **Circuit Board** ([source](https://polyhaven.com/a/circuit_board)) - computer, components, chip, motherboard, pc hardware, connectors, wiring, power supply
+- [`classic_laptop/`](props/classic_laptop/) - **Classic Laptop** ([source](https://polyhaven.com/a/classic_laptop)) - old, vintage, beige, notebook, lcd, trackball
+- [`combination_wrench/`](props/combination_wrench/) - **Combination Wrench** ([source](https://polyhaven.com/a/combination_wrench)) - garage, workshop, construction, scratched
+- [`concrete_road_barrier/`](props/concrete_road_barrier/) - **Concrete Road Barrier** ([source](https://polyhaven.com/a/concrete_road_barrier)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade, partition
+- [`concrete_road_barrier_02/`](props/concrete_road_barrier_02/) - **Concrete Road Barrier 02** ([source](https://polyhaven.com/a/concrete_road_barrier_02)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade
 
 ### sci-fi
 
-- [`Barrel_01/`](sci-fi/Barrel_01/) - **Barrel_01** ([source](https://polyhaven.com/a/Barrel_01)) - barrel, oil, explosive, radioactive, metal, red barrel, oil barrel, drums
-- [`Barrel_02/`](sci-fi/Barrel_02/) - **Barrel 02** ([source](https://polyhaven.com/a/Barrel_02)) - barrel, water, plastic, garage, warehouse, industrial, storage, drums
-- [`ammo_box/`](sci-fi/ammo_box/) - **Ammo Box** ([source](https://polyhaven.com/a/ammo_box)) - old, vintage, antique, metal, rusted, army, military, box
-- [`barrel_03/`](sci-fi/barrel_03/) - **Barrel 03** ([source](https://polyhaven.com/a/barrel_03)) - industrial, barrel, oil, fuel, truck, painted, blue
-- [`barrel_stove/`](sci-fi/barrel_stove/) - **Barrel Stove** ([source](https://polyhaven.com/a/barrel_stove)) - urban, city, night, fire, heating, outdoor, barrel
-- [`bench_vice_01/`](sci-fi/bench_vice_01/) - **Bench Vice 01** ([source](https://polyhaven.com/a/bench_vice_01)) - workshop, garage, used, metal, old, shed, woodwork
-- [`bolt_cutters_01/`](sci-fi/bolt_cutters_01/) - **Bolt Cutters 01** ([source](https://polyhaven.com/a/bolt_cutters_01)) - metal, worn, used, large, workshop, shed, garage
-- [`cardboard_box_01/`](sci-fi/cardboard_box_01/) - **Cardboard Box 01** ([source](https://polyhaven.com/a/cardboard_box_01)) - warehouse, shed, storage, box, paper, worn, old, broken
-- [`chemistry_set/`](sci-fi/chemistry_set/) - **Chemistry Set** ([source](https://polyhaven.com/a/chemistry_set)) - laboratory, science, chemistry, glassware, equipment, testing, lab, retort stand
-- [`circuit_board/`](sci-fi/circuit_board/) - **Circuit Board** ([source](https://polyhaven.com/a/circuit_board)) - computer, components, chip, motherboard, pc hardware, connectors, wiring, power supply
-- [`classic_laptop/`](sci-fi/classic_laptop/) - **Classic Laptop** ([source](https://polyhaven.com/a/classic_laptop)) - old, vintage, beige, notebook, lcd, trackball
-- [`combination_wrench/`](sci-fi/combination_wrench/) - **Combination Wrench** ([source](https://polyhaven.com/a/combination_wrench)) - garage, workshop, construction, scratched
-- [`concrete_road_barrier/`](sci-fi/concrete_road_barrier/) - **Concrete Road Barrier** ([source](https://polyhaven.com/a/concrete_road_barrier)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade, partition
-- [`concrete_road_barrier_02/`](sci-fi/concrete_road_barrier_02/) - **Concrete Road Barrier 02** ([source](https://polyhaven.com/a/concrete_road_barrier_02)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade
 - [`modular-space-kit/`](sci-fi/modular-space-kit/) - **Modular Space Kit** ([source](https://kenney.nl/assets/modular-space-kit)) - modular, sci-fi, space, station, tiles
 - [`space-kit/`](sci-fi/space-kit/) - **Space Kit** ([source](https://kenney.nl/assets/space-kit)) - planet, ship, space
 - [`space-station-kit/`](sci-fi/space-station-kit/) - **Space Station Kit** ([source](https://kenney.nl/assets/space-station-kit)) - interior, sci-fi, space, station

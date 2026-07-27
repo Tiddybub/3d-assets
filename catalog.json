@@ -7,8 +7,9 @@
    "title": "Post Apocalyptic Sprites",
    "genre": "2d",
    "genres": [
-    "2d",
-    "shooter"
+    "post-apocalyptic",
+    "shooter",
+    "weapons"
    ],
    "tags": [
     "post-apocalyptic",
@@ -21,14 +22,16 @@
    "license": "CC0-1.0",
    "credit": "Project Cordon",
    "source_page": "https://github.com/doficia/project-cordon-sprites",
-   "path": "2d/post-apocalyptic-sprites"
+   "path": "2d/post-apocalyptic-sprites",
+   "type": "2d"
   },
   {
    "id": "parallax-backgrounds",
    "title": "Parallax Backgrounds",
    "genre": "2d",
    "genres": [
-    "2d"
+    "nature",
+    "urban"
    ],
    "tags": [
     "background",
@@ -39,14 +42,16 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds",
-   "path": "2d/parallax-backgrounds"
+   "path": "2d/parallax-backgrounds",
+   "type": "2d"
   },
   {
    "id": "prehistoric-platformer-pack",
    "title": "Prehistoric Platformer Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "platformer",
+    "prehistoric"
    ],
    "tags": [
     "platformer",
@@ -58,14 +63,17 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer",
-   "path": "2d/prehistoric-platformer-pack"
+   "path": "2d/prehistoric-platformer-pack",
+   "type": "2d"
   },
   {
    "id": "western-fps-pack",
    "title": "Western FPS Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "shooter",
+    "weapons",
+    "western"
    ],
    "tags": [
     "shooter",
@@ -77,15 +85,17 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d",
-   "path": "2d/western-fps-pack"
+   "path": "2d/western-fps-pack",
+   "type": "2d"
   },
   {
    "id": "top-down-shooter-pack",
    "title": "Top Down Shooter Pack",
    "genre": "2d",
    "genres": [
-    "2d",
-    "sci-fi"
+    "sci-fi",
+    "shooter",
+    "weapons"
    ],
    "tags": [
     "shooter",
@@ -97,15 +107,16 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter",
-   "path": "2d/top-down-shooter-pack"
+   "path": "2d/top-down-shooter-pack",
+   "type": "2d"
   },
   {
    "id": "space-shooter-sprites",
    "title": "Space Shooter Sprites",
    "genre": "2d",
    "genres": [
-    "2d",
-    "sci-fi"
+    "sci-fi",
+    "shooter"
    ],
    "tags": [
     "sci-fi",
@@ -118,14 +129,14 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/space-shooter",
-   "path": "2d/space-shooter-sprites"
+   "path": "2d/space-shooter-sprites",
+   "type": "2d"
   },
   {
    "id": "rpg-battle-system",
    "title": "RPG Battle System",
    "genre": "2d",
    "genres": [
-    "2d",
     "fantasy"
    ],
    "tags": [
@@ -139,14 +150,14 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/rpg-battle-system",
-   "path": "2d/rpg-battle-system"
+   "path": "2d/rpg-battle-system",
+   "type": "2d"
   },
   {
    "id": "ninja-adventure-pack",
    "title": "Ninja Adventure Pack",
    "genre": "2d",
    "genres": [
-    "2d",
     "fantasy"
    ],
    "tags": [
@@ -160,14 +171,14 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure",
-   "path": "2d/ninja-adventure-pack"
+   "path": "2d/ninja-adventure-pack",
+   "type": "2d"
   },
   {
    "id": "medieval-fantasy-pack",
    "title": "Medieval Fantasy Pack",
    "genre": "2d",
    "genres": [
-    "2d",
     "fantasy"
    ],
    "tags": [
@@ -181,14 +192,15 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy",
-   "path": "2d/medieval-fantasy-pack"
+   "path": "2d/medieval-fantasy-pack",
+   "type": "2d"
   },
   {
    "id": "smilies",
    "title": "Smilies",
    "genre": "2d",
    "genres": [
-    "2d"
+    "ui"
    ],
    "tags": [
     "ui",
@@ -199,14 +211,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Smilies%20%2825%20assets%29",
-   "path": "2d/smilies"
+   "path": "2d/smilies",
+   "type": "2d"
   },
   {
    "id": "medals",
    "title": "Medals",
    "genre": "2d",
    "genres": [
-    "2d"
+    "ui"
    ],
    "tags": [
     "ui",
@@ -217,14 +230,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Medals%20%2830%20assets%29",
-   "path": "2d/medals"
+   "path": "2d/medals",
+   "type": "2d"
   },
   {
    "id": "road-textures",
    "title": "Road Textures",
    "genre": "2d",
    "genres": [
-    "2d"
+    "racing",
+    "urban",
+    "tiles"
    ],
    "tags": [
     "road",
@@ -235,14 +251,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Road%20textures%20%2880%20assets%29",
-   "path": "2d/road-textures"
+   "path": "2d/road-textures",
+   "type": "2d"
   },
   {
    "id": "platformer-bricks",
    "title": "Platformer Bricks",
    "genre": "2d",
    "genres": [
-    "2d"
+    "platformer",
+    "tiles"
    ],
    "tags": [
     "platformer",
@@ -253,14 +271,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20bricks%20%28150%20assets%29",
-   "path": "2d/platformer-bricks"
+   "path": "2d/platformer-bricks",
+   "type": "2d"
   },
   {
    "id": "platformer-pack",
    "title": "Platformer Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "characters",
+    "platformer",
+    "tiles"
    ],
    "tags": [
     "platformer",
@@ -272,14 +293,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20%281330%20assets%29",
-   "path": "2d/platformer-pack"
+   "path": "2d/platformer-pack",
+   "type": "2d"
   },
   {
    "id": "pixel-platformer-pack",
    "title": "Pixel Platformer Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "platformer",
+    "tiles"
    ],
    "tags": [
     "pixel art",
@@ -291,14 +314,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20pixel%20%28900%20assets%29",
-   "path": "2d/pixel-platformer-pack"
+   "path": "2d/pixel-platformer-pack",
+   "type": "2d"
   },
   {
    "id": "space-shooter-pack",
    "title": "Space Shooter Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "sci-fi",
+    "shooter",
+    "vehicles"
    ],
    "tags": [
     "space",
@@ -310,14 +336,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Space%20shooter%20assets%20%28300%20assets%29",
-   "path": "2d/space-shooter-pack"
+   "path": "2d/space-shooter-pack",
+   "type": "2d"
   },
   {
    "id": "rpg-pack",
    "title": "RPG Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "fantasy",
+    "tiles"
    ],
    "tags": [
     "rpg",
@@ -329,14 +357,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/RPG%20pack%20%28230%20assets%29",
-   "path": "2d/rpg-pack"
+   "path": "2d/rpg-pack",
+   "type": "2d"
   },
   {
    "id": "ui-pack",
    "title": "UI Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "ui"
    ],
    "tags": [
     "ui",
@@ -347,14 +376,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/UI%20pack%20%28220%20assets%29",
-   "path": "2d/ui-pack"
+   "path": "2d/ui-pack",
+   "type": "2d"
   },
   {
    "id": "hexagon-pack",
    "title": "Hexagon Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "nature",
+    "tiles"
    ],
    "tags": [
     "hex",
@@ -365,14 +396,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Hexagon%20assets%20%28170%20assets%29",
-   "path": "2d/hexagon-pack"
+   "path": "2d/hexagon-pack",
+   "type": "2d"
   },
   {
    "id": "isometric-roads-pack",
    "title": "Isometric Roads Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "tiles",
+    "urban"
    ],
    "tags": [
     "isometric",
@@ -383,14 +416,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Isometric%20road%20assets%20%28140%20assets%29",
-   "path": "2d/isometric-roads-pack"
+   "path": "2d/isometric-roads-pack",
+   "type": "2d"
   },
   {
    "id": "onscreen-controls",
    "title": "Onscreen Controls",
    "genre": "2d",
    "genres": [
-    "2d"
+    "ui"
    ],
    "tags": [
     "ui",
@@ -402,14 +436,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Onscreen%20controls%20%28400%20assets%29",
-   "path": "2d/onscreen-controls"
+   "path": "2d/onscreen-controls",
+   "type": "2d"
   },
   {
    "id": "puzzle-pack",
    "title": "Puzzle Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "puzzle"
    ],
    "tags": [
     "puzzle",
@@ -420,14 +455,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Puzzle%20assets%20%2880%20assets%29",
-   "path": "2d/puzzle-pack"
+   "path": "2d/puzzle-pack",
+   "type": "2d"
   },
   {
    "id": "boardgame-pack",
    "title": "Boardgame Pack",
    "genre": "2d",
    "genres": [
-    "2d"
+    "puzzle"
    ],
    "tags": [
     "boardgame",
@@ -439,14 +475,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Boardgame%20pack%20%28480%20assets%29",
-   "path": "2d/boardgame-pack"
+   "path": "2d/boardgame-pack",
+   "type": "2d"
   },
   {
    "id": "tappy-plane",
    "title": "Tappy Plane",
    "genre": "2d",
    "genres": [
-    "2d"
+    "platformer",
+    "puzzle",
+    "vehicles"
    ],
    "tags": [
     "plane",
@@ -457,14 +496,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Tappy%20Plane%20%2880%20assets%29",
-   "path": "2d/tappy-plane"
+   "path": "2d/tappy-plane",
+   "type": "2d"
   },
   {
    "id": "casino-sounds",
    "title": "Casino Sounds",
    "genre": "audio",
    "genres": [
-    "audio"
+    "puzzle"
    ],
    "tags": [
     "sfx",
@@ -475,14 +515,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29",
-   "path": "audio/casino-sounds"
+   "path": "audio/casino-sounds",
+   "type": "audio"
   },
   {
    "id": "jingle-sounds",
    "title": "Jingle Sounds",
    "genre": "audio",
    "genres": [
-    "audio"
+    "ui"
    ],
    "tags": [
     "sfx",
@@ -493,15 +534,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29",
-   "path": "audio/jingle-sounds"
+   "path": "audio/jingle-sounds",
+   "type": "audio"
   },
   {
    "id": "digital-sounds",
    "title": "Digital Sounds",
    "genre": "audio",
    "genres": [
-    "audio",
-    "sci-fi"
+    "sci-fi",
+    "ui"
    ],
    "tags": [
     "sfx",
@@ -512,14 +554,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29",
-   "path": "audio/digital-sounds"
+   "path": "audio/digital-sounds",
+   "type": "audio"
   },
   {
    "id": "ui-sounds",
    "title": "UI Sounds",
    "genre": "audio",
    "genres": [
-    "audio"
+    "ui"
    ],
    "tags": [
     "sfx",
@@ -530,14 +573,14 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29",
-   "path": "audio/ui-sounds"
+   "path": "audio/ui-sounds",
+   "type": "audio"
   },
   {
    "id": "rpg-sounds",
    "title": "RPG Sounds",
    "genre": "audio",
    "genres": [
-    "audio",
     "fantasy"
    ],
    "tags": [
@@ -549,7 +592,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29",
-   "path": "audio/rpg-sounds"
+   "path": "audio/rpg-sounds",
+   "type": "audio"
   },
   {
    "id": "superpowers-3d-warriors",
@@ -568,7 +612,8 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-warriors",
-   "path": "characters/superpowers-3d-warriors"
+   "path": "characters/superpowers-3d-warriors",
+   "type": "3d"
   },
   {
    "id": "superpowers-3d-character",
@@ -586,14 +631,16 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-character",
-   "path": "characters/superpowers-3d-character"
+   "path": "characters/superpowers-3d-character",
+   "type": "3d"
   },
   {
    "id": "animated-characters-protagonists",
    "title": "Animated Characters Protagonists",
    "genre": "characters",
    "genres": [
-    "characters"
+    "characters",
+    "sci-fi"
    ],
    "tags": [
     "character",
@@ -605,7 +652,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/animated-characters-protagonists",
-   "path": "characters/animated-characters-protagonists"
+   "path": "characters/animated-characters-protagonists",
+   "type": "3d"
   },
   {
    "id": "blocky-characters",
@@ -620,7 +668,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/blocky-characters",
-   "path": "characters/blocky-characters"
+   "path": "characters/blocky-characters",
+   "type": "3d"
   },
   {
    "id": "cube-pets",
@@ -638,13 +687,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/cube-pets",
-   "path": "characters/cube-pets"
+   "path": "characters/cube-pets",
+   "type": "3d"
   },
   {
    "id": "graveyard-kit",
    "title": "Graveyard Kit",
    "genre": "characters",
    "genres": [
+    "horror",
     "characters"
    ],
    "tags": [
@@ -657,7 +708,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/graveyard-kit",
-   "path": "characters/graveyard-kit"
+   "path": "characters/graveyard-kit",
+   "type": "3d"
   },
   {
    "id": "mini-characters",
@@ -674,7 +726,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-characters",
-   "path": "characters/mini-characters"
+   "path": "characters/mini-characters",
+   "type": "3d"
   },
   {
    "id": "castle-kit",
@@ -690,7 +743,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/castle-kit",
-   "path": "fantasy/castle-kit"
+   "path": "fantasy/castle-kit",
+   "type": "3d"
   },
   {
    "id": "fantasy-town-kit",
@@ -698,7 +752,7 @@
    "genre": "fantasy",
    "genres": [
     "fantasy",
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -709,7 +763,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/fantasy-town-kit",
-   "path": "fantasy/fantasy-town-kit"
+   "path": "fantasy/fantasy-town-kit",
+   "type": "3d"
   },
   {
    "id": "mini-dungeon",
@@ -727,7 +782,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-dungeon",
-   "path": "fantasy/mini-dungeon"
+   "path": "fantasy/mini-dungeon",
+   "type": "3d"
   },
   {
    "id": "modular-dungeon-kit",
@@ -735,7 +791,7 @@
    "genre": "fantasy",
    "genres": [
     "fantasy",
-    "tiles-terrain"
+    "tiles"
    ],
    "tags": [
     "dungeon",
@@ -745,16 +801,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/modular-dungeon-kit",
-   "path": "fantasy/modular-dungeon-kit"
+   "path": "fantasy/modular-dungeon-kit",
+   "type": "3d"
   },
   {
    "id": "pirate-kit",
    "title": "Pirate Kit",
    "genre": "fantasy",
    "genres": [
+    "characters",
     "fantasy",
-    "vehicles",
-    "characters"
+    "vehicles"
    ],
    "tags": [
     "boat",
@@ -767,7 +824,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/pirate-kit",
-   "path": "fantasy/pirate-kit"
+   "path": "fantasy/pirate-kit",
+   "type": "3d"
   },
   {
    "id": "retro-fantasy-kit",
@@ -775,7 +833,7 @@
    "genre": "fantasy",
    "genres": [
     "fantasy",
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -787,7 +845,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/retro-fantasy-kit",
-   "path": "fantasy/retro-fantasy-kit"
+   "path": "fantasy/retro-fantasy-kit",
+   "type": "3d"
   },
   {
    "id": "tower-defense-kit",
@@ -804,14 +863,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/tower-defense-kit",
-   "path": "fantasy/tower-defense-kit"
+   "path": "fantasy/tower-defense-kit",
+   "type": "3d"
   },
   {
    "id": "kenney-pixel-fonts",
    "title": "Kenney Pixel Fonts",
    "genre": "fonts",
    "genres": [
-    "fonts"
+    "ui"
    ],
    "tags": [
     "font",
@@ -822,14 +882,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Fonts%20%2810%20files%29",
-   "path": "fonts/kenney-pixel-fonts"
+   "path": "fonts/kenney-pixel-fonts",
+   "type": "font"
   },
   {
    "id": "aarfontein_dirt_road",
    "title": "Aarfontein Dirt Road",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature",
+    "urban"
    ],
    "tags": [
     "outdoor",
@@ -842,7 +905,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Jarod Guest, Dario Barresi",
    "source_page": "https://polyhaven.com/a/aarfontein_dirt_road",
-   "path": "hdri/aarfontein_dirt_road"
+   "path": "hdri/aarfontein_dirt_road",
+   "type": "hdri"
   },
   {
    "id": "abandoned_bakery",
@@ -861,14 +925,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_bakery",
-   "path": "hdri/abandoned_bakery"
+   "path": "hdri/abandoned_bakery",
+   "type": "hdri"
   },
   {
    "id": "abandoned_church",
    "title": "Abandoned Church",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -881,14 +947,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_church",
-   "path": "hdri/abandoned_church"
+   "path": "hdri/abandoned_church",
+   "type": "hdri"
   },
   {
    "id": "abandoned_construction",
    "title": "Abandoned Construction",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "industrial"
    ],
    "tags": [
     "indoor",
@@ -900,14 +968,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_construction",
-   "path": "hdri/abandoned_construction"
+   "path": "hdri/abandoned_construction",
+   "type": "hdri"
   },
   {
    "id": "abandoned_factory_canteen_01",
    "title": "Abandoned Factory Canteen 01",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "industrial"
    ],
    "tags": [
     "indoor",
@@ -918,14 +988,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_01",
-   "path": "hdri/abandoned_factory_canteen_01"
+   "path": "hdri/abandoned_factory_canteen_01",
+   "type": "hdri"
   },
   {
    "id": "abandoned_factory_canteen_02",
    "title": "Abandoned Factory Canteen 02",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "industrial"
    ],
    "tags": [
     "indoor",
@@ -936,7 +1008,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_02",
-   "path": "hdri/abandoned_factory_canteen_02"
+   "path": "hdri/abandoned_factory_canteen_02",
+   "type": "hdri"
   },
   {
    "id": "abandoned_games_room_01",
@@ -955,7 +1028,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Octavian Tudose",
    "source_page": "https://polyhaven.com/a/abandoned_games_room_01",
-   "path": "hdri/abandoned_games_room_01"
+   "path": "hdri/abandoned_games_room_01",
+   "type": "hdri"
   },
   {
    "id": "abandoned_games_room_02",
@@ -974,14 +1048,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Octavian Tudose",
    "source_page": "https://polyhaven.com/a/abandoned_games_room_02",
-   "path": "hdri/abandoned_games_room_02"
+   "path": "hdri/abandoned_games_room_02",
+   "type": "hdri"
   },
   {
    "id": "abandoned_garage",
    "title": "Abandoned Garage",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "industrial"
    ],
    "tags": [
     "indoor",
@@ -994,7 +1070,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Grzegorz Wronkowski",
    "source_page": "https://polyhaven.com/a/abandoned_garage",
-   "path": "hdri/abandoned_garage"
+   "path": "hdri/abandoned_garage",
+   "type": "hdri"
   },
   {
    "id": "abandoned_greenhouse",
@@ -1014,7 +1091,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Andreas Mischok",
    "source_page": "https://polyhaven.com/a/abandoned_greenhouse",
-   "path": "hdri/abandoned_greenhouse"
+   "path": "hdri/abandoned_greenhouse",
+   "type": "hdri"
   },
   {
    "id": "abandoned_hall_01",
@@ -1032,14 +1110,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Octavian Tudose",
    "source_page": "https://polyhaven.com/a/abandoned_hall_01",
-   "path": "hdri/abandoned_hall_01"
+   "path": "hdri/abandoned_hall_01",
+   "type": "hdri"
   },
   {
    "id": "abandoned_hopper_terminal_01",
    "title": "Abandoned Hopper Terminal 01",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -1052,14 +1132,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_01",
-   "path": "hdri/abandoned_hopper_terminal_01"
+   "path": "hdri/abandoned_hopper_terminal_01",
+   "type": "hdri"
   },
   {
    "id": "abandoned_hopper_terminal_02",
    "title": "Abandoned Hopper Terminal 02",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -1072,14 +1154,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_02",
-   "path": "hdri/abandoned_hopper_terminal_02"
+   "path": "hdri/abandoned_hopper_terminal_02",
+   "type": "hdri"
   },
   {
    "id": "abandoned_hopper_terminal_03",
    "title": "Abandoned Hopper Terminal 03",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -1092,14 +1176,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_03",
-   "path": "hdri/abandoned_hopper_terminal_03"
+   "path": "hdri/abandoned_hopper_terminal_03",
+   "type": "hdri"
   },
   {
    "id": "abandoned_hopper_terminal_04",
    "title": "Abandoned Hopper Terminal 04",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -1112,14 +1198,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_04",
-   "path": "hdri/abandoned_hopper_terminal_04"
+   "path": "hdri/abandoned_hopper_terminal_04",
+   "type": "hdri"
   },
   {
    "id": "abandoned_parking",
    "title": "Abandoned Parking",
    "genre": "hdri",
    "genres": [
-    "hdri"
+    "hdri",
+    "nature"
    ],
    "tags": [
     "outdoor",
@@ -1133,14 +1221,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Sergej Majboroda",
    "source_page": "https://polyhaven.com/a/abandoned_parking",
-   "path": "hdri/abandoned_parking"
+   "path": "hdri/abandoned_parking",
+   "type": "hdri"
   },
   {
    "id": "Asphalt023S",
    "title": "Asphalt023S",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "asphalt"
@@ -1148,14 +1237,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Asphalt023S",
-   "path": "materials/Asphalt023S"
+   "path": "materials/Asphalt023S",
+   "type": "material"
   },
   {
    "id": "Asphalt025C",
    "title": "Asphalt025C",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "asphalt"
@@ -1163,14 +1253,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Asphalt025C",
-   "path": "materials/Asphalt025C"
+   "path": "materials/Asphalt025C",
+   "type": "material"
   },
   {
    "id": "Asphalt031",
    "title": "Asphalt031",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "asphalt"
@@ -1178,14 +1269,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Asphalt031",
-   "path": "materials/Asphalt031"
+   "path": "materials/Asphalt031",
+   "type": "material"
   },
   {
    "id": "Asphalt033",
    "title": "Asphalt033",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "asphalt"
@@ -1193,14 +1285,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Asphalt033",
-   "path": "materials/Asphalt033"
+   "path": "materials/Asphalt033",
+   "type": "material"
   },
   {
    "id": "Bricks097",
    "title": "Bricks097",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "bricks"
@@ -1208,14 +1301,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Bricks097",
-   "path": "materials/Bricks097"
+   "path": "materials/Bricks097",
+   "type": "material"
   },
   {
    "id": "Bricks101",
    "title": "Bricks101",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "bricks"
@@ -1223,14 +1317,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Bricks101",
-   "path": "materials/Bricks101"
+   "path": "materials/Bricks101",
+   "type": "material"
   },
   {
    "id": "Bricks102",
    "title": "Bricks102",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "bricks"
@@ -1238,14 +1333,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Bricks102",
-   "path": "materials/Bricks102"
+   "path": "materials/Bricks102",
+   "type": "material"
   },
   {
    "id": "Bricks104",
    "title": "Bricks104",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "bricks"
@@ -1253,14 +1349,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Bricks104",
-   "path": "materials/Bricks104"
+   "path": "materials/Bricks104",
+   "type": "material"
   },
   {
    "id": "Concrete034",
    "title": "Concrete034",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "concrete"
@@ -1268,14 +1365,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Concrete034",
-   "path": "materials/Concrete034"
+   "path": "materials/Concrete034",
+   "type": "material"
   },
   {
    "id": "Concrete046",
    "title": "Concrete046",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "concrete"
@@ -1283,14 +1381,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Concrete046",
-   "path": "materials/Concrete046"
+   "path": "materials/Concrete046",
+   "type": "material"
   },
   {
    "id": "Concrete047A",
    "title": "Concrete047A",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "concrete"
@@ -1298,14 +1397,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Concrete047A",
-   "path": "materials/Concrete047A"
+   "path": "materials/Concrete047A",
+   "type": "material"
   },
   {
    "id": "Concrete048",
    "title": "Concrete048",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "concrete"
@@ -1313,14 +1413,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Concrete048",
-   "path": "materials/Concrete048"
+   "path": "materials/Concrete048",
+   "type": "material"
   },
   {
    "id": "Fabric061",
    "title": "Fabric061",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "fabric"
@@ -1328,14 +1429,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Fabric061",
-   "path": "materials/Fabric061"
+   "path": "materials/Fabric061",
+   "type": "material"
   },
   {
    "id": "Fabric066",
    "title": "Fabric066",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "fabric"
@@ -1343,14 +1445,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Fabric066",
-   "path": "materials/Fabric066"
+   "path": "materials/Fabric066",
+   "type": "material"
   },
   {
    "id": "Fabric081C",
    "title": "Fabric081C",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "fabric"
@@ -1358,14 +1461,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Fabric081C",
-   "path": "materials/Fabric081C"
+   "path": "materials/Fabric081C",
+   "type": "material"
   },
   {
    "id": "Fabric083",
    "title": "Fabric083",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "fabric"
@@ -1373,14 +1477,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Fabric083",
-   "path": "materials/Fabric083"
+   "path": "materials/Fabric083",
+   "type": "material"
   },
   {
    "id": "Grass001",
    "title": "Grass001",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "grass"
@@ -1388,14 +1493,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Grass001",
-   "path": "materials/Grass001"
+   "path": "materials/Grass001",
+   "type": "material"
   },
   {
    "id": "Grass004",
    "title": "Grass004",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "grass"
@@ -1403,14 +1509,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Grass004",
-   "path": "materials/Grass004"
+   "path": "materials/Grass004",
+   "type": "material"
   },
   {
    "id": "Grass005",
    "title": "Grass005",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "grass"
@@ -1418,14 +1525,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Grass005",
-   "path": "materials/Grass005"
+   "path": "materials/Grass005",
+   "type": "material"
   },
   {
    "id": "Grass008",
    "title": "Grass008",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "grass"
@@ -1433,14 +1541,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Grass008",
-   "path": "materials/Grass008"
+   "path": "materials/Grass008",
+   "type": "material"
   },
   {
    "id": "Ground037",
    "title": "Ground037",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "ground"
@@ -1448,14 +1557,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Ground037",
-   "path": "materials/Ground037"
+   "path": "materials/Ground037",
+   "type": "material"
   },
   {
    "id": "Ground054",
    "title": "Ground054",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "ground"
@@ -1463,14 +1573,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Ground054",
-   "path": "materials/Ground054"
+   "path": "materials/Ground054",
+   "type": "material"
   },
   {
    "id": "Ground068",
    "title": "Ground068",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "ground"
@@ -1478,14 +1589,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Ground068",
-   "path": "materials/Ground068"
+   "path": "materials/Ground068",
+   "type": "material"
   },
   {
    "id": "Ground103",
    "title": "Ground103",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "ground"
@@ -1493,14 +1605,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Ground103",
-   "path": "materials/Ground103"
+   "path": "materials/Ground103",
+   "type": "material"
   },
   {
    "id": "Leather026",
    "title": "Leather026",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "leather"
@@ -1508,14 +1621,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Leather026",
-   "path": "materials/Leather026"
+   "path": "materials/Leather026",
+   "type": "material"
   },
   {
    "id": "Leather030",
    "title": "Leather030",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "leather"
@@ -1523,14 +1637,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Leather030",
-   "path": "materials/Leather030"
+   "path": "materials/Leather030",
+   "type": "material"
   },
   {
    "id": "Leather037",
    "title": "Leather037",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "leather"
@@ -1538,14 +1653,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Leather037",
-   "path": "materials/Leather037"
+   "path": "materials/Leather037",
+   "type": "material"
   },
   {
    "id": "Leather038",
    "title": "Leather038",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "leather"
@@ -1553,14 +1669,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Leather038",
-   "path": "materials/Leather038"
+   "path": "materials/Leather038",
+   "type": "material"
   },
   {
    "id": "Marble006",
    "title": "Marble006",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "marble"
@@ -1568,14 +1685,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Marble006",
-   "path": "materials/Marble006"
+   "path": "materials/Marble006",
+   "type": "material"
   },
   {
    "id": "Marble012",
    "title": "Marble012",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "marble"
@@ -1583,14 +1701,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Marble012",
-   "path": "materials/Marble012"
+   "path": "materials/Marble012",
+   "type": "material"
   },
   {
    "id": "Marble016",
    "title": "Marble016",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "marble"
@@ -1598,14 +1717,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Marble016",
-   "path": "materials/Marble016"
+   "path": "materials/Marble016",
+   "type": "material"
   },
   {
    "id": "Marble021",
    "title": "Marble021",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "marble"
@@ -1613,14 +1733,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Marble021",
-   "path": "materials/Marble021"
+   "path": "materials/Marble021",
+   "type": "material"
   },
   {
    "id": "Metal046B",
    "title": "Metal046B",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "metal"
@@ -1628,14 +1749,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Metal046B",
-   "path": "materials/Metal046B"
+   "path": "materials/Metal046B",
+   "type": "material"
   },
   {
    "id": "Metal049A",
    "title": "Metal049A",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "metal"
@@ -1643,14 +1765,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Metal049A",
-   "path": "materials/Metal049A"
+   "path": "materials/Metal049A",
+   "type": "material"
   },
   {
    "id": "Metal055A",
    "title": "Metal055A",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "metal"
@@ -1658,14 +1781,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Metal055A",
-   "path": "materials/Metal055A"
+   "path": "materials/Metal055A",
+   "type": "material"
   },
   {
    "id": "Metal063",
    "title": "Metal063",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "metal"
@@ -1673,14 +1797,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Metal063",
-   "path": "materials/Metal063"
+   "path": "materials/Metal063",
+   "type": "material"
   },
   {
    "id": "PavingStones128",
    "title": "PavingStones128",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "paving stones"
@@ -1688,14 +1813,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=PavingStones128",
-   "path": "materials/PavingStones128"
+   "path": "materials/PavingStones128",
+   "type": "material"
   },
   {
    "id": "PavingStones138",
    "title": "PavingStones138",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "paving stones"
@@ -1703,14 +1829,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=PavingStones138",
-   "path": "materials/PavingStones138"
+   "path": "materials/PavingStones138",
+   "type": "material"
   },
   {
    "id": "PavingStones150",
    "title": "PavingStones150",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "paving stones"
@@ -1718,14 +1845,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=PavingStones150",
-   "path": "materials/PavingStones150"
+   "path": "materials/PavingStones150",
+   "type": "material"
   },
   {
    "id": "PavingStones151",
    "title": "PavingStones151",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "paving stones"
@@ -1733,14 +1861,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=PavingStones151",
-   "path": "materials/PavingStones151"
+   "path": "materials/PavingStones151",
+   "type": "material"
   },
   {
    "id": "Plaster001",
    "title": "Plaster001",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "plaster"
@@ -1748,14 +1877,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Plaster001",
-   "path": "materials/Plaster001"
+   "path": "materials/Plaster001",
+   "type": "material"
   },
   {
    "id": "Plaster002",
    "title": "Plaster002",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "plaster"
@@ -1763,14 +1893,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Plaster002",
-   "path": "materials/Plaster002"
+   "path": "materials/Plaster002",
+   "type": "material"
   },
   {
    "id": "Plaster003",
    "title": "Plaster003",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "plaster"
@@ -1778,14 +1909,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Plaster003",
-   "path": "materials/Plaster003"
+   "path": "materials/Plaster003",
+   "type": "material"
   },
   {
    "id": "Plaster007",
    "title": "Plaster007",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "plaster"
@@ -1793,14 +1925,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Plaster007",
-   "path": "materials/Plaster007"
+   "path": "materials/Plaster007",
+   "type": "material"
   },
   {
    "id": "Rock051",
    "title": "Rock051",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "rock"
@@ -1808,14 +1941,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Rock051",
-   "path": "materials/Rock051"
+   "path": "materials/Rock051",
+   "type": "material"
   },
   {
    "id": "Rock058",
    "title": "Rock058",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "rock"
@@ -1823,14 +1957,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Rock058",
-   "path": "materials/Rock058"
+   "path": "materials/Rock058",
+   "type": "material"
   },
   {
    "id": "Rock063",
    "title": "Rock063",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "rock"
@@ -1838,14 +1973,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Rock063",
-   "path": "materials/Rock063"
+   "path": "materials/Rock063",
+   "type": "material"
   },
   {
    "id": "Rock064",
    "title": "Rock064",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "rock"
@@ -1853,14 +1989,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Rock064",
-   "path": "materials/Rock064"
+   "path": "materials/Rock064",
+   "type": "material"
   },
   {
    "id": "Tiles139",
    "title": "Tiles139",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "tiles"
@@ -1868,14 +2005,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Tiles139",
-   "path": "materials/Tiles139"
+   "path": "materials/Tiles139",
+   "type": "material"
   },
   {
    "id": "Tiles140",
    "title": "Tiles140",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "tiles"
@@ -1883,14 +2021,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Tiles140",
-   "path": "materials/Tiles140"
+   "path": "materials/Tiles140",
+   "type": "material"
   },
   {
    "id": "Tiles141",
    "title": "Tiles141",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "tiles"
@@ -1898,14 +2037,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Tiles141",
-   "path": "materials/Tiles141"
+   "path": "materials/Tiles141",
+   "type": "material"
   },
   {
    "id": "Tiles143",
    "title": "Tiles143",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "tiles"
@@ -1913,14 +2053,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Tiles143",
-   "path": "materials/Tiles143"
+   "path": "materials/Tiles143",
+   "type": "material"
   },
   {
    "id": "Wood051",
    "title": "Wood051",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "wood"
@@ -1928,14 +2069,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Wood051",
-   "path": "materials/Wood051"
+   "path": "materials/Wood051",
+   "type": "material"
   },
   {
    "id": "Wood092",
    "title": "Wood092",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "wood"
@@ -1943,14 +2085,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Wood092",
-   "path": "materials/Wood092"
+   "path": "materials/Wood092",
+   "type": "material"
   },
   {
    "id": "Wood094",
    "title": "Wood094",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "wood"
@@ -1958,14 +2101,15 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Wood094",
-   "path": "materials/Wood094"
+   "path": "materials/Wood094",
+   "type": "material"
   },
   {
    "id": "Wood095",
    "title": "Wood095",
    "genre": "materials",
    "genres": [
-    "materials"
+    "material"
    ],
    "tags": [
     "wood"
@@ -1973,14 +2117,16 @@
    "license": "CC0-1.0",
    "credit": "ambientCG",
    "source_page": "https://ambientcg.com/view?id=Wood095",
-   "path": "materials/Wood095"
+   "path": "materials/Wood095",
+   "type": "material"
   },
   {
    "id": "blaster-kit",
    "title": "Blaster Kit",
    "genre": "misc",
    "genres": [
-    "misc"
+    "shooter",
+    "sports"
    ],
    "tags": [
     "blaster",
@@ -1990,14 +2136,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/blaster-kit",
-   "path": "misc/blaster-kit"
+   "path": "misc/blaster-kit",
+   "type": "3d"
   },
   {
    "id": "food-kit",
    "title": "Food Kit",
    "genre": "misc",
    "genres": [
-    "misc"
+    "food"
    ],
    "tags": [
     "eat",
@@ -2007,14 +2154,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/food-kit",
-   "path": "misc/food-kit"
+   "path": "misc/food-kit",
+   "type": "3d"
   },
   {
    "id": "mini-arcade",
    "title": "Mini Arcade",
    "genre": "misc",
    "genres": [
-    "misc"
+    "puzzle"
    ],
    "tags": [
     "arcade",
@@ -2025,14 +2173,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-arcade",
-   "path": "misc/mini-arcade"
+   "path": "misc/mini-arcade",
+   "type": "3d"
   },
   {
    "id": "mini-arena",
    "title": "Mini Arena",
    "genre": "misc",
    "genres": [
-    "misc"
+    "sports"
    ],
    "tags": [
     "arena",
@@ -2042,14 +2191,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-arena",
-   "path": "misc/mini-arena"
+   "path": "misc/mini-arena",
+   "type": "3d"
   },
   {
    "id": "mini-market",
    "title": "Mini Market",
    "genre": "misc",
    "genres": [
-    "misc"
+    "urban"
    ],
    "tags": [
     "market",
@@ -2060,14 +2210,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-market",
-   "path": "misc/mini-market"
+   "path": "misc/mini-market",
+   "type": "3d"
   },
   {
    "id": "mini-skate",
    "title": "Mini Skate",
    "genre": "misc",
    "genres": [
-    "misc"
+    "sports"
    ],
    "tags": [
     "park",
@@ -2076,14 +2227,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-skate",
-   "path": "misc/mini-skate"
+   "path": "misc/mini-skate",
+   "type": "3d"
   },
   {
    "id": "minigolf-kit",
    "title": "Minigolf Kit",
    "genre": "misc",
    "genres": [
-    "misc"
+    "sports"
    ],
    "tags": [
     "course",
@@ -2093,15 +2245,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/minigolf-kit",
-   "path": "misc/minigolf-kit"
+   "path": "misc/minigolf-kit",
+   "type": "3d"
   },
   {
    "id": "3d-road-tiles",
    "title": "3D Road Tiles",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban",
-    "tiles-terrain"
+    "tiles",
+    "urban"
    ],
    "tags": [
     "road",
@@ -2110,14 +2263,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/3d-road-tiles",
-   "path": "modern-urban/3d-road-tiles"
+   "path": "modern-urban/3d-road-tiles",
+   "type": "3d"
   },
   {
    "id": "ArmChair_01",
    "title": "Arm Chair 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "gothic",
@@ -2132,14 +2287,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/ArmChair_01",
-   "path": "modern-urban/ArmChair_01"
+   "path": "modern-urban/ArmChair_01",
+   "type": "3d"
   },
   {
    "id": "BarberShopChair_01",
    "title": "Barber Shop Chair 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "chair",
@@ -2154,14 +2311,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Fernando Quinn",
    "source_page": "https://polyhaven.com/a/BarberShopChair_01",
-   "path": "modern-urban/BarberShopChair_01"
+   "path": "modern-urban/BarberShopChair_01",
+   "type": "3d"
   },
   {
    "id": "CashRegister_01",
    "title": "Cash Register 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "commercial",
@@ -2176,14 +2334,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Joe Seabuhr",
    "source_page": "https://polyhaven.com/a/CashRegister_01",
-   "path": "modern-urban/CashRegister_01"
+   "path": "modern-urban/CashRegister_01",
+   "type": "3d"
   },
   {
    "id": "Chandelier_01",
    "title": "Chandelier 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "lighting",
@@ -2197,14 +2357,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/Chandelier_01",
-   "path": "modern-urban/Chandelier_01"
+   "path": "modern-urban/Chandelier_01",
+   "type": "3d"
   },
   {
    "id": "Chandelier_02",
    "title": "Chandelier 02",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "lighting",
@@ -2219,14 +2381,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/Chandelier_02",
-   "path": "modern-urban/Chandelier_02"
+   "path": "modern-urban/Chandelier_02",
+   "type": "3d"
   },
   {
    "id": "Chandelier_03",
    "title": "Chandelier 03",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "lighting",
@@ -2241,14 +2405,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/Chandelier_03",
-   "path": "modern-urban/Chandelier_03"
+   "path": "modern-urban/Chandelier_03",
+   "type": "3d"
   },
   {
    "id": "ClassicConsole_01",
    "title": "Classic Console 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "wood",
@@ -2261,14 +2427,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/ClassicConsole_01",
-   "path": "modern-urban/ClassicConsole_01"
+   "path": "modern-urban/ClassicConsole_01",
+   "type": "3d"
   },
   {
    "id": "ClassicNightstand_01",
    "title": "Classic Nightstand 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "wood",
@@ -2281,14 +2449,17 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/ClassicNightstand_01",
-   "path": "modern-urban/ClassicNightstand_01"
+   "path": "modern-urban/ClassicNightstand_01",
+   "type": "3d"
   },
   {
    "id": "CoffeeCart_01",
    "title": "Coffee Cart 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "food",
+    "props",
+    "urban"
    ],
    "tags": [
     "table",
@@ -2303,14 +2474,17 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Joe Seabuhr",
    "source_page": "https://polyhaven.com/a/CoffeeCart_01",
-   "path": "modern-urban/CoffeeCart_01"
+   "path": "modern-urban/CoffeeCart_01",
+   "type": "3d"
   },
   {
    "id": "CoffeeTable_01",
    "title": "Coffee Table 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "food",
+    "props",
+    "urban"
    ],
    "tags": [
     "wood",
@@ -2324,14 +2498,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Fernando Quinn",
    "source_page": "https://polyhaven.com/a/CoffeeTable_01",
-   "path": "modern-urban/CoffeeTable_01"
+   "path": "modern-urban/CoffeeTable_01",
+   "type": "3d"
   },
   {
    "id": "GothicBed_01",
    "title": "Gothic Bed 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "vintage",
@@ -2344,14 +2520,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/GothicBed_01",
-   "path": "modern-urban/GothicBed_01"
+   "path": "modern-urban/GothicBed_01",
+   "type": "3d"
   },
   {
    "id": "GothicCabinet_01",
    "title": "Gothic Cabinet 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "vintage",
@@ -2365,14 +2543,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/GothicCabinet_01",
-   "path": "modern-urban/GothicCabinet_01"
+   "path": "modern-urban/GothicCabinet_01",
+   "type": "3d"
   },
   {
    "id": "GothicCommode_01",
    "title": "Gothic Commode 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "vintage",
@@ -2386,14 +2566,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/GothicCommode_01",
-   "path": "modern-urban/GothicCommode_01"
+   "path": "modern-urban/GothicCommode_01",
+   "type": "3d"
   },
   {
    "id": "GreenChair_01",
    "title": "Green Chair 01",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "vintage",
@@ -2407,14 +2589,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kirill Sannikov",
    "source_page": "https://polyhaven.com/a/GreenChair_01",
-   "path": "modern-urban/GreenChair_01"
+   "path": "modern-urban/GreenChair_01",
+   "type": "3d"
   },
   {
    "id": "brick-kit",
    "title": "Brick Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "brick",
@@ -2425,14 +2608,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/brick-kit",
-   "path": "modern-urban/brick-kit"
+   "path": "modern-urban/brick-kit",
+   "type": "3d"
   },
   {
    "id": "building-kit",
    "title": "Building Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -2442,14 +2626,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/building-kit",
-   "path": "modern-urban/building-kit"
+   "path": "modern-urban/building-kit",
+   "type": "3d"
   },
   {
    "id": "city-kit-commercial",
    "title": "City Kit (Commercial)",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -2459,14 +2644,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/city-kit-commercial",
-   "path": "modern-urban/city-kit-commercial"
+   "path": "modern-urban/city-kit-commercial",
+   "type": "3d"
   },
   {
    "id": "city-kit-industrial",
    "title": "City Kit (Industrial)",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "industrial",
+    "urban"
    ],
    "tags": [
     "building",
@@ -2477,14 +2664,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/city-kit-industrial",
-   "path": "modern-urban/city-kit-industrial"
+   "path": "modern-urban/city-kit-industrial",
+   "type": "3d"
   },
   {
    "id": "city-kit-roads",
    "title": "City Kit (Roads)",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "city",
@@ -2494,14 +2682,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/city-kit-roads",
-   "path": "modern-urban/city-kit-roads"
+   "path": "modern-urban/city-kit-roads",
+   "type": "3d"
   },
   {
    "id": "city-kit-suburban",
    "title": "City Kit (Suburban)",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -2511,14 +2700,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/city-kit-suburban",
-   "path": "modern-urban/city-kit-suburban"
+   "path": "modern-urban/city-kit-suburban",
+   "type": "3d"
   },
   {
    "id": "factory-kit",
    "title": "Factory Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "industrial"
    ],
    "tags": [
     "belt",
@@ -2530,14 +2720,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/factory-kit",
-   "path": "modern-urban/factory-kit"
+   "path": "modern-urban/factory-kit",
+   "type": "3d"
   },
   {
    "id": "furniture-kit",
    "title": "Furniture Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "props",
+    "urban"
    ],
    "tags": [
     "bed",
@@ -2549,16 +2741,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/furniture-kit",
-   "path": "modern-urban/furniture-kit"
+   "path": "modern-urban/furniture-kit",
+   "type": "3d"
   },
   {
    "id": "hexagon-kit",
    "title": "Hexagon Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban",
     "nature",
-    "tiles-terrain"
+    "urban"
    ],
    "tags": [
     "building",
@@ -2568,14 +2760,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/hexagon-kit",
-   "path": "modern-urban/hexagon-kit"
+   "path": "modern-urban/hexagon-kit",
+   "type": "3d"
   },
   {
    "id": "modular-buildings",
    "title": "Modular Buildings",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "tiles",
+    "urban"
    ],
    "tags": [
     "building",
@@ -2587,14 +2781,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/modular-buildings",
-   "path": "modern-urban/modular-buildings"
+   "path": "modern-urban/modular-buildings",
+   "type": "3d"
   },
   {
    "id": "retro-urban-kit",
    "title": "Retro Urban Kit",
    "genre": "modern-urban",
    "genres": [
-    "modern-urban"
+    "urban"
    ],
    "tags": [
     "building",
@@ -2605,14 +2800,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/retro-urban-kit",
-   "path": "modern-urban/retro-urban-kit"
+   "path": "modern-urban/retro-urban-kit",
+   "type": "3d"
   },
   {
    "id": "loops-and-menu-music",
    "title": "Loops and Menu Music",
    "genre": "music",
    "genres": [
-    "music"
+    "ui"
    ],
    "tags": [
     "music",
@@ -2624,14 +2820,15 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/loops-and-menu-music"
+   "path": "music/loops-and-menu-music",
+   "type": "music"
   },
   {
    "id": "western-music",
    "title": "Western Music",
    "genre": "music",
    "genres": [
-    "music"
+    "western"
    ],
    "tags": [
     "music",
@@ -2642,14 +2839,16 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/western-music"
+   "path": "music/western-music",
+   "type": "music"
   },
   {
    "id": "horror-music",
    "title": "Horror Music",
    "genre": "music",
    "genres": [
-    "music"
+    "horror",
+    "post-apocalyptic"
    ],
    "tags": [
     "music",
@@ -2661,14 +2860,16 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/horror-music"
+   "path": "music/horror-music",
+   "type": "music"
   },
   {
    "id": "action-music",
    "title": "Action Music",
    "genre": "music",
    "genres": [
-    "music"
+    "shooter",
+    "weapons"
    ],
    "tags": [
     "music",
@@ -2681,14 +2882,14 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/action-music"
+   "path": "music/action-music",
+   "type": "music"
   },
   {
    "id": "sci-fi-music",
    "title": "Sci-Fi Music",
    "genre": "music",
    "genres": [
-    "music",
     "sci-fi"
    ],
    "tags": [
@@ -2701,14 +2902,14 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/sci-fi-music"
+   "path": "music/sci-fi-music",
+   "type": "music"
   },
   {
    "id": "fantasy-music",
    "title": "Fantasy Music",
    "genre": "music",
    "genres": [
-    "music",
     "fantasy"
    ],
    "tags": [
@@ -2722,15 +2923,16 @@
    "license": "CC0-1.0",
    "credit": "FreePD",
    "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
-   "path": "music/fantasy-music"
+   "path": "music/fantasy-music",
+   "type": "music"
   },
   {
    "id": "animated-characters-retro",
    "title": "Animated Characters Retro",
    "genre": "nature",
    "genres": [
-    "nature",
-    "characters"
+    "characters",
+    "horror"
    ],
    "tags": [
     "character",
@@ -2741,15 +2943,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/animated-characters-retro",
-   "path": "nature/animated-characters-retro"
+   "path": "nature/animated-characters-retro",
+   "type": "3d"
   },
   {
    "id": "animated-characters-survivors",
    "title": "Animated Characters Survivors",
    "genre": "nature",
    "genres": [
-    "nature",
-    "characters"
+    "characters",
+    "horror"
    ],
    "tags": [
     "character",
@@ -2760,7 +2963,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/animated-characters-survivors",
-   "path": "nature/animated-characters-survivors"
+   "path": "nature/animated-characters-survivors",
+   "type": "3d"
   },
   {
    "id": "anthurium_botany_01",
@@ -2782,7 +2986,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/anthurium_botany_01",
-   "path": "nature/anthurium_botany_01"
+   "path": "nature/anthurium_botany_01",
+   "type": "3d"
   },
   {
    "id": "bark_debris_01",
@@ -2801,7 +3006,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Greg Zaal, Jenelle van Heerden",
    "source_page": "https://polyhaven.com/a/bark_debris_01",
-   "path": "nature/bark_debris_01"
+   "path": "nature/bark_debris_01",
+   "type": "3d"
   },
   {
    "id": "boulder_01",
@@ -2823,7 +3029,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rico Cilliers",
    "source_page": "https://polyhaven.com/a/boulder_01",
-   "path": "nature/boulder_01"
+   "path": "nature/boulder_01",
+   "type": "3d"
   },
   {
    "id": "calathea_orbifolia_01",
@@ -2845,7 +3052,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/calathea_orbifolia_01",
-   "path": "nature/calathea_orbifolia_01"
+   "path": "nature/calathea_orbifolia_01",
+   "type": "3d"
   },
   {
    "id": "celandine_01",
@@ -2867,7 +3075,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/celandine_01",
-   "path": "nature/celandine_01"
+   "path": "nature/celandine_01",
+   "type": "3d"
   },
   {
    "id": "cheiridopsis_succulent",
@@ -2889,7 +3098,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / James Ray Cock, Jenelle van Heerden",
    "source_page": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "path": "nature/cheiridopsis_succulent"
+   "path": "nature/cheiridopsis_succulent",
+   "type": "3d"
   },
   {
    "id": "coast_land_rocks_02",
@@ -2911,7 +3121,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_land_rocks_02",
-   "path": "nature/coast_land_rocks_02"
+   "path": "nature/coast_land_rocks_02",
+   "type": "3d"
   },
   {
    "id": "coast_land_rocks_03",
@@ -2933,7 +3144,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_land_rocks_03",
-   "path": "nature/coast_land_rocks_03"
+   "path": "nature/coast_land_rocks_03",
+   "type": "3d"
   },
   {
    "id": "coast_land_rocks_04",
@@ -2955,7 +3167,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_land_rocks_04",
-   "path": "nature/coast_land_rocks_04"
+   "path": "nature/coast_land_rocks_04",
+   "type": "3d"
   },
   {
    "id": "coast_line_01",
@@ -2977,7 +3190,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_line_01",
-   "path": "nature/coast_line_01"
+   "path": "nature/coast_line_01",
+   "type": "3d"
   },
   {
    "id": "coast_line_02",
@@ -2999,7 +3213,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_line_02",
-   "path": "nature/coast_line_02"
+   "path": "nature/coast_line_02",
+   "type": "3d"
   },
   {
    "id": "coast_rocks_01",
@@ -3021,7 +3236,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_rocks_01",
-   "path": "nature/coast_rocks_01"
+   "path": "nature/coast_rocks_01",
+   "type": "3d"
   },
   {
    "id": "coast_rocks_02",
@@ -3043,7 +3259,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_rocks_02",
-   "path": "nature/coast_rocks_02"
+   "path": "nature/coast_rocks_02",
+   "type": "3d"
   },
   {
    "id": "coast_rocks_03",
@@ -3065,7 +3282,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
    "source_page": "https://polyhaven.com/a/coast_rocks_03",
-   "path": "nature/coast_rocks_03"
+   "path": "nature/coast_rocks_03",
+   "type": "3d"
   },
   {
    "id": "holiday-kit",
@@ -3083,7 +3301,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/holiday-kit",
-   "path": "nature/holiday-kit"
+   "path": "nature/holiday-kit",
+   "type": "3d"
   },
   {
    "id": "mini-forest",
@@ -3101,15 +3320,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/mini-forest",
-   "path": "nature/mini-forest"
+   "path": "nature/mini-forest",
+   "type": "3d"
   },
   {
    "id": "modular-cave-kit",
    "title": "Modular Cave Kit",
    "genre": "nature",
    "genres": [
-    "nature",
-    "tiles-terrain"
+    "tiles"
    ],
    "tags": [
     "cave",
@@ -3119,7 +3338,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/modular-cave-kit",
-   "path": "nature/modular-cave-kit"
+   "path": "nature/modular-cave-kit",
+   "type": "3d"
   },
   {
    "id": "nature-kit",
@@ -3137,7 +3357,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/nature-kit",
-   "path": "nature/nature-kit"
+   "path": "nature/nature-kit",
+   "type": "3d"
   },
   {
    "id": "survival-kit",
@@ -3153,7 +3374,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/survival-kit",
-   "path": "nature/survival-kit"
+   "path": "nature/survival-kit",
+   "type": "3d"
   },
   {
    "id": "Camera_01",
@@ -3175,7 +3397,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rajil Jose Macatangay",
    "source_page": "https://polyhaven.com/a/Camera_01",
-   "path": "props/Camera_01"
+   "path": "props/Camera_01",
+   "type": "3d"
   },
   {
    "id": "CheeseBox_01",
@@ -3197,13 +3420,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Gabriel Radi\u0107",
    "source_page": "https://polyhaven.com/a/CheeseBox_01",
-   "path": "props/CheeseBox_01"
+   "path": "props/CheeseBox_01",
+   "type": "3d"
   },
   {
    "id": "Drill_01",
    "title": "Drill 01",
    "genre": "props",
    "genres": [
+    "industrial",
     "props"
    ],
    "tags": [
@@ -3216,7 +3441,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Fernando Quinn",
    "source_page": "https://polyhaven.com/a/Drill_01",
-   "path": "props/Drill_01"
+   "path": "props/Drill_01",
+   "type": "3d"
   },
   {
    "id": "Lantern_01",
@@ -3238,7 +3464,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rajil Jose Macatangay",
    "source_page": "https://polyhaven.com/a/Lantern_01",
-   "path": "props/Lantern_01"
+   "path": "props/Lantern_01",
+   "type": "3d"
   },
   {
    "id": "Megaphone_01",
@@ -3259,14 +3486,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Ethan Simon-Law",
    "source_page": "https://polyhaven.com/a/Megaphone_01",
-   "path": "props/Megaphone_01"
+   "path": "props/Megaphone_01",
+   "type": "3d"
   },
   {
    "id": "Television_01",
    "title": "Television 01",
    "genre": "props",
    "genres": [
-    "props"
+    "props",
+    "urban"
    ],
    "tags": [
     "vintage",
@@ -3281,7 +3510,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Gabriel Radi\u0107",
    "source_page": "https://polyhaven.com/a/Television_01",
-   "path": "props/Television_01"
+   "path": "props/Television_01",
+   "type": "3d"
   },
   {
    "id": "Ukulele_01",
@@ -3301,7 +3531,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Joseph Burgan",
    "source_page": "https://polyhaven.com/a/Ukulele_01",
-   "path": "props/Ukulele_01"
+   "path": "props/Ukulele_01",
+   "type": "3d"
   },
   {
    "id": "WetFloorSign_01",
@@ -3323,14 +3554,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Fran Calvente",
    "source_page": "https://polyhaven.com/a/WetFloorSign_01",
-   "path": "props/WetFloorSign_01"
+   "path": "props/WetFloorSign_01",
+   "type": "3d"
   },
   {
    "id": "adjustable_wrench",
    "title": "Adjustable Wrench",
    "genre": "props",
    "genres": [
-    "props"
+    "industrial"
    ],
    "tags": [
     "vintage",
@@ -3345,7 +3577,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Mateusz Sadek",
    "source_page": "https://polyhaven.com/a/adjustable_wrench",
-   "path": "props/adjustable_wrench"
+   "path": "props/adjustable_wrench",
+   "type": "3d"
   },
   {
    "id": "alarm_clock_01",
@@ -3367,14 +3600,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Yann Kervran, James Ray Cock",
    "source_page": "https://polyhaven.com/a/alarm_clock_01",
-   "path": "props/alarm_clock_01"
+   "path": "props/alarm_clock_01",
+   "type": "3d"
   },
   {
    "id": "all_purpose_cleaner",
    "title": "All Purpose Cleaner",
    "genre": "props",
    "genres": [
-    "props"
+    "industrial"
    ],
    "tags": [
     "shed",
@@ -3389,14 +3623,15 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Kuutti Siitonen",
    "source_page": "https://polyhaven.com/a/all_purpose_cleaner",
-   "path": "props/all_purpose_cleaner"
+   "path": "props/all_purpose_cleaner",
+   "type": "3d"
   },
   {
    "id": "american_football",
    "title": "American Football",
    "genre": "props",
    "genres": [
-    "props"
+    "sports"
    ],
    "tags": [
     "game",
@@ -3411,14 +3646,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Riley Queen",
    "source_page": "https://polyhaven.com/a/american_football",
-   "path": "props/american_football"
+   "path": "props/american_football",
+   "type": "3d"
   },
   {
    "id": "antique_estoc",
    "title": "Antique Estoc",
    "genre": "props",
    "genres": [
-    "props"
+    "fantasy",
+    "weapons"
    ],
    "tags": [
     "antique",
@@ -3433,14 +3670,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / James Ray Cock, Ulan Cabanilla",
    "source_page": "https://polyhaven.com/a/antique_estoc",
-   "path": "props/antique_estoc"
+   "path": "props/antique_estoc",
+   "type": "3d"
   },
   {
    "id": "antique_katana_01",
    "title": "Antique Katana 01",
    "genre": "props",
    "genres": [
-    "props"
+    "fantasy",
+    "weapons"
    ],
    "tags": [
     "antique",
@@ -3455,14 +3694,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Tal Swicegood",
    "source_page": "https://polyhaven.com/a/antique_katana_01",
-   "path": "props/antique_katana_01"
+   "path": "props/antique_katana_01",
+   "type": "3d"
   },
   {
    "id": "Barrel_01",
    "title": "Barrel_01",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "barrel",
@@ -3477,14 +3718,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Jorge Camacho",
    "source_page": "https://polyhaven.com/a/Barrel_01",
-   "path": "sci-fi/Barrel_01"
+   "path": "props/Barrel_01",
+   "type": "3d"
   },
   {
    "id": "Barrel_02",
    "title": "Barrel 02",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "barrel",
@@ -3499,14 +3742,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Jorge Camacho",
    "source_page": "https://polyhaven.com/a/Barrel_02",
-   "path": "sci-fi/Barrel_02"
+   "path": "props/Barrel_02",
+   "type": "3d"
   },
   {
    "id": "ammo_box",
    "title": "Ammo Box",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "shooter"
    ],
    "tags": [
     "old",
@@ -3521,14 +3766,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / DanKit",
    "source_page": "https://polyhaven.com/a/ammo_box",
-   "path": "sci-fi/ammo_box"
+   "path": "props/ammo_box",
+   "type": "3d"
   },
   {
    "id": "barrel_03",
    "title": "Barrel 03",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "industrial",
@@ -3542,14 +3789,17 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Serhii Khromov",
    "source_page": "https://polyhaven.com/a/barrel_03",
-   "path": "sci-fi/barrel_03"
+   "path": "props/barrel_03",
+   "type": "3d"
   },
   {
    "id": "barrel_stove",
    "title": "Barrel Stove",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "urban",
+    "props"
    ],
    "tags": [
     "urban",
@@ -3563,14 +3813,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / MP",
    "source_page": "https://polyhaven.com/a/barrel_stove",
-   "path": "sci-fi/barrel_stove"
+   "path": "props/barrel_stove",
+   "type": "3d"
   },
   {
    "id": "bench_vice_01",
    "title": "Bench Vice 01",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "workshop",
@@ -3584,14 +3836,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Yann Kervran, Antanas Kep",
    "source_page": "https://polyhaven.com/a/bench_vice_01",
-   "path": "sci-fi/bench_vice_01"
+   "path": "props/bench_vice_01",
+   "type": "3d"
   },
   {
    "id": "bolt_cutters_01",
    "title": "Bolt Cutters 01",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "metal",
@@ -3605,14 +3859,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Yann Kervran, Antanas Kep",
    "source_page": "https://polyhaven.com/a/bolt_cutters_01",
-   "path": "sci-fi/bolt_cutters_01"
+   "path": "props/bolt_cutters_01",
+   "type": "3d"
   },
   {
    "id": "cardboard_box_01",
    "title": "Cardboard Box 01",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "warehouse",
@@ -3627,14 +3883,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Rahul Chaudhary",
    "source_page": "https://polyhaven.com/a/cardboard_box_01",
-   "path": "sci-fi/cardboard_box_01"
+   "path": "props/cardboard_box_01",
+   "type": "3d"
   },
   {
    "id": "chemistry_set",
    "title": "Chemistry Set",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "laboratory",
@@ -3649,14 +3907,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Ji\u0159\u00ed Pt\u00e1\u010dek",
    "source_page": "https://polyhaven.com/a/chemistry_set",
-   "path": "sci-fi/chemistry_set"
+   "path": "props/chemistry_set",
+   "type": "3d"
   },
   {
    "id": "circuit_board",
    "title": "Circuit Board",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "computer",
@@ -3671,14 +3931,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Benny Weimer",
    "source_page": "https://polyhaven.com/a/circuit_board",
-   "path": "sci-fi/circuit_board"
+   "path": "props/circuit_board",
+   "type": "3d"
   },
   {
    "id": "classic_laptop",
    "title": "Classic Laptop",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "urban",
+    "props"
    ],
    "tags": [
     "old",
@@ -3691,14 +3953,16 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Arrangemonk",
    "source_page": "https://polyhaven.com/a/classic_laptop",
-   "path": "sci-fi/classic_laptop"
+   "path": "props/classic_laptop",
+   "type": "3d"
   },
   {
    "id": "combination_wrench",
    "title": "Combination Wrench",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "industrial",
+    "props"
    ],
    "tags": [
     "garage",
@@ -3709,14 +3973,17 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / BKS",
    "source_page": "https://polyhaven.com/a/combination_wrench",
-   "path": "sci-fi/combination_wrench"
+   "path": "props/combination_wrench",
+   "type": "3d"
   },
   {
    "id": "concrete_road_barrier",
    "title": "Concrete Road Barrier",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "urban",
+    "industrial",
+    "props"
    ],
    "tags": [
     "road barrier",
@@ -3731,14 +3998,17 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Amal Kumar",
    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
-   "path": "sci-fi/concrete_road_barrier"
+   "path": "props/concrete_road_barrier",
+   "type": "3d"
   },
   {
    "id": "concrete_road_barrier_02",
    "title": "Concrete Road Barrier 02",
-   "genre": "sci-fi",
+   "genre": "props",
    "genres": [
-    "sci-fi"
+    "urban",
+    "industrial",
+    "props"
    ],
    "tags": [
     "road barrier",
@@ -3752,7 +4022,8 @@
    "license": "CC0-1.0",
    "credit": "Poly Haven / Amal Kumar",
    "source_page": "https://polyhaven.com/a/concrete_road_barrier_02",
-   "path": "sci-fi/concrete_road_barrier_02"
+   "path": "props/concrete_road_barrier_02",
+   "type": "3d"
   },
   {
    "id": "modular-space-kit",
@@ -3760,7 +4031,7 @@
    "genre": "sci-fi",
    "genres": [
     "sci-fi",
-    "tiles-terrain"
+    "tiles"
    ],
    "tags": [
     "modular",
@@ -3772,7 +4043,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/modular-space-kit",
-   "path": "sci-fi/modular-space-kit"
+   "path": "sci-fi/modular-space-kit",
+   "type": "3d"
   },
   {
    "id": "space-kit",
@@ -3790,14 +4062,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/space-kit",
-   "path": "sci-fi/space-kit"
+   "path": "sci-fi/space-kit",
+   "type": "3d"
   },
   {
    "id": "space-station-kit",
    "title": "Space Station Kit",
    "genre": "sci-fi",
    "genres": [
-    "sci-fi"
+    "sci-fi",
+    "tiles"
    ],
    "tags": [
     "interior",
@@ -3808,14 +4082,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/space-station-kit",
-   "path": "sci-fi/space-station-kit"
+   "path": "sci-fi/space-station-kit",
+   "type": "3d"
   },
   {
    "id": "platformer-kit",
    "title": "Platformer Kit",
    "genre": "tiles-terrain",
    "genres": [
-    "tiles-terrain"
+    "platformer"
    ],
    "tags": [
     "level",
@@ -3825,7 +4100,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/platformer-kit",
-   "path": "tiles-terrain/platformer-kit"
+   "path": "tiles-terrain/platformer-kit",
+   "type": "3d"
   },
   {
    "id": "superpowers-3d-vehicles",
@@ -3842,7 +4118,8 @@
    "license": "CC0-1.0",
    "credit": "Sparklin Labs",
    "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles",
-   "path": "vehicles/superpowers-3d-vehicles"
+   "path": "vehicles/superpowers-3d-vehicles",
+   "type": "3d"
   },
   {
    "id": "car-kit",
@@ -3860,14 +4137,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/car-kit",
-   "path": "vehicles/car-kit"
+   "path": "vehicles/car-kit",
+   "type": "3d"
   },
   {
    "id": "coaster-kit",
    "title": "Coaster Kit",
    "genre": "vehicles",
    "genres": [
-    "vehicles"
+    "racing",
+    "sports"
    ],
    "tags": [
     "attraction",
@@ -3880,14 +4159,16 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/coaster-kit",
-   "path": "vehicles/coaster-kit"
+   "path": "vehicles/coaster-kit",
+   "type": "3d"
   },
   {
    "id": "marble-kit",
    "title": "Marble Kit",
    "genre": "vehicles",
    "genres": [
-    "vehicles"
+    "puzzle",
+    "tiles"
    ],
    "tags": [
     "marble",
@@ -3896,16 +4177,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/marble-kit",
-   "path": "vehicles/marble-kit"
+   "path": "vehicles/marble-kit",
+   "type": "3d"
   },
   {
    "id": "prototype-kit",
    "title": "Prototype Kit",
    "genre": "vehicles",
    "genres": [
-    "vehicles",
-    "modern-urban",
-    "characters"
+    "tiles",
+    "characters",
+    "vehicles"
    ],
    "tags": [
     "animal",
@@ -3919,15 +4201,17 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/prototype-kit",
-   "path": "vehicles/prototype-kit"
+   "path": "vehicles/prototype-kit",
+   "type": "3d"
   },
   {
    "id": "racing-kit",
    "title": "Racing Kit",
    "genre": "vehicles",
    "genres": [
-    "vehicles",
-    "tiles-terrain"
+    "racing",
+    "tiles",
+    "vehicles"
    ],
    "tags": [
     "car",
@@ -3939,13 +4223,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/racing-kit",
-   "path": "vehicles/racing-kit"
+   "path": "vehicles/racing-kit",
+   "type": "3d"
   },
   {
    "id": "toy-car-kit",
    "title": "Toy Car Kit",
    "genre": "vehicles",
    "genres": [
+    "racing",
     "vehicles"
    ],
    "tags": [
@@ -3957,13 +4243,15 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/toy-car-kit",
-   "path": "vehicles/toy-car-kit"
+   "path": "vehicles/toy-car-kit",
+   "type": "3d"
   },
   {
    "id": "train-kit",
    "title": "Train Kit",
    "genre": "vehicles",
    "genres": [
+    "racing",
     "vehicles"
    ],
    "tags": [
@@ -3977,7 +4265,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/train-kit",
-   "path": "vehicles/train-kit"
+   "path": "vehicles/train-kit",
+   "type": "3d"
   },
   {
    "id": "watercraft-kit",
@@ -3995,7 +4284,8 @@
    "license": "CC0-1.0",
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/watercraft-kit",
-   "path": "vehicles/watercraft-kit"
+   "path": "vehicles/watercraft-kit",
+   "type": "3d"
   }
  ]
 }
