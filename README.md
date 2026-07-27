@@ -1,6 +1,6 @@
 # 3d-assets
 
-A curated, ready-to-use library of **211 free asset packs** - 3D models, 2D sprites and sprite sheets, tilesets, sound effects, fonts, PBR materials and HDRIs. Enough to build complete games without leaving the repo.
+A curated, ready-to-use library of **217 free asset packs** - 3D models, 2D sprites and sprite sheets, tilesets, sound effects, music, fonts, PBR materials and HDRIs. Enough to build complete games without leaving the repo.
 
 **Every asset here is CC0 (public domain equivalent):** free for commercial use, no attribution required, no license tracking needed. Nothing in this repo has usage restrictions.
 
@@ -19,6 +19,7 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 | [`materials/`](materials/) | 56 | seamless PBR textures (colour / normal / roughness / AO) |
 | [`misc/`](misc/) | 7 | everything else |
 | [`modern-urban/`](modern-urban/) | 26 | city, town, buildings, roads, furniture |
+| [`music/`](music/) | 6 | background music tracks by mood (OGG) |
 | [`nature/`](nature/) | 21 | trees, terrain, rocks, farm, landscape |
 | [`props/`](props/) | 14 | general-purpose scene props |
 | [`sci-fi/`](sci-fi/) | 17 | space, alien, robot, industrial, futuristic |
@@ -29,9 +30,11 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 Packs grouped by the themes they suit. Many packs ship a packed sprite sheet next to the individual frames.
 
-- **Fantasy / RPG** (13 packs): [`rpg-battle-system`](2d/rpg-battle-system), [`ninja-adventure-pack`](2d/ninja-adventure-pack), [`medieval-fantasy-pack`](2d/medieval-fantasy-pack), [`rpg-pack`](2d/rpg-pack), [`rpg-sounds`](audio/rpg-sounds), [`superpowers-3d-warriors`](characters/superpowers-3d-warriors), [`castle-kit`](fantasy/castle-kit), [`fantasy-town-kit`](fantasy/fantasy-town-kit), [`mini-dungeon`](fantasy/mini-dungeon), [`modular-dungeon-kit`](fantasy/modular-dungeon-kit), [`pirate-kit`](fantasy/pirate-kit), [`retro-fantasy-kit`](fantasy/retro-fantasy-kit), [`tower-defense-kit`](fantasy/tower-defense-kit)
-- **Sci-fi / space** (21 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`digital-sounds`](audio/digital-sounds), [`Barrel_01`](sci-fi/Barrel_01), [`Barrel_02`](sci-fi/Barrel_02), [`ammo_box`](sci-fi/ammo_box), [`barrel_03`](sci-fi/barrel_03), [`barrel_stove`](sci-fi/barrel_stove), [`bench_vice_01`](sci-fi/bench_vice_01), [`bolt_cutters_01`](sci-fi/bolt_cutters_01), [`cardboard_box_01`](sci-fi/cardboard_box_01), [`chemistry_set`](sci-fi/chemistry_set), [`circuit_board`](sci-fi/circuit_board), [`classic_laptop`](sci-fi/classic_laptop), [`combination_wrench`](sci-fi/combination_wrench), [`concrete_road_barrier`](sci-fi/concrete_road_barrier), [`concrete_road_barrier_02`](sci-fi/concrete_road_barrier_02), [`modular-space-kit`](sci-fi/modular-space-kit), [`space-kit`](sci-fi/space-kit), [`space-station-kit`](sci-fi/space-station-kit)
-- **Shooter** (5 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites), [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack)
+- **Fantasy / RPG** (14 packs): [`rpg-battle-system`](2d/rpg-battle-system), [`ninja-adventure-pack`](2d/ninja-adventure-pack), [`medieval-fantasy-pack`](2d/medieval-fantasy-pack), [`rpg-pack`](2d/rpg-pack), [`rpg-sounds`](audio/rpg-sounds), [`superpowers-3d-warriors`](characters/superpowers-3d-warriors), [`castle-kit`](fantasy/castle-kit), [`fantasy-town-kit`](fantasy/fantasy-town-kit), [`mini-dungeon`](fantasy/mini-dungeon), [`modular-dungeon-kit`](fantasy/modular-dungeon-kit), [`pirate-kit`](fantasy/pirate-kit), [`retro-fantasy-kit`](fantasy/retro-fantasy-kit), [`tower-defense-kit`](fantasy/tower-defense-kit), [`fantasy-music`](music/fantasy-music)
+- **Sci-fi / space** (22 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`digital-sounds`](audio/digital-sounds), [`sci-fi-music`](music/sci-fi-music), [`Barrel_01`](sci-fi/Barrel_01), [`Barrel_02`](sci-fi/Barrel_02), [`ammo_box`](sci-fi/ammo_box), [`barrel_03`](sci-fi/barrel_03), [`barrel_stove`](sci-fi/barrel_stove), [`bench_vice_01`](sci-fi/bench_vice_01), [`bolt_cutters_01`](sci-fi/bolt_cutters_01), [`cardboard_box_01`](sci-fi/cardboard_box_01), [`chemistry_set`](sci-fi/chemistry_set), [`circuit_board`](sci-fi/circuit_board), [`classic_laptop`](sci-fi/classic_laptop), [`combination_wrench`](sci-fi/combination_wrench), [`concrete_road_barrier`](sci-fi/concrete_road_barrier), [`concrete_road_barrier_02`](sci-fi/concrete_road_barrier_02), [`modular-space-kit`](sci-fi/modular-space-kit), [`space-kit`](sci-fi/space-kit), [`space-station-kit`](sci-fi/space-station-kit)
+- **Shooter** (6 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites), [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`action-music`](music/action-music)
+- **Horror / post-apocalyptic** (2 packs): [`graveyard-kit`](characters/graveyard-kit), [`horror-music`](music/horror-music)
+- **Western** (2 packs): [`western-fps-pack`](2d/western-fps-pack), [`western-music`](music/western-music)
 
 ## Index
 
@@ -211,6 +214,15 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - [`modular-buildings/`](modern-urban/modular-buildings/) - **Modular Buildings** ([source](https://kenney.nl/assets/modular-buildings)) - building, city, house, modular, town
 - [`retro-urban-kit/`](modern-urban/retro-urban-kit/) - **Retro Urban Kit** ([source](https://kenney.nl/assets/retro-urban-kit)) - building, city, retro, urban
 
+### music
+
+- [`loops-and-menu-music/`](music/loops-and-menu-music/) - **Loops and Menu Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, loop, menu, chiptune, fanfare
+- [`western-music/`](music/western-music/) - **Western Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, western, desert, showdown
+- [`horror-music/`](music/horror-music/) - **Horror Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, horror, suspense, post-apocalyptic, spooky
+- [`action-music/`](music/action-music/) - **Action Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, shooter, action, combat, military, chase
+- [`sci-fi-music/`](music/sci-fi-music/) - **Sci-Fi Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, sci-fi, space, ambient, synth
+- [`fantasy-music/`](music/fantasy-music/) - **Fantasy Music** ([source](https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com)) - music, fantasy, rpg, medieval, epic, boss battle
+
 ### nature
 
 - [`animated-characters-retro/`](nature/animated-characters-retro/) - **Animated Characters Retro** ([source](https://kenney.nl/assets/animated-characters-retro)) - character, survival, survivor, zombie
@@ -288,6 +300,25 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - [`train-kit/`](vehicles/train-kit/) - **Train Kit** ([source](https://kenney.nl/assets/train-kit)) - rail, railroad, track, train, tram, trolley
 - [`watercraft-kit/`](vehicles/watercraft-kit/) - **Watercraft Kit** ([source](https://kenney.nl/assets/watercraft-kit)) - boat, ship, vehicle, watercraft
 
+## Cloning
+
+The full checkout is about 1.8 GB. Git LFS is **not** used - the repository
+exceeded its LFS budget, so large files are stored directly in git. If you only
+want the current assets and not the history, a shallow clone is much faster:
+
+```sh
+git clone --depth 1 https://github.com/Tiddybub/3d-assets.git
+```
+
+To fetch only the packs you need, combine a blobless clone with sparse checkout:
+
+```sh
+git clone --filter=blob:none --no-checkout https://github.com/Tiddybub/3d-assets.git
+cd 3d-assets
+git sparse-checkout set 2d/medieval-fantasy-pack music/fantasy-music audio/rpg-sounds
+git checkout
+```
+
 ## Sources
 
 - [Kenney](https://kenney.nl) - CC0
@@ -296,6 +327,7 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - [Kenney Asset Pack 1](https://github.com/iwenzhou/kenney) - CC0 (2D packs, mirror of the original Kenney release)
 - [Superpowers Asset Packs](https://github.com/sparklinlabs/superpowers-asset-packs) - CC0 (2D game packs and low-poly 3D by Pixel-boy, Sparklin Labs)
 - [Project Cordon Sprites](https://github.com/doficia/project-cordon-sprites) - CC0 (community post-apocalyptic item sprites)
+- [FreePD](https://freepd.com) via [CC0-1.0-Music](https://github.com/SoundSafari/CC0-1.0-Music) - CC0 (background music)
 
 ## Safety
 

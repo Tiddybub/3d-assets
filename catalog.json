@@ -1,6 +1,6 @@
 {
  "repo": "3d-assets",
- "packs": 211,
+ "packs": 217,
  "assets": [
   {
    "id": "post-apocalyptic-sprites",
@@ -2606,6 +2606,123 @@
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/retro-urban-kit",
    "path": "modern-urban/retro-urban-kit"
+  },
+  {
+   "id": "loops-and-menu-music",
+   "title": "Loops and Menu Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "loop",
+    "menu",
+    "chiptune",
+    "fanfare"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/loops-and-menu-music"
+  },
+  {
+   "id": "western-music",
+   "title": "Western Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "western",
+    "desert",
+    "showdown"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/western-music"
+  },
+  {
+   "id": "horror-music",
+   "title": "Horror Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "horror",
+    "suspense",
+    "post-apocalyptic",
+    "spooky"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/horror-music"
+  },
+  {
+   "id": "action-music",
+   "title": "Action Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "shooter",
+    "action",
+    "combat",
+    "military",
+    "chase"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/action-music"
+  },
+  {
+   "id": "sci-fi-music",
+   "title": "Sci-Fi Music",
+   "genre": "music",
+   "genres": [
+    "music",
+    "sci-fi"
+   ],
+   "tags": [
+    "music",
+    "sci-fi",
+    "space",
+    "ambient",
+    "synth"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/sci-fi-music"
+  },
+  {
+   "id": "fantasy-music",
+   "title": "Fantasy Music",
+   "genre": "music",
+   "genres": [
+    "music",
+    "fantasy"
+   ],
+   "tags": [
+    "music",
+    "fantasy",
+    "rpg",
+    "medieval",
+    "epic",
+    "boss battle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/fantasy-music"
   },
   {
    "id": "animated-characters-retro",
