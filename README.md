@@ -22,6 +22,18 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 | [`tiles-terrain/`](tiles-terrain/) | 1 | tilesets, platformer kits, isometric, hex |
 | [`vehicles/`](vehicles/) | 8 | cars, tanks, ships, planes, racing |
 
+## Programs
+
+[`programs/`](programs/) holds standalone command-line tools kept alongside the
+asset library. They are independent of the assets — each one can be lifted out
+and used on its own.
+
+| Program | What it does | Dependencies |
+|---|---|---|
+| [`invoice-generator/`](programs/invoice-generator/) | Invoices & quotes → printable HTML, payment ledger, receivables aging report | none (stdlib) |
+| [`web-scraper-to-csv/`](programs/web-scraper-to-csv/) | Config-driven, robots-respecting scraper → CSV/JSON/JSONL | none (stdlib) |
+| [`bulk-image-processor/`](programs/bulk-image-processor/) | Batch resize / convert / watermark / optimise with a CSV manifest | Pillow |
+
 ## Index
 
 ### characters

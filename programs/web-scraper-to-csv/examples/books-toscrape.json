@@ -1,0 +1,28 @@
+{
+  "name": "books-toscrape",
+  "_comment": "books.toscrape.com is a public sandbox published specifically for scraping practice. Point this at a real client site only when you have permission.",
+  "start_urls": ["https://books.toscrape.com/catalogue/page-1.html"],
+  "item_selector": "article.product_pod",
+  "fields": {
+    "title": "h3 a::attr(title)",
+    "price": {"selector": "p.price_color", "number": true},
+    "availability": {"selector": "p.instock", "regex": "(In stock|Out of stock)", "default": "unknown"},
+    "rating": {"selector": "p.star-rating", "attr": "class", "replace": [["star-rating", ""]]},
+    "url": "h3 a::attr(href)",
+    "image": "img.thumbnail::attr(src)"
+  },
+  "pagination": {
+    "next_selector": "li.next a",
+    "max_pages": 5,
+    "stop_when_empty": true
+  },
+  "dedupe_on": ["url"],
+  "request": {
+    "delay": 1.0,
+    "jitter": 0.3,
+    "timeout": 20,
+    "retries": 3,
+    "obey_robots": true
+  },
+  "output": {"format": "csv", "path": "books.csv"}
+}

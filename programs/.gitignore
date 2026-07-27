@@ -1,0 +1,19 @@
+# Generated run output. Example inputs under */examples/ are source and stay tracked.
+__pycache__/
+*.pyc
+
+# invoice-generator
+invoices/
+.sequence.json
+
+# web-scraper-to-csv
+cache/
+scrape-config.json
+
+# bulk-image-processor
+out/
+web/
+proofs/
+dist/
+manifest.csv
+report.csv

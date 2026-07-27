@@ -1,0 +1,22 @@
+[
+  {
+    "id": "acme",
+    "name": "Acme Interactive",
+    "email": "ap@acmeinteractive.com",
+    "phone": "+1 (555) 771-0043",
+    "address": ["55 Foundry Street", "Austin, TX 78701"]
+  },
+  {
+    "id": "harbor",
+    "name": "Harbor Lane Media",
+    "email": "accounts@harborlane.tv",
+    "address": ["Unit 12, Dock Road", "Bristol BS1 6QH", "United Kingdom"],
+    "tax_rate": 0
+  },
+  {
+    "id": "vireo",
+    "name": "Vireo Labs",
+    "email": "finance@vireolabs.io",
+    "address": ["300 Mission Street, Floor 9", "San Francisco, CA 94105"]
+  }
+]

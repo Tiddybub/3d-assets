@@ -1,0 +1,19 @@
+{
+  "name": "quotes-paged",
+  "_comment": "Same sandbox family, but paging by URL template instead of a next link.",
+  "start_urls": [],
+  "item_selector": "div.quote",
+  "fields": {
+    "quote": {"selector": "span.text", "replace": [["“", ""], ["”", ""]]},
+    "author": "small.author::text",
+    "author_url": "span a::attr(href)",
+    "tags": {"selector": "a.tag", "all": true, "separator": ", "}
+  },
+  "pagination": {
+    "url_template": "https://quotes.toscrape.com/page/{page}/",
+    "start_page": 1,
+    "end_page": 3
+  },
+  "request": {"delay": 1.0, "obey_robots": true},
+  "output": {"format": "jsonl", "path": "quotes.jsonl"}
+}

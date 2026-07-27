@@ -1,0 +1,9 @@
+client_id,description,quantity,unit,unit_price,discount_pct,tax_rate
+acme,Environment art pass - hero level,32,hrs,95.00,0,
+acme,Asset optimisation and LOD setup,12,hrs,85.00,10,
+acme,Project management and client calls,4,hrs,75.00,0,0
+harbor,Title sequence storyboard,1,pkg,1800.00,0,
+harbor,Motion graphics - 30s cut,1,pkg,3200.00,5,
+vireo,Landing page build,18,hrs,110.00,0,
+vireo,Analytics instrumentation,6,hrs,110.00,0,
+vireo,Monthly retainer - support,1,mo,900.00,0,
