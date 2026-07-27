@@ -1,7 +1,28 @@
 {
  "repo": "3d-assets",
- "packs": 210,
+ "packs": 211,
  "assets": [
+  {
+   "id": "post-apocalyptic-sprites",
+   "title": "Post Apocalyptic Sprites",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "shooter"
+   ],
+   "tags": [
+    "post-apocalyptic",
+    "weapons",
+    "armor",
+    "shooter",
+    "items",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Project Cordon",
+   "source_page": "https://github.com/doficia/project-cordon-sprites",
+   "path": "2d/post-apocalyptic-sprites"
+  },
   {
    "id": "parallax-backgrounds",
    "title": "Parallax Backgrounds",

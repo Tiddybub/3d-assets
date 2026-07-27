@@ -1,6 +1,6 @@
 # 3d-assets
 
-A curated, ready-to-use library of **210 free asset packs** - 3D models, 2D sprites and sprite sheets, tilesets, sound effects, fonts, PBR materials and HDRIs. Enough to build complete games without leaving the repo.
+A curated, ready-to-use library of **211 free asset packs** - 3D models, 2D sprites and sprite sheets, tilesets, sound effects, fonts, PBR materials and HDRIs. Enough to build complete games without leaving the repo.
 
 **Every asset here is CC0 (public domain equivalent):** free for commercial use, no attribution required, no license tracking needed. Nothing in this repo has usage restrictions.
 
@@ -10,7 +10,7 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 | Genre | Packs | What is in it |
 |---|---|---|
-| [`2d/`](2d/) | 23 | sprite sheets, tilesets, UI, characters, backgrounds |
+| [`2d/`](2d/) | 24 | sprite sheets, tilesets, UI, characters, backgrounds |
 | [`audio/`](audio/) | 5 | sound effect and jingle packs (OGG) |
 | [`characters/`](characters/) | 7 | player sprites, enemies, animals, NPCs |
 | [`fantasy/`](fantasy/) | 7 | RPG, medieval, dungeon, roguelike, pirate |
@@ -31,12 +31,13 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 
 - **Fantasy / RPG** (13 packs): [`rpg-battle-system`](2d/rpg-battle-system), [`ninja-adventure-pack`](2d/ninja-adventure-pack), [`medieval-fantasy-pack`](2d/medieval-fantasy-pack), [`rpg-pack`](2d/rpg-pack), [`rpg-sounds`](audio/rpg-sounds), [`superpowers-3d-warriors`](characters/superpowers-3d-warriors), [`castle-kit`](fantasy/castle-kit), [`fantasy-town-kit`](fantasy/fantasy-town-kit), [`mini-dungeon`](fantasy/mini-dungeon), [`modular-dungeon-kit`](fantasy/modular-dungeon-kit), [`pirate-kit`](fantasy/pirate-kit), [`retro-fantasy-kit`](fantasy/retro-fantasy-kit), [`tower-defense-kit`](fantasy/tower-defense-kit)
 - **Sci-fi / space** (21 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`digital-sounds`](audio/digital-sounds), [`Barrel_01`](sci-fi/Barrel_01), [`Barrel_02`](sci-fi/Barrel_02), [`ammo_box`](sci-fi/ammo_box), [`barrel_03`](sci-fi/barrel_03), [`barrel_stove`](sci-fi/barrel_stove), [`bench_vice_01`](sci-fi/bench_vice_01), [`bolt_cutters_01`](sci-fi/bolt_cutters_01), [`cardboard_box_01`](sci-fi/cardboard_box_01), [`chemistry_set`](sci-fi/chemistry_set), [`circuit_board`](sci-fi/circuit_board), [`classic_laptop`](sci-fi/classic_laptop), [`combination_wrench`](sci-fi/combination_wrench), [`concrete_road_barrier`](sci-fi/concrete_road_barrier), [`concrete_road_barrier_02`](sci-fi/concrete_road_barrier_02), [`modular-space-kit`](sci-fi/modular-space-kit), [`space-kit`](sci-fi/space-kit), [`space-station-kit`](sci-fi/space-station-kit)
-- **Shooter** (4 packs): [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack)
+- **Shooter** (5 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites), [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack)
 
 ## Index
 
 ### 2d
 
+- [`post-apocalyptic-sprites/`](2d/post-apocalyptic-sprites/) - **Post Apocalyptic Sprites** ([source](https://github.com/doficia/project-cordon-sprites)) - post-apocalyptic, weapons, armor, shooter, items, sprite sheet
 - [`parallax-backgrounds/`](2d/parallax-backgrounds/) - **Parallax Backgrounds** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds)) - background, parallax, sky, scenery
 - [`prehistoric-platformer-pack/`](2d/prehistoric-platformer-pack/) - **Prehistoric Platformer Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer)) - platformer, prehistoric, dinosaur, sidescroller, sprite sheet
 - [`western-fps-pack/`](2d/western-fps-pack/) - **Western FPS Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d)) - shooter, fps, western, weapons, sprite sheet
@@ -294,6 +295,7 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - [ambientCG](https://ambientcg.com) - CC0
 - [Kenney Asset Pack 1](https://github.com/iwenzhou/kenney) - CC0 (2D packs, mirror of the original Kenney release)
 - [Superpowers Asset Packs](https://github.com/sparklinlabs/superpowers-asset-packs) - CC0 (2D game packs and low-poly 3D by Pixel-boy, Sparklin Labs)
+- [Project Cordon Sprites](https://github.com/doficia/project-cordon-sprites) - CC0 (community post-apocalyptic item sprites)
 
 ## Safety
 
