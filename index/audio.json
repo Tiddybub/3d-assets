@@ -1,0 +1,3281 @@
+{
+ "note": "Every sound effect and music file, with duration in seconds.",
+ "count": 655,
+ "files": [
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-1.ogg",
+   "seconds": 48.0
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-2.ogg",
+   "seconds": 58.91
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-3.ogg",
+   "seconds": 33.23
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-4.ogg",
+   "seconds": 27.0
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-5.ogg",
+   "seconds": 39.0
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-6.ogg",
+   "seconds": 84.0
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/music/theme-7.ogg",
+   "seconds": 69.82
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/dinosaur-1.wav",
+   "seconds": 1.31
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/dinosaur-2.wav",
+   "seconds": 0.45
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/dinosaur-3.wav",
+   "seconds": 0.77
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/dinosaur-4.wav",
+   "seconds": 0.53
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/dinosaur-5.wav",
+   "seconds": 0.23
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/hit-1.wav",
+   "seconds": 0.26
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/hit-2.wav",
+   "seconds": 0.32
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/wood-1.wav",
+   "seconds": 0.24
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/wood-2.wav",
+   "seconds": 0.22
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/wood-3.wav",
+   "seconds": 0.25
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/wood-4.wav",
+   "seconds": 0.37
+  },
+  {
+   "pack": "prehistoric-platformer-pack",
+   "file": "2d/prehistoric-platformer-pack/sound/wood-5.wav",
+   "seconds": 0.33
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-1.ogg",
+   "seconds": 72.0
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-2.ogg",
+   "seconds": 48.0
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-3.ogg",
+   "seconds": 54.0
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-4.ogg",
+   "seconds": 24.0
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-5.ogg",
+   "seconds": 82.5
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-6.ogg",
+   "seconds": 44.31
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-7.ogg",
+   "seconds": 60.0
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/musics/theme-8.ogg",
+   "seconds": 53.76
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/ammo.ogg",
+   "seconds": 0.25
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/arrow.ogg",
+   "seconds": 0.39
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/bulls.ogg",
+   "seconds": 0.9
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/desert-ambience.ogg",
+   "seconds": 35.81
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/explosion-1.ogg",
+   "seconds": 1.31
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/explosion-2.ogg",
+   "seconds": 1.31
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/explosion-3.ogg",
+   "seconds": 1.33
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/glass-breaking-1.ogg",
+   "seconds": 0.59
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/glass-breaking-2.ogg",
+   "seconds": 0.84
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/gun-1.ogg",
+   "seconds": 0.74
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/gun-2.ogg",
+   "seconds": 0.77
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/gun-3.ogg",
+   "seconds": 0.73
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/gun-4.ogg",
+   "seconds": 0.81
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/gun-5.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/impact-1.ogg",
+   "seconds": 0.2
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/impact-2.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/machinegun.wav",
+   "seconds": 11.38
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/no-ammo.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/raven-1.ogg",
+   "seconds": 9.79
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/raven-2.ogg",
+   "seconds": 2.06
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/reload.ogg",
+   "seconds": 0.49
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/sand-step.ogg",
+   "seconds": 0.56
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-1.ogg",
+   "seconds": 0.3
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-2.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-3.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-4.ogg",
+   "seconds": 0.14
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-5.ogg",
+   "seconds": 0.18
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/scream-6.ogg",
+   "seconds": 0.21
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/woosh-1.ogg",
+   "seconds": 0.16
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/woosh-2.ogg",
+   "seconds": 0.14
+  },
+  {
+   "pack": "western-fps-pack",
+   "file": "2d/western-fps-pack/sounds/woosh-3.ogg",
+   "seconds": 0.32
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/music/theme-1.ogg",
+   "seconds": 38.4
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/music/theme-2.ogg",
+   "seconds": 29.33
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/music/theme-3.ogg",
+   "seconds": 25.26
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/music/theme-4.ogg",
+   "seconds": 13.71
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/alert.wav",
+   "seconds": 0.3
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/cure.wav",
+   "seconds": 0.61
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/death.wav",
+   "seconds": 0.36
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/explosion-1.wav",
+   "seconds": 0.59
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/explosion-2.wav",
+   "seconds": 0.79
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/explosion-3.wav",
+   "seconds": 0.53
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/flame-thrower.wav",
+   "seconds": 0.81
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/hit.wav",
+   "seconds": 1.85
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/no-ammo.wav",
+   "seconds": 0.12
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/shoot-1.wav",
+   "seconds": 0.44
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/shoot-2.wav",
+   "seconds": 0.28
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/shoot-3.wav",
+   "seconds": 0.47
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/shoot-destroy.wav",
+   "seconds": 0.53
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/sword-1.wav",
+   "seconds": 1.36
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/sword-2.wav",
+   "seconds": 0.34
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/window-hit-1.wav",
+   "seconds": 0.1
+  },
+  {
+   "pack": "top-down-shooter-pack",
+   "file": "2d/top-down-shooter-pack/sounds/window-hit-2.wav",
+   "seconds": 0.21
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/music/1.ogg",
+   "seconds": 24.0
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/music/2.ogg",
+   "seconds": 13.33
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/music/3.ogg",
+   "seconds": 18.46
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/music/4.ogg",
+   "seconds": 20.0
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/1.wav",
+   "seconds": 0.33
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/2.wav",
+   "seconds": 0.31
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/3.wav",
+   "seconds": 0.63
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/4.wav",
+   "seconds": 0.46
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/5.wav",
+   "seconds": 1.85
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/6.wav",
+   "seconds": 0.64
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/7.wav",
+   "seconds": 0.68
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/8.wav",
+   "seconds": 0.53
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/alert.wav",
+   "seconds": 0.31
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/boss-death.wav",
+   "seconds": 5.78
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/boss-shoot.wav",
+   "seconds": 1.0
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/dark-shoot.wav",
+   "seconds": 0.63
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/death.wav",
+   "seconds": 3.0
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/gold-1.wav",
+   "seconds": 0.67
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/gold-2.wav",
+   "seconds": 0.68
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/gold-3.wav",
+   "seconds": 0.43
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/gold-4.wav",
+   "seconds": 0.68
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/laser.wav",
+   "seconds": 1.43
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/power-up-1.wav",
+   "seconds": 0.63
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/power-up-2.wav",
+   "seconds": 3.0
+  },
+  {
+   "pack": "space-shooter-sprites",
+   "file": "2d/space-shooter-sprites/sounds/power-up-3.wav",
+   "seconds": 3.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-1.ogg",
+   "seconds": 46.15
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-10.ogg",
+   "seconds": 61.71
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-11.ogg",
+   "seconds": 28.8
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-12.ogg",
+   "seconds": 30.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-13.ogg",
+   "seconds": 61.09
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-14.ogg",
+   "seconds": 22.59
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-15.ogg",
+   "seconds": 25.6
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-16.ogg",
+   "seconds": 90.46
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-2.ogg",
+   "seconds": 62.77
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-3.ogg",
+   "seconds": 49.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-4.ogg",
+   "seconds": 28.8
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-5.ogg",
+   "seconds": 24.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-6.ogg",
+   "seconds": 60.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-7.ogg",
+   "seconds": 44.31
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-8.ogg",
+   "seconds": 51.69
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/music/theme-9.ogg",
+   "seconds": 48.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/1.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/10.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/11.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/12.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/13.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/14.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/15.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/16.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/17.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/18.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/19.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/2.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/20.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/21.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/22.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/23.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/24.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/25.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/26.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/27.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/28.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/29.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/3.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/30.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/31.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/32.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/33.ogg",
+   "seconds": 2.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/34.ogg",
+   "seconds": 2.0
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/35.ogg",
+   "seconds": 1.78
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/36.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/37.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/38.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/39.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/4.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/40.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/5.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/6.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/7.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/8.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "rpg-battle-system",
+   "file": "2d/rpg-battle-system/sound/9.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-1.ogg",
+   "seconds": 82.29
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-10.ogg",
+   "seconds": 33.23
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-11.ogg",
+   "seconds": 71.83
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-12.ogg",
+   "seconds": 69.14
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-13.ogg",
+   "seconds": 53.33
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-14.ogg",
+   "seconds": 60.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-15.ogg",
+   "seconds": 72.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-16.ogg",
+   "seconds": 32.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-17.ogg",
+   "seconds": 37.33
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-18.ogg",
+   "seconds": 67.76
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-2.ogg",
+   "seconds": 44.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-3.ogg",
+   "seconds": 53.33
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-4.ogg",
+   "seconds": 51.69
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-5.ogg",
+   "seconds": 59.08
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-6-short.ogg",
+   "seconds": 23.04
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-6.ogg",
+   "seconds": 86.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-7.ogg",
+   "seconds": 32.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-8.ogg",
+   "seconds": 38.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/musics/theme-9.ogg",
+   "seconds": 19.2
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/1.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/10.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/11.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/12.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/13.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/14.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/15.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/16.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/17.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/18.ogg",
+   "seconds": 0.7
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/19.ogg",
+   "seconds": 0.3
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/2.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/3.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/4.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/5.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/6.ogg",
+   "seconds": 0.92
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/7.ogg",
+   "seconds": 0.92
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/8.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/9.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/alert.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/game-over-2.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/game-over.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/gold-1.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/gold-2.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/gold-3.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/kill.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/magic-1.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/magic.wav",
+   "seconds": 2.67
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-1.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-2.ogg",
+   "seconds": 3.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-3.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-4.ogg",
+   "seconds": 1.6
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-5.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/menu-6.ogg",
+   "seconds": 1.85
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/power-up-2.ogg",
+   "seconds": 0.59
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/power-up.ogg",
+   "seconds": 0.56
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/secret-1.wav",
+   "seconds": 1.2
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/succes-2.ogg",
+   "seconds": 3.43
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/succes-3.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/succes.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/sword.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/voice-1.ogg",
+   "seconds": 4.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/voice-2.ogg",
+   "seconds": 4.0
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/voice-3.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "ninja-adventure-pack",
+   "file": "2d/ninja-adventure-pack/sounds/voice-4.ogg",
+   "seconds": 2.4
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-1.ogg",
+   "seconds": 77.14
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-2.ogg",
+   "seconds": 72.0
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-3.ogg",
+   "seconds": 30.0
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-4.ogg",
+   "seconds": 27.43
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-5.ogg",
+   "seconds": 60.0
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/music/theme-6.ogg",
+   "seconds": 64.0
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/1.wav",
+   "seconds": 1.09
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/10.wav",
+   "seconds": 0.75
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/11.wav",
+   "seconds": 0.63
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/12.wav",
+   "seconds": 1.85
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/2.wav",
+   "seconds": 0.59
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/3.wav",
+   "seconds": 0.24
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/4.wav",
+   "seconds": 0.16
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/5.wav",
+   "seconds": 0.27
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/6.wav",
+   "seconds": 0.25
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/7.wav",
+   "seconds": 0.34
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/8.wav",
+   "seconds": 0.22
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/9.wav",
+   "seconds": 0.13
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/forest-ambience.wav",
+   "seconds": 30.0
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/monster-1.wav",
+   "seconds": 0.35
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/monster-2.wav",
+   "seconds": 0.33
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/victory-1.wav",
+   "seconds": 2.67
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/victory-2.wav",
+   "seconds": 2.4
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/victory-3.wav",
+   "seconds": 2.67
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/woosh-1.wav",
+   "seconds": 0.21
+  },
+  {
+   "pack": "medieval-fantasy-pack",
+   "file": "2d/medieval-fantasy-pack/sounds/woosh-2.wav",
+   "seconds": 0.34
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardFan1.ogg",
+   "seconds": 0.72
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardFan2.ogg",
+   "seconds": 1.31
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardOpenPackage1.ogg",
+   "seconds": 1.08
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardOpenPackage2.ogg",
+   "seconds": 0.81
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardPlace1.ogg",
+   "seconds": 0.78
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardPlace2.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardPlace3.ogg",
+   "seconds": 0.88
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardPlace4.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardShove1.ogg",
+   "seconds": 0.77
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardShove2.ogg",
+   "seconds": 0.99
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardShove3.ogg",
+   "seconds": 0.72
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardShove4.ogg",
+   "seconds": 0.95
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardShuffle.ogg",
+   "seconds": 3.06
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide1.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide2.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide3.ogg",
+   "seconds": 0.64
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide4.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide5.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide6.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide7.ogg",
+   "seconds": 0.64
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardSlide8.ogg",
+   "seconds": 0.67
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardTakeOutPackage1.ogg",
+   "seconds": 0.5
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/cardTakeOutPackage2.ogg",
+   "seconds": 0.63
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipLay1.ogg",
+   "seconds": 0.17
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipLay2.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipLay3.ogg",
+   "seconds": 0.24
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsCollide1.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsCollide2.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsCollide3.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsCollide4.ogg",
+   "seconds": 0.22
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle1.ogg",
+   "seconds": 0.66
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle2.ogg",
+   "seconds": 0.55
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle3.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle4.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle5.ogg",
+   "seconds": 0.83
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsHandle6.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack1.ogg",
+   "seconds": 0.29
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack2.ogg",
+   "seconds": 0.17
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack3.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack4.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack5.ogg",
+   "seconds": 0.19
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/chipsStack6.ogg",
+   "seconds": 0.19
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/diceThrow1.ogg",
+   "seconds": 0.53
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/diceThrow2.ogg",
+   "seconds": 0.65
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/diceThrow3.ogg",
+   "seconds": 0.73
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/diceThrow4.ogg",
+   "seconds": 0.47
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieGrab1.ogg",
+   "seconds": 0.7
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieGrab2.ogg",
+   "seconds": 1.24
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieShuffle1.ogg",
+   "seconds": 1.48
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieShuffle2.ogg",
+   "seconds": 1.38
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieShuffle3.ogg",
+   "seconds": 1.52
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieThrow1.ogg",
+   "seconds": 0.63
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieThrow2.ogg",
+   "seconds": 0.4
+  },
+  {
+   "pack": "casino-sounds",
+   "file": "audio/casino-sounds/dieThrow3.ogg",
+   "seconds": 0.57
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT00.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT01.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT02.ogg",
+   "seconds": 0.52
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT03.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT04.ogg",
+   "seconds": 0.64
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT05.ogg",
+   "seconds": 0.61
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT06.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT07.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT08.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT09.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT10.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT11.ogg",
+   "seconds": 0.96
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT12.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT13.ogg",
+   "seconds": 0.29
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT14.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT15.ogg",
+   "seconds": 1.16
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_HIT/jingles_HIT16.ogg",
+   "seconds": 0.29
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES00.ogg",
+   "seconds": 1.76
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES01.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES02.ogg",
+   "seconds": 0.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES03.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES04.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES05.ogg",
+   "seconds": 0.91
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES06.ogg",
+   "seconds": 0.8
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES07.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES08.ogg",
+   "seconds": 0.62
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES09.ogg",
+   "seconds": 0.44
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES10.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES11.ogg",
+   "seconds": 0.83
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES12.ogg",
+   "seconds": 0.85
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES13.ogg",
+   "seconds": 1.05
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES14.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES15.ogg",
+   "seconds": 0.43
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_NES/jingles_NES16.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA00.ogg",
+   "seconds": 0.49
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA01.ogg",
+   "seconds": 1.0
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA02.ogg",
+   "seconds": 0.96
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA03.ogg",
+   "seconds": 1.15
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA04.ogg",
+   "seconds": 0.56
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA05.ogg",
+   "seconds": 0.54
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA06.ogg",
+   "seconds": 0.69
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA07.ogg",
+   "seconds": 1.32
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA08.ogg",
+   "seconds": 0.57
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA09.ogg",
+   "seconds": 0.57
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA10.ogg",
+   "seconds": 0.8
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA11.ogg",
+   "seconds": 0.79
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA12.ogg",
+   "seconds": 0.99
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA13.ogg",
+   "seconds": 0.88
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA14.ogg",
+   "seconds": 0.92
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA15.ogg",
+   "seconds": 0.81
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_PIZZA/jingles_PIZZA16.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX00.ogg",
+   "seconds": 0.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX01.ogg",
+   "seconds": 0.89
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX02.ogg",
+   "seconds": 0.87
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX03.ogg",
+   "seconds": 1.12
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX04.ogg",
+   "seconds": 0.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX05.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX06.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX07.ogg",
+   "seconds": 1.74
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX08.ogg",
+   "seconds": 0.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX09.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX10.ogg",
+   "seconds": 0.64
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX11.ogg",
+   "seconds": 0.62
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX12.ogg",
+   "seconds": 0.85
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX13.ogg",
+   "seconds": 0.78
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX14.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX15.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_SAX/jingles_SAX16.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL00.ogg",
+   "seconds": 0.93
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL01.ogg",
+   "seconds": 1.38
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL02.ogg",
+   "seconds": 1.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL03.ogg",
+   "seconds": 1.39
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL04.ogg",
+   "seconds": 0.91
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL05.ogg",
+   "seconds": 0.94
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL06.ogg",
+   "seconds": 1.38
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL07.ogg",
+   "seconds": 1.55
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL08.ogg",
+   "seconds": 0.8
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL09.ogg",
+   "seconds": 0.59
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL10.ogg",
+   "seconds": 0.91
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL11.ogg",
+   "seconds": 0.83
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL12.ogg",
+   "seconds": 1.26
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL13.ogg",
+   "seconds": 1.05
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL14.ogg",
+   "seconds": 1.38
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL15.ogg",
+   "seconds": 0.94
+  },
+  {
+   "pack": "jingle-sounds",
+   "file": "audio/jingle-sounds/jingles_STEEL/jingles_STEEL16.ogg",
+   "seconds": 0.91
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/highDown.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/highUp.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser1.ogg",
+   "seconds": 1.61
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser2.ogg",
+   "seconds": 1.82
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser3.ogg",
+   "seconds": 1.89
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser4.ogg",
+   "seconds": 1.74
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser5.ogg",
+   "seconds": 2.18
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser6.ogg",
+   "seconds": 1.27
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser7.ogg",
+   "seconds": 1.29
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser8.ogg",
+   "seconds": 1.5
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/laser9.ogg",
+   "seconds": 1.27
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/lowDown.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/lowRandom.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/lowThreeTone.ogg",
+   "seconds": 0.98
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/pepSound1.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/pepSound2.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/pepSound3.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/pepSound4.ogg",
+   "seconds": 0.59
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/pepSound5.ogg",
+   "seconds": 0.59
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaseJump1.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaseJump2.ogg",
+   "seconds": 0.34
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaseJump3.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaseJump4.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaseJump5.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserDown1.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserDown2.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserDown3.ogg",
+   "seconds": 0.43
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp1.ogg",
+   "seconds": 0.43
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp2.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp3.ogg",
+   "seconds": 0.45
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp4.ogg",
+   "seconds": 0.29
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp5.ogg",
+   "seconds": 0.24
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp6.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/phaserUp7.ogg",
+   "seconds": 0.3
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp1.ogg",
+   "seconds": 1.16
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp10.ogg",
+   "seconds": 0.61
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp11.ogg",
+   "seconds": 0.64
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp12.ogg",
+   "seconds": 0.82
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp2.ogg",
+   "seconds": 0.43
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp3.ogg",
+   "seconds": 1.11
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp4.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp5.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp6.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp7.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp8.ogg",
+   "seconds": 0.54
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/powerUp9.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/spaceTrash1.ogg",
+   "seconds": 1.92
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/spaceTrash2.ogg",
+   "seconds": 2.1
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/spaceTrash3.ogg",
+   "seconds": 2.57
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/spaceTrash4.ogg",
+   "seconds": 2.29
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/spaceTrash5.ogg",
+   "seconds": 2.34
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/threeTone1.ogg",
+   "seconds": 1.71
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/threeTone2.ogg",
+   "seconds": 1.16
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/tone1.ogg",
+   "seconds": 1.56
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/twoTone1.ogg",
+   "seconds": 1.19
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/twoTone2.ogg",
+   "seconds": 1.53
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zap1.ogg",
+   "seconds": 0.98
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zap2.ogg",
+   "seconds": 1.19
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zapThreeToneDown.ogg",
+   "seconds": 1.29
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zapThreeToneUp.ogg",
+   "seconds": 1.16
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zapTwoTone.ogg",
+   "seconds": 1.27
+  },
+  {
+   "pack": "digital-sounds",
+   "file": "audio/digital-sounds/zapTwoTone2.ogg",
+   "seconds": 1.16
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/click1.ogg",
+   "seconds": 0.09
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/click2.ogg",
+   "seconds": 0.06
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/click3.ogg",
+   "seconds": 0.09
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/click4.ogg",
+   "seconds": 0.04
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/click5.ogg",
+   "seconds": 0.03
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/mouseclick1.ogg",
+   "seconds": 0.06
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/mouserelease1.ogg",
+   "seconds": 0.07
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover1.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover2.ogg",
+   "seconds": 0.06
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover3.ogg",
+   "seconds": 0.07
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover4.ogg",
+   "seconds": 0.11
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover5.ogg",
+   "seconds": 0.11
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/rollover6.ogg",
+   "seconds": 0.17
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch1.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch10.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch11.ogg",
+   "seconds": 0.3
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch12.ogg",
+   "seconds": 0.05
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch13.ogg",
+   "seconds": 0.03
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch14.ogg",
+   "seconds": 0.03
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch15.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch16.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch17.ogg",
+   "seconds": 0.33
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch18.ogg",
+   "seconds": 0.44
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch19.ogg",
+   "seconds": 0.38
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch2.ogg",
+   "seconds": 0.3
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch20.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch21.ogg",
+   "seconds": 0.41
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch22.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch23.ogg",
+   "seconds": 0.38
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch24.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch25.ogg",
+   "seconds": 0.38
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch26.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch27.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch28.ogg",
+   "seconds": 0.2
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch29.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch3.ogg",
+   "seconds": 0.37
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch30.ogg",
+   "seconds": 0.36
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch31.ogg",
+   "seconds": 0.44
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch32.ogg",
+   "seconds": 0.44
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch33.ogg",
+   "seconds": 0.51
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch34.ogg",
+   "seconds": 0.46
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch35.ogg",
+   "seconds": 0.33
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch36.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch37.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch38.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch4.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch5.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch6.ogg",
+   "seconds": 0.35
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch7.ogg",
+   "seconds": 0.19
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch8.ogg",
+   "seconds": 0.33
+  },
+  {
+   "pack": "ui-sounds",
+   "file": "audio/ui-sounds/switch9.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/beltHandle1.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/beltHandle2.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookClose.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookFlip1.ogg",
+   "seconds": 0.77
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookFlip2.ogg",
+   "seconds": 0.43
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookFlip3.ogg",
+   "seconds": 0.23
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookOpen.ogg",
+   "seconds": 0.15
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookPlace1.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookPlace2.ogg",
+   "seconds": 0.35
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/bookPlace3.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/chop.ogg",
+   "seconds": 0.24
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/cloth1.ogg",
+   "seconds": 0.66
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/cloth2.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/cloth3.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/cloth4.ogg",
+   "seconds": 0.38
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/clothBelt.ogg",
+   "seconds": 0.72
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/clothBelt2.ogg",
+   "seconds": 0.75
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/creak1.ogg",
+   "seconds": 0.66
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/creak2.ogg",
+   "seconds": 0.83
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/creak3.ogg",
+   "seconds": 0.34
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorClose_1.ogg",
+   "seconds": 0.68
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorClose_2.ogg",
+   "seconds": 0.61
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorClose_3.ogg",
+   "seconds": 0.71
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorClose_4.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorOpen_1.ogg",
+   "seconds": 0.92
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/doorOpen_2.ogg",
+   "seconds": 1.41
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/drawKnife1.ogg",
+   "seconds": 0.4
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/drawKnife2.ogg",
+   "seconds": 0.45
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/drawKnife3.ogg",
+   "seconds": 0.48
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/dropLeather.ogg",
+   "seconds": 0.42
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep00.ogg",
+   "seconds": 0.25
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep01.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep02.ogg",
+   "seconds": 0.24
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep03.ogg",
+   "seconds": 0.27
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep04.ogg",
+   "seconds": 0.32
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep05.ogg",
+   "seconds": 0.28
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep06.ogg",
+   "seconds": 0.24
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep07.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep08.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/footstep09.ogg",
+   "seconds": 0.22
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/handleCoins.ogg",
+   "seconds": 0.85
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/handleCoins2.ogg",
+   "seconds": 0.34
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/handleSmallLeather.ogg",
+   "seconds": 0.34
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/handleSmallLeather2.ogg",
+   "seconds": 0.31
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/knifeSlice.ogg",
+   "seconds": 0.6
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/knifeSlice2.ogg",
+   "seconds": 0.57
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/metalClick.ogg",
+   "seconds": 0.45
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/metalLatch.ogg",
+   "seconds": 0.26
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/metalPot1.ogg",
+   "seconds": 1.46
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/metalPot2.ogg",
+   "seconds": 0.94
+  },
+  {
+   "pack": "rpg-sounds",
+   "file": "audio/rpg-sounds/metalPot3.ogg",
+   "seconds": 0.91
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Bit Bit Loop.ogg",
+   "seconds": 76.85
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Blippy Trance.ogg",
+   "seconds": 120.01
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Celebration.ogg",
+   "seconds": 143.02
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/City Run.ogg",
+   "seconds": 37.12
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Comic Game Loop - Mischief.ogg",
+   "seconds": 42.74
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Fanfare X.ogg",
+   "seconds": 39.61
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Forest Frolic Loop.ogg",
+   "seconds": 37.36
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Funky Energy Loop.ogg",
+   "seconds": 202.5
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Ice and Snow.ogg",
+   "seconds": 141.51
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Infinite Wonder.ogg",
+   "seconds": 190.07
+  },
+  {
+   "pack": "loops-and-menu-music",
+   "file": "music/loops-and-menu-music/Winter.ogg",
+   "seconds": 313.0
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/Ambush in Rattlesnake Gulch.ogg",
+   "seconds": 614.06
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/Bar Brawl.ogg",
+   "seconds": 122.59
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/Del Rio Bravo.ogg",
+   "seconds": 204.07
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/Desert Fox.ogg",
+   "seconds": 133.22
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/Sun Up Gunned Down.ogg",
+   "seconds": 86.76
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/The Desert.ogg",
+   "seconds": 130.29
+  },
+  {
+   "pack": "western-music",
+   "file": "music/western-music/The Range.ogg",
+   "seconds": 84.82
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/After the End.ogg",
+   "seconds": 97.8
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Creepy Hallow.ogg",
+   "seconds": 120.06
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Cursed Intro.ogg",
+   "seconds": 76.07
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Dark Hallway.ogg",
+   "seconds": 46.94
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Dawn of the Apocalypse.ogg",
+   "seconds": 143.86
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Forest Night.ogg",
+   "seconds": 141.58
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Ghost Town.ogg",
+   "seconds": 139.39
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Goodnightmare.ogg",
+   "seconds": 240.07
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Halloween Theme 1.ogg",
+   "seconds": 120.0
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Horror Suspense.ogg",
+   "seconds": 140.02
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Horroriffic.ogg",
+   "seconds": 168.07
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Monsters in Hotel.ogg",
+   "seconds": 125.68
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/Nightmare.ogg",
+   "seconds": 54.69
+  },
+  {
+   "pack": "horror-music",
+   "file": "music/horror-music/The Land of the Dead.ogg",
+   "seconds": 107.36
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Action Strike.ogg",
+   "seconds": 134.56
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Apex.ogg",
+   "seconds": 317.33
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Assassin.ogg",
+   "seconds": 186.07
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Battle Ready.ogg",
+   "seconds": 77.71
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Beginning of Conflict.ogg",
+   "seconds": 99.37
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Behind Enemy Lines.ogg",
+   "seconds": 114.91
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Desert Conflict.ogg",
+   "seconds": 159.71
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Drop Point.ogg",
+   "seconds": 184.18
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Epic Blockbuster 2.ogg",
+   "seconds": 159.61
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Evil Incoming.ogg",
+   "seconds": 174.6
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Find Them.ogg",
+   "seconds": 142.37
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Guerilla Tactics.ogg",
+   "seconds": 109.19
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Hit n Smash.ogg",
+   "seconds": 133.02
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Jungle Mission.ogg",
+   "seconds": 186.51
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Marked.ogg",
+   "seconds": 152.54
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Night Attack.ogg",
+   "seconds": 153.16
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Rush.ogg",
+   "seconds": 133.64
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Spec Ops.ogg",
+   "seconds": 136.52
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/The Enemy.ogg",
+   "seconds": 103.08
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Uberpunch.ogg",
+   "seconds": 93.88
+  },
+  {
+   "pack": "action-music",
+   "file": "music/action-music/Video Game Blockbuster.ogg",
+   "seconds": 142.55
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Alien Invasion.ogg",
+   "seconds": 185.03
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Alien Spaceship Atmosphere.ogg",
+   "seconds": 124.06
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Aquatic City Vanished.ogg",
+   "seconds": 148.75
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Chronos.ogg",
+   "seconds": 129.22
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Circuit.ogg",
+   "seconds": 180.43
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Experimental Test Subject.ogg",
+   "seconds": 164.15
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Horizon Flare.ogg",
+   "seconds": 102.32
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Inventing Flight.ogg",
+   "seconds": 141.89
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Mothership.ogg",
+   "seconds": 125.6
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Mysterious Lights.ogg",
+   "seconds": 178.87
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Neptunian Princess.ogg",
+   "seconds": 125.45
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Parhelion.ogg",
+   "seconds": 161.92
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Release the Hybrids.ogg",
+   "seconds": 124.15
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Sciencenet Theme.ogg",
+   "seconds": 43.65
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/Space Ambience.ogg",
+   "seconds": 275.68
+  },
+  {
+   "pack": "sci-fi-music",
+   "file": "music/sci-fi-music/The Abyss.ogg",
+   "seconds": 171.0
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Adventure.ogg",
+   "seconds": 84.79
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Ancient Rite.ogg",
+   "seconds": 113.21
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Behind the Sword.ogg",
+   "seconds": 178.67
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Black Knight.ogg",
+   "seconds": 142.24
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Blacksmith.ogg",
+   "seconds": 160.81
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Brewing Potions.ogg",
+   "seconds": 93.7
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Consecrated Ground.ogg",
+   "seconds": 111.54
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Dancing at the Inn.ogg",
+   "seconds": 158.22
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Epic Boss Battle.ogg",
+   "seconds": 170.42
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Heroic Adventure.ogg",
+   "seconds": 142.94
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Honor Bound.ogg",
+   "seconds": 170.57
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Journey of Hope.ogg",
+   "seconds": 349.0
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Kings Trailer.ogg",
+   "seconds": 163.08
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/La Citadelle.ogg",
+   "seconds": 161.89
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Land of Pirates.ogg",
+   "seconds": 113.75
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Landra's Dream.ogg",
+   "seconds": 88.92
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Lonely Mountain.ogg",
+   "seconds": 190.38
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Magic in the Garden.ogg",
+   "seconds": 139.7
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Mana Two - Part 1.ogg",
+   "seconds": 234.01
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Mana Two - Part 2.ogg",
+   "seconds": 362.01
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Mana Two - Part 3.ogg",
+   "seconds": 192.0
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/New Hero in Town.ogg",
+   "seconds": 56.56
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Night in the Castle.ogg",
+   "seconds": 189.07
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Nordic Wist.ogg",
+   "seconds": 148.98
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Northur.ogg",
+   "seconds": 223.79
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Novus Initium.ogg",
+   "seconds": 162.81
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Rulers of Our Lands.ogg",
+   "seconds": 139.1
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Strength of the Titans.ogg",
+   "seconds": 61.89
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/The Britons.ogg",
+   "seconds": 306.73
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/The Crown.ogg",
+   "seconds": 232.59
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/The Ice Giants.ogg",
+   "seconds": 44.02
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/The Vikings.ogg",
+   "seconds": 160.44
+  },
+  {
+   "pack": "fantasy-music",
+   "file": "music/fantasy-music/Witch Waltz.ogg",
+   "seconds": 185.68
+  }
+ ]
+}

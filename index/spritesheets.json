@@ -1,0 +1,574 @@
+{
+ "note": "Every packed sprite sheet in the repo. 'atlas' is a Kenney-style TextureAtlas XML (SubTexture name/x/y/width/height) when present; null means the sheet is a uniform grid you slice yourself.",
+ "count": 71,
+ "sheets": [
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/diceRed.png",
+   "atlas": "2d/boardgame-pack/Spritesheets/diceRed.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 6,
+   "width": 256,
+   "height": 128
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/diceRed_border.png",
+   "atlas": "2d/boardgame-pack/Spritesheets/diceRed_border.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 6,
+   "width": 256,
+   "height": 256
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/diceWhite.png",
+   "atlas": "2d/boardgame-pack/Spritesheets/diceWhite.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 6,
+   "width": 256,
+   "height": 128
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/diceWhite_border.png",
+   "atlas": "2d/boardgame-pack/Spritesheets/diceWhite_border.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 6,
+   "width": 256,
+   "height": 256
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesBlack.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesBlue.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesGreen.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesPurple.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesRed.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesWhite.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/piecesYellow.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1216,
+   "height": 192
+  },
+  {
+   "sheet": "2d/boardgame-pack/Spritesheets/playingCards.png",
+   "atlas": "2d/boardgame-pack/Spritesheets/playingCards.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 61,
+   "width": 2048,
+   "height": 1024
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/aliens.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/aliens.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 5,
+   "width": 128,
+   "height": 256
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/complete.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/complete.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 93,
+   "width": 1024,
+   "height": 512
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/details.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/details.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 23,
+   "width": 128,
+   "height": 128
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/fullTiles.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/fullTiles.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 20,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/topTiles.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/topTiles.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 10,
+   "width": 256,
+   "height": 256
+  },
+  {
+   "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/trees.png",
+   "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/trees.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 21,
+   "width": 64,
+   "height": 1024
+  },
+  {
+   "sheet": "2d/hexagon-pack/Buildings pack (80 assets)/Spritesheet/sheet.png",
+   "atlas": "2d/hexagon-pack/Buildings pack (80 assets)/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 84,
+   "width": 1024,
+   "height": 1024
+  },
+  {
+   "sheet": "2d/medals/Spritesheet/flat.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 221,
+   "height": 152
+  },
+  {
+   "sheet": "2d/medals/Spritesheet/flatshadow.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 221,
+   "height": 154
+  },
+  {
+   "sheet": "2d/medals/Spritesheet/shaded.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 216,
+   "height": 165
+  },
+  {
+   "sheet": "2d/medieval-fantasy-pack/animals/0-animals.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 108,
+   "height": 13
+  },
+  {
+   "sheet": "2d/medieval-fantasy-pack/background-elements/0-tileset.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 320,
+   "height": 192
+  },
+  {
+   "sheet": "2d/medieval-fantasy-pack/characters/0-characters.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 176,
+   "height": 17
+  },
+  {
+   "sheet": "2d/pixel-platformer-pack/spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 692,
+   "height": 692
+  },
+  {
+   "sheet": "2d/platformer-bricks/Spritesheet/sheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1680,
+   "height": 840
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Enemies/enemies_spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 353,
+   "height": 153
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/HUD/hud_spritesheet.png",
+   "atlas": "2d/platformer-pack/Base pack (360 assets)/HUD/hud_spritesheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 33,
+   "width": 269,
+   "height": 269
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Items/items_spritesheet.png",
+   "atlas": "2d/platformer-pack/Base pack (360 assets)/Items/items_spritesheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 59,
+   "width": 576,
+   "height": 576
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p1_spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 508,
+   "height": 288
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p2_spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 494,
+   "height": 282
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p3_spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 508,
+   "height": 288
+  },
+  {
+   "sheet": "2d/platformer-pack/Base pack (360 assets)/Tiles/tiles_spritesheet.png",
+   "atlas": "2d/platformer-pack/Base pack (360 assets)/Tiles/tiles_spritesheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 172,
+   "width": 914,
+   "height": 936
+  },
+  {
+   "sheet": "2d/platformer-pack/Building pack (100 assets)/Spritesheet/sheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 980,
+   "height": 490
+  },
+  {
+   "sheet": "2d/platformer-pack/Candy pack (95 assets)/Spritesheet/sheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 980,
+   "height": 490
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBeige.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBeige.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 11,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBlue.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBlue.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 11,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienGreen.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienGreen.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 11,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienPink.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienPink.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 11,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienYellow.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienYellow.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 11,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/aliens.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/aliens.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 55,
+   "width": 1024,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/enemies.png",
+   "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/enemies.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 100,
+   "width": 1024,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Mushroom pack (50 assets)/PNG/spritesheet.png",
+   "atlas": "2d/platformer-pack/Mushroom pack (50 assets)/PNG/spritesheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 46,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Request pack (100 assets)/Spritesheet/sheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 980,
+   "height": 490
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Cake/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Cake/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 40,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Castle/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Castle/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Choco/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Choco/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 40,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Dirt/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Dirt/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Grass/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Grass/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Metal/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Metal/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 31,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Purple/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Purple/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Sand/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Sand/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Snow/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Snow/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Tundra/Spritesheet/sheet.png",
+   "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Tundra/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 36,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet-all.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1792,
+   "height": 1920
+  },
+  {
+   "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet-guns.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 782,
+   "height": 866
+  },
+  {
+   "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1792,
+   "height": 2688
+  },
+  {
+   "sheet": "2d/road-textures/Spritesheet/spritesheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 576,
+   "height": 576
+  },
+  {
+   "sheet": "2d/rpg-pack/Spritesheet/RPGpack_sheet.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 1280,
+   "height": 832
+  },
+  {
+   "sheet": "2d/rpg-pack/Spritesheet/RPGpack_sheet_2X.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 2560,
+   "height": 1664
+  },
+  {
+   "sheet": "2d/space-shooter-pack/Spritesheet/sheet.png",
+   "atlas": "2d/space-shooter-pack/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 294,
+   "width": 1024,
+   "height": 1024
+  },
+  {
+   "sheet": "2d/tappy-plane/Spritesheet/planes.png",
+   "atlas": "2d/tappy-plane/Spritesheet/planes.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 12,
+   "width": 256,
+   "height": 512
+  },
+  {
+   "sheet": "2d/tappy-plane/Spritesheet/sheet.png",
+   "atlas": "2d/tappy-plane/Spritesheet/sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 79,
+   "width": 1024,
+   "height": 2048
+  },
+  {
+   "sheet": "2d/ui-pack/Adventure pack (80 assets)/Spritesheet/uipack_rpg_sheet.png",
+   "atlas": "2d/ui-pack/Adventure pack (80 assets)/Spritesheet/uipack_rpg_sheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 87,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/blueSheet.png",
+   "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/blueSheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 26,
+   "width": 512,
+   "height": 256
+  },
+  {
+   "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greenSheet.png",
+   "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greenSheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 26,
+   "width": 512,
+   "height": 256
+  },
+  {
+   "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greySheet.png",
+   "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greySheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 39,
+   "width": 512,
+   "height": 512
+  },
+  {
+   "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/redSheet.png",
+   "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/redSheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 26,
+   "width": 512,
+   "height": 256
+  },
+  {
+   "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/yellowSheet.png",
+   "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/yellowSheet.xml",
+   "atlas_format": "texture-atlas-xml",
+   "frames": 26,
+   "width": 512,
+   "height": 256
+  },
+  {
+   "sheet": "2d/western-fps-pack/background-elements/0-tileset-32x32.png",
+   "atlas": null,
+   "atlas_format": null,
+   "frames": null,
+   "width": 384,
+   "height": 320
+  }
+ ]
+}

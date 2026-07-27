@@ -6,6 +6,8 @@ A curated, ready-to-use library of **217 free asset packs** - 3D models, 2D spri
 
 Assets are sorted into genre folders. Each pack folder holds the original files plus a `SOURCE.md` naming the author, license and original page.
 
+Building something with these? **[AGENTS.md](AGENTS.md)** is the entry point for agents and tooling: repository layout, sprite-sheet atlas formats, and the generated manifests in [`index/`](index/) (`packs.json`, `spritesheets.json`, `audio.json`) that let you query the library without walking 10,000 files.
+
 ## Contents
 
 | Genre | Packs | What is in it |
@@ -35,6 +37,26 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - **Shooter** (6 packs): [`post-apocalyptic-sprites`](2d/post-apocalyptic-sprites), [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`action-music`](music/action-music)
 - **Horror / post-apocalyptic** (2 packs): [`graveyard-kit`](characters/graveyard-kit), [`horror-music`](music/horror-music)
 - **Western** (2 packs): [`western-fps-pack`](2d/western-fps-pack), [`western-music`](music/western-music)
+
+## Cloning
+
+The full checkout is about 1.7 GB. Git LFS is **not** used - the repository
+exceeded its LFS budget, so large files are stored directly in git. If you only
+want the current assets and not the history, a shallow clone is much faster:
+
+```sh
+git clone --depth 1 https://github.com/Tiddybub/3d-assets.git
+```
+
+To fetch only the packs you need, combine a blobless clone with sparse checkout:
+
+```sh
+git clone --filter=blob:none --no-checkout https://github.com/Tiddybub/3d-assets.git
+cd 3d-assets
+git sparse-checkout set 2d/medieval-fantasy-pack music/fantasy-music audio/rpg-sounds
+git checkout
+```
+
 
 ## Index
 
@@ -299,25 +321,6 @@ Packs grouped by the themes they suit. Many packs ship a packed sprite sheet nex
 - [`toy-car-kit/`](vehicles/toy-car-kit/) - **Toy Car Kit** ([source](https://kenney.nl/assets/toy-car-kit)) - car, toy, track, vehicle
 - [`train-kit/`](vehicles/train-kit/) - **Train Kit** ([source](https://kenney.nl/assets/train-kit)) - rail, railroad, track, train, tram, trolley
 - [`watercraft-kit/`](vehicles/watercraft-kit/) - **Watercraft Kit** ([source](https://kenney.nl/assets/watercraft-kit)) - boat, ship, vehicle, watercraft
-
-## Cloning
-
-The full checkout is about 1.8 GB. Git LFS is **not** used - the repository
-exceeded its LFS budget, so large files are stored directly in git. If you only
-want the current assets and not the history, a shallow clone is much faster:
-
-```sh
-git clone --depth 1 https://github.com/Tiddybub/3d-assets.git
-```
-
-To fetch only the packs you need, combine a blobless clone with sparse checkout:
-
-```sh
-git clone --filter=blob:none --no-checkout https://github.com/Tiddybub/3d-assets.git
-cd 3d-assets
-git sparse-checkout set 2d/medieval-fantasy-pack music/fantasy-music audio/rpg-sounds
-git checkout
-```
 
 ## Sources
 

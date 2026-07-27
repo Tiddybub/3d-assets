@@ -1,0 +1,8396 @@
+{
+ "generated_from": "catalog.json + working tree",
+ "license": "CC0-1.0 (every pack)",
+ "packs": 217,
+ "assets": [
+  {
+   "id": "post-apocalyptic-sprites",
+   "title": "Post Apocalyptic Sprites",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "shooter"
+   ],
+   "tags": [
+    "post-apocalyptic",
+    "weapons",
+    "armor",
+    "shooter",
+    "items",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Project Cordon",
+   "source_page": "https://github.com/doficia/project-cordon-sprites",
+   "path": "2d/post-apocalyptic-sprites",
+   "files": 208,
+   "bytes": 1201309,
+   "by_extension": {
+    ".png": 208
+   },
+   "counts": {
+    "images": 208,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [
+    {
+     "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet-all.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1792,
+     "height": 1920
+    },
+    {
+     "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet-guns.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 782,
+     "height": 866
+    },
+    {
+     "sheet": "2d/post-apocalyptic-sprites/spritesheets/spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1792,
+     "height": 2688
+    }
+   ],
+   "source_md": "2d/post-apocalyptic-sprites/SOURCE.md"
+  },
+  {
+   "id": "parallax-backgrounds",
+   "title": "Parallax Backgrounds",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "background",
+    "parallax",
+    "sky",
+    "scenery"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds",
+   "path": "2d/parallax-backgrounds",
+   "files": 148,
+   "bytes": 792234,
+   "by_extension": {
+    ".md": 1,
+    ".png": 147
+   },
+   "counts": {
+    "images": 147,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/parallax-backgrounds/preview.png",
+   "sprite_sheets": [],
+   "source_md": "2d/parallax-backgrounds/SOURCE.md"
+  },
+  {
+   "id": "prehistoric-platformer-pack",
+   "title": "Prehistoric Platformer Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "platformer",
+    "prehistoric",
+    "dinosaur",
+    "sidescroller",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer",
+   "path": "2d/prehistoric-platformer-pack",
+   "files": 225,
+   "bytes": 9656690,
+   "by_extension": {
+    ".gif": 37,
+    ".md": 1,
+    ".ogg": 7,
+    ".png": 168,
+    ".wav": 12
+   },
+   "counts": {
+    "images": 205,
+    "audio": 19,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/prehistoric-platformer-pack/preview-part-1.png",
+   "sprite_sheets": [],
+   "source_md": "2d/prehistoric-platformer-pack/SOURCE.md",
+   "audio_seconds": 365.24
+  },
+  {
+   "id": "western-fps-pack",
+   "title": "Western FPS Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "shooter",
+    "fps",
+    "western",
+    "weapons",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d",
+   "path": "2d/western-fps-pack",
+   "files": 308,
+   "bytes": 14105368,
+   "by_extension": {
+    ".blend": 5,
+    ".gif": 8,
+    ".md": 1,
+    ".mtl": 5,
+    ".ogg": 38,
+    ".png": 250,
+    ".wav": 1
+   },
+   "counts": {
+    "images": 258,
+    "audio": 39,
+    "models": 5,
+    "fonts": 0
+   },
+   "preview": "2d/western-fps-pack/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/western-fps-pack/background-elements/0-tileset-32x32.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 384,
+     "height": 320
+    }
+   ],
+   "source_md": "2d/western-fps-pack/SOURCE.md",
+   "audio_seconds": 511.71
+  },
+  {
+   "id": "top-down-shooter-pack",
+   "title": "Top Down Shooter Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "sci-fi"
+   ],
+   "tags": [
+    "shooter",
+    "top-down",
+    "weapons",
+    "sci-fi",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter",
+   "path": "2d/top-down-shooter-pack",
+   "files": 132,
+   "bytes": 4239740,
+   "by_extension": {
+    ".gif": 8,
+    ".md": 1,
+    ".ogg": 4,
+    ".png": 102,
+    ".wav": 17
+   },
+   "counts": {
+    "images": 110,
+    "audio": 21,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/top-down-shooter-pack/preview.png",
+   "sprite_sheets": [],
+   "source_md": "2d/top-down-shooter-pack/SOURCE.md",
+   "audio_seconds": 116.39
+  },
+  {
+   "id": "space-shooter-sprites",
+   "title": "Space Shooter Sprites",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "sci-fi"
+   ],
+   "tags": [
+    "sci-fi",
+    "shooter",
+    "space",
+    "ships",
+    "shmup",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/space-shooter",
+   "path": "2d/space-shooter-sprites",
+   "files": 113,
+   "bytes": 6642011,
+   "by_extension": {
+    ".gif": 12,
+    ".md": 1,
+    ".ogg": 4,
+    ".png": 75,
+    ".wav": 21
+   },
+   "counts": {
+    "images": 87,
+    "audio": 25,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/space-shooter-sprites/preview.png",
+   "sprite_sheets": [],
+   "source_md": "2d/space-shooter-sprites/SOURCE.md",
+   "audio_seconds": 102.46
+  },
+  {
+   "id": "rpg-battle-system",
+   "title": "RPG Battle System",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "battle",
+    "monsters",
+    "turn-based",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/rpg-battle-system",
+   "path": "2d/rpg-battle-system",
+   "files": 359,
+   "bytes": 19359035,
+   "by_extension": {
+    ".aseprite": 1,
+    ".gif": 85,
+    ".md": 1,
+    ".ogg": 56,
+    ".png": 216
+   },
+   "counts": {
+    "images": 301,
+    "audio": 56,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/rpg-battle-system/preview.png",
+   "sprite_sheets": [],
+   "source_md": "2d/rpg-battle-system/SOURCE.md",
+   "audio_seconds": 812.8
+  },
+  {
+   "id": "ninja-adventure-pack",
+   "title": "Ninja Adventure Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "ninja",
+    "top-down",
+    "monsters",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure",
+   "path": "2d/ninja-adventure-pack",
+   "files": 253,
+   "bytes": 21928155,
+   "by_extension": {
+    ".gif": 27,
+    ".md": 1,
+    ".ogg": 62,
+    ".png": 161,
+    ".wav": 2
+   },
+   "counts": {
+    "images": 188,
+    "audio": 64,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/ninja-adventure-pack/preview-part-1.png",
+   "sprite_sheets": [],
+   "source_md": "2d/ninja-adventure-pack/SOURCE.md",
+   "audio_seconds": 1084.94
+  },
+  {
+   "id": "medieval-fantasy-pack",
+   "title": "Medieval Fantasy Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "medieval",
+    "monsters",
+    "top-down",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy",
+   "path": "2d/medieval-fantasy-pack",
+   "files": 189,
+   "bytes": 14662711,
+   "by_extension": {
+    ".gif": 18,
+    ".md": 1,
+    ".ogg": 6,
+    ".png": 144,
+    ".wav": 20
+   },
+   "counts": {
+    "images": 162,
+    "audio": 26,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/medieval-fantasy-pack/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/medieval-fantasy-pack/animals/0-animals.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 108,
+     "height": 13
+    },
+    {
+     "sheet": "2d/medieval-fantasy-pack/background-elements/0-tileset.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 320,
+     "height": 192
+    },
+    {
+     "sheet": "2d/medieval-fantasy-pack/characters/0-characters.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 176,
+     "height": 17
+    }
+   ],
+   "source_md": "2d/medieval-fantasy-pack/SOURCE.md",
+   "audio_seconds": 376.06
+  },
+  {
+   "id": "smilies",
+   "title": "Smilies",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "emoji",
+    "face",
+    "icons"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Smilies%20%2825%20assets%29",
+   "path": "2d/smilies",
+   "files": 25,
+   "bytes": 8126,
+   "by_extension": {
+    ".gif": 25
+   },
+   "counts": {
+    "images": 25,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "2d/smilies/SOURCE.md"
+  },
+  {
+   "id": "medals",
+   "title": "Medals",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "medal",
+    "achievement",
+    "award"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Medals%20%2830%20assets%29",
+   "path": "2d/medals",
+   "files": 32,
+   "bytes": 247813,
+   "by_extension": {
+    ".png": 31,
+    ".svg": 1
+   },
+   "counts": {
+    "images": 32,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/medals/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/medals/Spritesheet/flat.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 221,
+     "height": 152
+    },
+    {
+     "sheet": "2d/medals/Spritesheet/flatshadow.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 221,
+     "height": 154
+    },
+    {
+     "sheet": "2d/medals/Spritesheet/shaded.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 216,
+     "height": 165
+    }
+   ],
+   "source_md": "2d/medals/SOURCE.md"
+  },
+  {
+   "id": "road-textures",
+   "title": "Road Textures",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "road",
+    "tiles",
+    "racing",
+    "top-down"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Road%20textures%20%2880%20assets%29",
+   "path": "2d/road-textures",
+   "files": 83,
+   "bytes": 236607,
+   "by_extension": {
+    ".png": 81,
+    ".svg": 1,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 82,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/road-textures/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/road-textures/Spritesheet/spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 576,
+     "height": 576
+    }
+   ],
+   "source_md": "2d/road-textures/SOURCE.md"
+  },
+  {
+   "id": "platformer-bricks",
+   "title": "Platformer Bricks",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "platformer",
+    "tiles",
+    "bricks",
+    "level"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20bricks%20%28150%20assets%29",
+   "path": "2d/platformer-bricks",
+   "files": 156,
+   "bytes": 676985,
+   "by_extension": {
+    ".png": 155,
+    ".svg": 1
+   },
+   "counts": {
+    "images": 156,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/platformer-bricks/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/platformer-bricks/Spritesheet/sheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1680,
+     "height": 840
+    }
+   ],
+   "source_md": "2d/platformer-bricks/SOURCE.md"
+  },
+  {
+   "id": "platformer-pack",
+   "title": "Platformer Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "platformer",
+    "sidescroller",
+    "tiles",
+    "character",
+    "sprites"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20%281330%20assets%29",
+   "path": "2d/platformer-pack",
+   "files": 1386,
+   "bytes": 7696753,
+   "by_extension": {
+    ".json": 3,
+    ".png": 1346,
+    ".svg": 12,
+    ".txt": 4,
+    ".xml": 21
+   },
+   "counts": {
+    "images": 1358,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/platformer-pack/Extra animations and enemies (165 assets)/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Enemies/enemies_spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 353,
+     "height": 153
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/HUD/hud_spritesheet.png",
+     "atlas": "2d/platformer-pack/Base pack (360 assets)/HUD/hud_spritesheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 33,
+     "width": 269,
+     "height": 269
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Items/items_spritesheet.png",
+     "atlas": "2d/platformer-pack/Base pack (360 assets)/Items/items_spritesheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 59,
+     "width": 576,
+     "height": 576
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p1_spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 508,
+     "height": 288
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p2_spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 494,
+     "height": 282
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Player/p3_spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 508,
+     "height": 288
+    },
+    {
+     "sheet": "2d/platformer-pack/Base pack (360 assets)/Tiles/tiles_spritesheet.png",
+     "atlas": "2d/platformer-pack/Base pack (360 assets)/Tiles/tiles_spritesheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 172,
+     "width": 914,
+     "height": 936
+    },
+    {
+     "sheet": "2d/platformer-pack/Building pack (100 assets)/Spritesheet/sheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 980,
+     "height": 490
+    },
+    {
+     "sheet": "2d/platformer-pack/Candy pack (95 assets)/Spritesheet/sheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 980,
+     "height": 490
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBeige.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBeige.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 11,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBlue.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienBlue.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 11,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienGreen.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienGreen.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 11,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienPink.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienPink.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 11,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienYellow.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/alienYellow.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 11,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/aliens.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/aliens.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 55,
+     "width": 1024,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/enemies.png",
+     "atlas": "2d/platformer-pack/Extra animations and enemies (165 assets)/Spritesheets/enemies.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 100,
+     "width": 1024,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Mushroom pack (50 assets)/PNG/spritesheet.png",
+     "atlas": "2d/platformer-pack/Mushroom pack (50 assets)/PNG/spritesheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 46,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Request pack (100 assets)/Spritesheet/sheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 980,
+     "height": 490
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Cake/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Cake/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 40,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Castle/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Castle/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Choco/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Choco/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 40,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Dirt/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Dirt/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Grass/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Grass/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Metal/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Metal/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 31,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Purple/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Purple/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Sand/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Sand/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Snow/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Snow/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Tundra/Spritesheet/sheet.png",
+     "atlas": "2d/platformer-pack/Tile extension pack (360 assets)/PNG Tundra/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 36,
+     "width": 512,
+     "height": 512
+    }
+   ],
+   "source_md": "2d/platformer-pack/SOURCE.md"
+  },
+  {
+   "id": "pixel-platformer-pack",
+   "title": "Pixel Platformer Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "pixel art",
+    "platformer",
+    "tiles",
+    "retro",
+    "sprites"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20pixel%20%28900%20assets%29",
+   "path": "2d/pixel-platformer-pack",
+   "files": 3,
+   "bytes": 104405,
+   "by_extension": {
+    ".png": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/pixel-platformer-pack/sample.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/pixel-platformer-pack/spritesheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 692,
+     "height": 692
+    }
+   ],
+   "source_md": "2d/pixel-platformer-pack/SOURCE.md"
+  },
+  {
+   "id": "space-shooter-pack",
+   "title": "Space Shooter Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "space",
+    "shooter",
+    "sci-fi",
+    "ship",
+    "sprites"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Space%20shooter%20assets%20%28300%20assets%29",
+   "path": "2d/space-shooter-pack",
+   "files": 303,
+   "bytes": 1336124,
+   "by_extension": {
+    ".png": 301,
+    ".svg": 1,
+    ".xml": 1
+   },
+   "counts": {
+    "images": 302,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/space-shooter-pack/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/space-shooter-pack/Spritesheet/sheet.png",
+     "atlas": "2d/space-shooter-pack/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 294,
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "source_md": "2d/space-shooter-pack/SOURCE.md"
+  },
+  {
+   "id": "rpg-pack",
+   "title": "RPG Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "rpg",
+    "fantasy",
+    "top-down",
+    "dungeon",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/RPG%20pack%20%28230%20assets%29",
+   "path": "2d/rpg-pack",
+   "files": 234,
+   "bytes": 2358005,
+   "by_extension": {
+    ".png": 233,
+    ".svg": 1
+   },
+   "counts": {
+    "images": 234,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/rpg-pack/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/rpg-pack/Spritesheet/RPGpack_sheet.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1280,
+     "height": 832
+    },
+    {
+     "sheet": "2d/rpg-pack/Spritesheet/RPGpack_sheet_2X.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 2560,
+     "height": 1664
+    }
+   ],
+   "source_md": "2d/rpg-pack/SOURCE.md"
+  },
+  {
+   "id": "ui-pack",
+   "title": "UI Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "interface",
+    "buttons",
+    "hud"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/UI%20pack%20%28220%20assets%29",
+   "path": "2d/ui-pack",
+   "files": 251,
+   "bytes": 674815,
+   "by_extension": {
+    ".png": 243,
+    ".svg": 2,
+    ".xml": 6
+   },
+   "counts": {
+    "images": 245,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/ui-pack/Adventure pack (80 assets)/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/ui-pack/Adventure pack (80 assets)/Spritesheet/uipack_rpg_sheet.png",
+     "atlas": "2d/ui-pack/Adventure pack (80 assets)/Spritesheet/uipack_rpg_sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 87,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/blueSheet.png",
+     "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/blueSheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 26,
+     "width": 512,
+     "height": 256
+    },
+    {
+     "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greenSheet.png",
+     "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greenSheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 26,
+     "width": 512,
+     "height": 256
+    },
+    {
+     "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greySheet.png",
+     "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/greySheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 39,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/redSheet.png",
+     "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/redSheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 26,
+     "width": 512,
+     "height": 256
+    },
+    {
+     "sheet": "2d/ui-pack/Base pack (140 assets)/Spritesheet/yellowSheet.png",
+     "atlas": "2d/ui-pack/Base pack (140 assets)/Spritesheet/yellowSheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 26,
+     "width": 512,
+     "height": 256
+    }
+   ],
+   "source_md": "2d/ui-pack/SOURCE.md"
+  },
+  {
+   "id": "hexagon-pack",
+   "title": "Hexagon Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "hex",
+    "tiles",
+    "strategy",
+    "terrain"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Hexagon%20assets%20%28170%20assets%29",
+   "path": "2d/hexagon-pack",
+   "files": 197,
+   "bytes": 1051552,
+   "by_extension": {
+    ".png": 188,
+    ".svg": 2,
+    ".xml": 7
+   },
+   "counts": {
+    "images": 190,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/hexagon-pack/Base pack (90 assets)/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/aliens.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/aliens.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 5,
+     "width": 128,
+     "height": 256
+    },
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/complete.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/complete.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 93,
+     "width": 1024,
+     "height": 512
+    },
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/details.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/details.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 23,
+     "width": 128,
+     "height": 128
+    },
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/fullTiles.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/fullTiles.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 20,
+     "width": 512,
+     "height": 512
+    },
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/topTiles.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/topTiles.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 10,
+     "width": 256,
+     "height": 256
+    },
+    {
+     "sheet": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/trees.png",
+     "atlas": "2d/hexagon-pack/Base pack (90 assets)/Spritesheet/trees.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 21,
+     "width": 64,
+     "height": 1024
+    },
+    {
+     "sheet": "2d/hexagon-pack/Buildings pack (80 assets)/Spritesheet/sheet.png",
+     "atlas": "2d/hexagon-pack/Buildings pack (80 assets)/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 84,
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "source_md": "2d/hexagon-pack/SOURCE.md"
+  },
+  {
+   "id": "isometric-roads-pack",
+   "title": "Isometric Roads Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "isometric",
+    "road",
+    "city",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Isometric%20road%20assets%20%28140%20assets%29",
+   "path": "2d/isometric-roads-pack",
+   "files": 142,
+   "bytes": 886560,
+   "by_extension": {
+    ".jpg": 2,
+    ".png": 138,
+    ".svg": 2
+   },
+   "counts": {
+    "images": 142,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "2d/isometric-roads-pack/SOURCE.md"
+  },
+  {
+   "id": "onscreen-controls",
+   "title": "Onscreen Controls",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "touch",
+    "mobile",
+    "controls",
+    "buttons"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Onscreen%20controls%20%28400%20assets%29",
+   "path": "2d/onscreen-controls",
+   "files": 410,
+   "bytes": 815615,
+   "by_extension": {
+    ".png": 402,
+    ".svg": 8
+   },
+   "counts": {
+    "images": 410,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/onscreen-controls/preview.png",
+   "sprite_sheets": [],
+   "source_md": "2d/onscreen-controls/SOURCE.md"
+  },
+  {
+   "id": "puzzle-pack",
+   "title": "Puzzle Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "puzzle",
+    "match-3",
+    "casual",
+    "sprites"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Puzzle%20assets%20%2880%20assets%29",
+   "path": "2d/puzzle-pack",
+   "files": 81,
+   "bytes": 568210,
+   "by_extension": {
+    ".jpg": 2,
+    ".png": 78,
+    ".svg": 1
+   },
+   "counts": {
+    "images": 81,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "2d/puzzle-pack/SOURCE.md"
+  },
+  {
+   "id": "boardgame-pack",
+   "title": "Boardgame Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "boardgame",
+    "cards",
+    "dice",
+    "chess",
+    "tokens"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Boardgame%20pack%20%28480%20assets%29",
+   "path": "2d/boardgame-pack",
+   "files": 514,
+   "bytes": 2594824,
+   "by_extension": {
+    ".png": 498,
+    ".svg": 11,
+    ".xml": 5
+   },
+   "counts": {
+    "images": 509,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/boardgame-pack/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/diceRed.png",
+     "atlas": "2d/boardgame-pack/Spritesheets/diceRed.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 6,
+     "width": 256,
+     "height": 128
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/diceRed_border.png",
+     "atlas": "2d/boardgame-pack/Spritesheets/diceRed_border.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 6,
+     "width": 256,
+     "height": 256
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/diceWhite.png",
+     "atlas": "2d/boardgame-pack/Spritesheets/diceWhite.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 6,
+     "width": 256,
+     "height": 128
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/diceWhite_border.png",
+     "atlas": "2d/boardgame-pack/Spritesheets/diceWhite_border.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 6,
+     "width": 256,
+     "height": 256
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesBlack.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesBlue.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesGreen.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesPurple.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesRed.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesWhite.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/piecesYellow.png",
+     "atlas": null,
+     "atlas_format": null,
+     "frames": null,
+     "width": 1216,
+     "height": 192
+    },
+    {
+     "sheet": "2d/boardgame-pack/Spritesheets/playingCards.png",
+     "atlas": "2d/boardgame-pack/Spritesheets/playingCards.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 61,
+     "width": 2048,
+     "height": 1024
+    }
+   ],
+   "source_md": "2d/boardgame-pack/SOURCE.md"
+  },
+  {
+   "id": "tappy-plane",
+   "title": "Tappy Plane",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "plane",
+    "flappy",
+    "arcade",
+    "sidescroller"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Tappy%20Plane%20%2880%20assets%29",
+   "path": "2d/tappy-plane",
+   "files": 86,
+   "bytes": 1252505,
+   "by_extension": {
+    ".png": 83,
+    ".svg": 1,
+    ".xml": 2
+   },
+   "counts": {
+    "images": 84,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": "2d/tappy-plane/preview.png",
+   "sprite_sheets": [
+    {
+     "sheet": "2d/tappy-plane/Spritesheet/planes.png",
+     "atlas": "2d/tappy-plane/Spritesheet/planes.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 12,
+     "width": 256,
+     "height": 512
+    },
+    {
+     "sheet": "2d/tappy-plane/Spritesheet/sheet.png",
+     "atlas": "2d/tappy-plane/Spritesheet/sheet.xml",
+     "atlas_format": "texture-atlas-xml",
+     "frames": 79,
+     "width": 1024,
+     "height": 2048
+    }
+   ],
+   "source_md": "2d/tappy-plane/SOURCE.md"
+  },
+  {
+   "id": "casino-sounds",
+   "title": "Casino Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "casino",
+    "coins",
+    "slot"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29",
+   "path": "audio/casino-sounds",
+   "files": 54,
+   "bytes": 1130743,
+   "by_extension": {
+    ".ogg": 54
+   },
+   "counts": {
+    "images": 0,
+    "audio": 54,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "audio/casino-sounds/SOURCE.md",
+   "audio_seconds": 35.51
+  },
+  {
+   "id": "jingle-sounds",
+   "title": "Jingle Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "jingle",
+    "music",
+    "stinger"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29",
+   "path": "audio/jingle-sounds",
+   "files": 85,
+   "bytes": 1277396,
+   "by_extension": {
+    ".ogg": 85
+   },
+   "counts": {
+    "images": 0,
+    "audio": 85,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "audio/jingle-sounds/SOURCE.md",
+   "audio_seconds": 64.83
+  },
+  {
+   "id": "digital-sounds",
+   "title": "Digital Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio",
+    "sci-fi"
+   ],
+   "tags": [
+    "sfx",
+    "digital",
+    "sci-fi",
+    "retro"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29",
+   "path": "audio/digital-sounds",
+   "files": 62,
+   "bytes": 936789,
+   "by_extension": {
+    ".ogg": 62
+   },
+   "counts": {
+    "images": 0,
+    "audio": 62,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "audio/digital-sounds/SOURCE.md",
+   "audio_seconds": 58.78
+  },
+  {
+   "id": "ui-sounds",
+   "title": "UI Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "ui",
+    "menu",
+    "click"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29",
+   "path": "audio/ui-sounds",
+   "files": 51,
+   "bytes": 535755,
+   "by_extension": {
+    ".ogg": 51
+   },
+   "counts": {
+    "images": 0,
+    "audio": 51,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "audio/ui-sounds/SOURCE.md",
+   "audio_seconds": 13.35
+  },
+  {
+   "id": "rpg-sounds",
+   "title": "RPG Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio",
+    "fantasy"
+   ],
+   "tags": [
+    "sfx",
+    "rpg",
+    "fantasy",
+    "combat"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29",
+   "path": "audio/rpg-sounds",
+   "files": 51,
+   "bytes": 727519,
+   "by_extension": {
+    ".ogg": 51
+   },
+   "counts": {
+    "images": 0,
+    "audio": 51,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "audio/rpg-sounds/SOURCE.md",
+   "audio_seconds": 25.27
+  },
+  {
+   "id": "superpowers-3d-warriors",
+   "title": "Superpowers 3D Warriors",
+   "genre": "characters",
+   "genres": [
+    "characters",
+    "fantasy"
+   ],
+   "tags": [
+    "character",
+    "warrior",
+    "fantasy",
+    "lowpoly"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-warriors",
+   "path": "characters/superpowers-3d-warriors",
+   "files": 124,
+   "bytes": 482174,
+   "by_extension": {
+    ".ase": 2,
+    ".aseprite": 2,
+    ".md": 1,
+    ".mtl": 25,
+    ".obj": 29,
+    ".png": 65
+   },
+   "counts": {
+    "images": 65,
+    "audio": 0,
+    "models": 29,
+    "fonts": 0
+   },
+   "preview": "characters/superpowers-3d-warriors/preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/superpowers-3d-warriors/SOURCE.md"
+  },
+  {
+   "id": "superpowers-3d-character",
+   "title": "Superpowers 3D Character",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "lowpoly",
+    "rigged",
+    "animated"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-character",
+   "path": "characters/superpowers-3d-character",
+   "files": 82,
+   "bytes": 23985839,
+   "by_extension": {
+    ".bin": 9,
+    ".blend": 9,
+    ".dae": 9,
+    ".glsl": 18,
+    ".gltf": 9,
+    ".md": 1,
+    ".mtl": 8,
+    ".png": 19
+   },
+   "counts": {
+    "images": 19,
+    "audio": 0,
+    "models": 27,
+    "fonts": 0
+   },
+   "preview": "characters/superpowers-3d-character/preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/superpowers-3d-character/SOURCE.md"
+  },
+  {
+   "id": "animated-characters-protagonists",
+   "title": "Animated Characters Protagonists",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "criminal",
+    "cyborg",
+    "skater",
+    "skating"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-protagonists",
+   "path": "characters/animated-characters-protagonists",
+   "files": 14,
+   "bytes": 2241533,
+   "by_extension": {
+    ".fbx": 4,
+    ".png": 5,
+    ".svg": 4,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 9,
+    "audio": 0,
+    "models": 4,
+    "fonts": 0
+   },
+   "preview": "characters/animated-characters-protagonists/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/animated-characters-protagonists/SOURCE.md"
+  },
+  {
+   "id": "blocky-characters",
+   "title": "Blocky Characters",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/blocky-characters",
+   "path": "characters/blocky-characters",
+   "files": 147,
+   "bytes": 12857831,
+   "by_extension": {
+    ".fbx": 18,
+    ".glb": 18,
+    ".html": 1,
+    ".mtl": 18,
+    ".obj": 18,
+    ".png": 73,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 73,
+    "audio": 0,
+    "models": 54,
+    "fonts": 0
+   },
+   "preview": "characters/blocky-characters/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/blocky-characters/SOURCE.md"
+  },
+  {
+   "id": "cube-pets",
+   "title": "Cube Pets",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "animal",
+    "cat",
+    "dog",
+    "pet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/cube-pets",
+   "path": "characters/cube-pets",
+   "files": 126,
+   "bytes": 15014257,
+   "by_extension": {
+    ".fbx": 24,
+    ".glb": 24,
+    ".html": 1,
+    ".mtl": 24,
+    ".obj": 24,
+    ".png": 28,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 28,
+    "audio": 0,
+    "models": 72,
+    "fonts": 0
+   },
+   "preview": "characters/cube-pets/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/cube-pets/SOURCE.md"
+  },
+  {
+   "id": "graveyard-kit",
+   "title": "Graveyard Kit",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "graveyard",
+    "halloween",
+    "horror",
+    "monster",
+    "spooky"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/graveyard-kit",
+   "path": "characters/graveyard-kit",
+   "files": 462,
+   "bytes": 12597085,
+   "by_extension": {
+    ".fbx": 91,
+    ".glb": 91,
+    ".html": 1,
+    ".mtl": 91,
+    ".obj": 91,
+    ".png": 96,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 96,
+    "audio": 0,
+    "models": 273,
+    "fonts": 0
+   },
+   "preview": "characters/graveyard-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/graveyard-kit/SOURCE.md"
+  },
+  {
+   "id": "mini-characters",
+   "title": "Mini Characters",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "disability",
+    "people"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-characters",
+   "path": "characters/mini-characters",
+   "files": 136,
+   "bytes": 13857170,
+   "by_extension": {
+    ".fbx": 26,
+    ".glb": 26,
+    ".html": 1,
+    ".mtl": 26,
+    ".obj": 26,
+    ".png": 30,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 30,
+    "audio": 0,
+    "models": 78,
+    "fonts": 0
+   },
+   "preview": "characters/mini-characters/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "characters/mini-characters/SOURCE.md"
+  },
+  {
+   "id": "castle-kit",
+   "title": "Castle Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "castle",
+    "medieval"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/castle-kit",
+   "path": "fantasy/castle-kit",
+   "files": 394,
+   "bytes": 6847992,
+   "by_extension": {
+    ".fbx": 76,
+    ".glb": 76,
+    ".html": 1,
+    ".mtl": 76,
+    ".obj": 76,
+    ".png": 88,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 88,
+    "audio": 0,
+    "models": 228,
+    "fonts": 0
+   },
+   "preview": "fantasy/castle-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/castle-kit/SOURCE.md"
+  },
+  {
+   "id": "fantasy-town-kit",
+   "title": "Fantasy Town Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "medieval",
+    "town",
+    "wall"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/fantasy-town-kit",
+   "path": "fantasy/fantasy-town-kit",
+   "files": 844,
+   "bytes": 10647346,
+   "by_extension": {
+    ".fbx": 167,
+    ".glb": 167,
+    ".html": 1,
+    ".mtl": 167,
+    ".obj": 167,
+    ".png": 174,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 174,
+    "audio": 0,
+    "models": 501,
+    "fonts": 0
+   },
+   "preview": "fantasy/fantasy-town-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/fantasy-town-kit/SOURCE.md"
+  },
+  {
+   "id": "mini-dungeon",
+   "title": "Mini Dungeon",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "dungeon",
+    "medieval",
+    "roguelike",
+    "rpg"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-dungeon",
+   "path": "fantasy/mini-dungeon",
+   "files": 134,
+   "bytes": 3986469,
+   "by_extension": {
+    ".fbx": 25,
+    ".glb": 25,
+    ".html": 1,
+    ".mtl": 25,
+    ".obj": 25,
+    ".png": 32,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 32,
+    "audio": 0,
+    "models": 75,
+    "fonts": 0
+   },
+   "preview": "fantasy/mini-dungeon/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/mini-dungeon/SOURCE.md"
+  },
+  {
+   "id": "modular-dungeon-kit",
+   "title": "Modular Dungeon Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "dungeon",
+    "modular",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-dungeon-kit",
+   "path": "fantasy/modular-dungeon-kit",
+   "files": 206,
+   "bytes": 19656721,
+   "by_extension": {
+    ".fbx": 39,
+    ".glb": 39,
+    ".html": 1,
+    ".mtl": 39,
+    ".obj": 39,
+    ".png": 48,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 48,
+    "audio": 0,
+    "models": 117,
+    "fonts": 0
+   },
+   "preview": "fantasy/modular-dungeon-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/modular-dungeon-kit/SOURCE.md"
+  },
+  {
+   "id": "pirate-kit",
+   "title": "Pirate Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "vehicles",
+    "characters"
+   ],
+   "tags": [
+    "boat",
+    "character",
+    "island",
+    "pirate",
+    "ship",
+    "tropical"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/pirate-kit",
+   "path": "fantasy/pirate-kit",
+   "files": 367,
+   "bytes": 9335109,
+   "by_extension": {
+    ".fbx": 72,
+    ".glb": 72,
+    ".html": 1,
+    ".mtl": 72,
+    ".obj": 72,
+    ".png": 77,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 77,
+    "audio": 0,
+    "models": 216,
+    "fonts": 0
+   },
+   "preview": "fantasy/pirate-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/pirate-kit/SOURCE.md"
+  },
+  {
+   "id": "retro-fantasy-kit",
+   "title": "Retro Fantasy Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy",
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "castle",
+    "medieval",
+    "retro",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/retro-fantasy-kit",
+   "path": "fantasy/retro-fantasy-kit",
+   "files": 559,
+   "bytes": 5607534,
+   "by_extension": {
+    ".fbx": 105,
+    ".glb": 105,
+    ".html": 1,
+    ".mtl": 105,
+    ".obj": 105,
+    ".png": 137,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 137,
+    "audio": 0,
+    "models": 315,
+    "fonts": 0
+   },
+   "preview": "fantasy/retro-fantasy-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/retro-fantasy-kit/SOURCE.md"
+  },
+  {
+   "id": "tower-defense-kit",
+   "title": "Tower Defense Kit",
+   "genre": "fantasy",
+   "genres": [
+    "fantasy"
+   ],
+   "tags": [
+    "castle",
+    "defense",
+    "medieval"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/tower-defense-kit",
+   "path": "fantasy/tower-defense-kit",
+   "files": 809,
+   "bytes": 16709672,
+   "by_extension": {
+    ".fbx": 160,
+    ".glb": 160,
+    ".html": 1,
+    ".mtl": 160,
+    ".obj": 160,
+    ".png": 167,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 167,
+    "audio": 0,
+    "models": 480,
+    "fonts": 0
+   },
+   "preview": "fantasy/tower-defense-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "fantasy/tower-defense-kit/SOURCE.md"
+  },
+  {
+   "id": "kenney-pixel-fonts",
+   "title": "Kenney Pixel Fonts",
+   "genre": "fonts",
+   "genres": [
+    "fonts"
+   ],
+   "tags": [
+    "font",
+    "pixel art",
+    "retro",
+    "ui"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Fonts%20%2810%20files%29",
+   "path": "fonts/kenney-pixel-fonts",
+   "files": 11,
+   "bytes": 296936,
+   "by_extension": {
+    ".ttf": 11
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 11
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "fonts/kenney-pixel-fonts/SOURCE.md"
+  },
+  {
+   "id": "aarfontein_dirt_road",
+   "title": "Aarfontein Dirt Road",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "natural light",
+    "high contrast",
+    "clear",
+    "morning-afternoon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jarod Guest, Dario Barresi",
+   "source_page": "https://polyhaven.com/a/aarfontein_dirt_road",
+   "path": "hdri/aarfontein_dirt_road",
+   "files": 1,
+   "bytes": 6110055,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/aarfontein_dirt_road/SOURCE.md"
+  },
+  {
+   "id": "abandoned_bakery",
+   "title": "Abandoned Bakery",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "natural light",
+    "artificial light",
+    "urban",
+    "indoor",
+    "high contrast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_bakery",
+   "path": "hdri/abandoned_bakery",
+   "files": 1,
+   "bytes": 6823048,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_bakery/SOURCE.md"
+  },
+  {
+   "id": "abandoned_church",
+   "title": "Abandoned Church",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_church",
+   "path": "hdri/abandoned_church",
+   "files": 1,
+   "bytes": 6861217,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_church/SOURCE.md"
+  },
+  {
+   "id": "abandoned_construction",
+   "title": "Abandoned Construction",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast",
+    "overcast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_construction",
+   "path": "hdri/abandoned_construction",
+   "files": 1,
+   "bytes": 6731944,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_construction/SOURCE.md"
+  },
+  {
+   "id": "abandoned_factory_canteen_01",
+   "title": "Abandoned Factory Canteen 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_01",
+   "path": "hdri/abandoned_factory_canteen_01",
+   "files": 1,
+   "bytes": 6616274,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_factory_canteen_01/SOURCE.md"
+  },
+  {
+   "id": "abandoned_factory_canteen_02",
+   "title": "Abandoned Factory Canteen 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "natural light",
+    "medium contrast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_factory_canteen_02",
+   "path": "hdri/abandoned_factory_canteen_02",
+   "files": 1,
+   "bytes": 6582552,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_factory_canteen_02/SOURCE.md"
+  },
+  {
+   "id": "abandoned_games_room_01",
+   "title": "Abandoned Games Room 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "midday",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_games_room_01",
+   "path": "hdri/abandoned_games_room_01",
+   "files": 1,
+   "bytes": 6549444,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_games_room_01/SOURCE.md"
+  },
+  {
+   "id": "abandoned_games_room_02",
+   "title": "Abandoned Games Room 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "midday",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_games_room_02",
+   "path": "hdri/abandoned_games_room_02",
+   "files": 1,
+   "bytes": 6522110,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_games_room_02/SOURCE.md"
+  },
+  {
+   "id": "abandoned_garage",
+   "title": "Abandoned Garage",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "medium contrast",
+    "urban",
+    "natural light",
+    "midday",
+    "overcast"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Grzegorz Wronkowski",
+   "source_page": "https://polyhaven.com/a/abandoned_garage",
+   "path": "hdri/abandoned_garage",
+   "files": 1,
+   "bytes": 6758165,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_garage/SOURCE.md"
+  },
+  {
+   "id": "abandoned_greenhouse",
+   "title": "Abandoned Greenhouse",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "low contrast",
+    "natural light",
+    "indoor",
+    "urban",
+    "overcast",
+    "midday"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Andreas Mischok",
+   "source_page": "https://polyhaven.com/a/abandoned_greenhouse",
+   "path": "hdri/abandoned_greenhouse",
+   "files": 1,
+   "bytes": 6831460,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_greenhouse/SOURCE.md"
+  },
+  {
+   "id": "abandoned_hall_01",
+   "title": "Abandoned Hall 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "indoor",
+    "urban",
+    "low contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Octavian Tudose",
+   "source_page": "https://polyhaven.com/a/abandoned_hall_01",
+   "path": "hdri/abandoned_hall_01",
+   "files": 1,
+   "bytes": 6503079,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_hall_01/SOURCE.md"
+  },
+  {
+   "id": "abandoned_hopper_terminal_01",
+   "title": "Abandoned Hopper Terminal 01",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_01",
+   "path": "hdri/abandoned_hopper_terminal_01",
+   "files": 1,
+   "bytes": 6533172,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_hopper_terminal_01/SOURCE.md"
+  },
+  {
+   "id": "abandoned_hopper_terminal_02",
+   "title": "Abandoned Hopper Terminal 02",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "clear",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_02",
+   "path": "hdri/abandoned_hopper_terminal_02",
+   "files": 1,
+   "bytes": 7035415,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_hopper_terminal_02/SOURCE.md"
+  },
+  {
+   "id": "abandoned_hopper_terminal_03",
+   "title": "Abandoned Hopper Terminal 03",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "morning-afternoon",
+    "partly cloudy",
+    "medium contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_03",
+   "path": "hdri/abandoned_hopper_terminal_03",
+   "files": 1,
+   "bytes": 6336509,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_hopper_terminal_03/SOURCE.md"
+  },
+  {
+   "id": "abandoned_hopper_terminal_04",
+   "title": "Abandoned Hopper Terminal 04",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "nature",
+    "midday",
+    "clear",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_hopper_terminal_04",
+   "path": "hdri/abandoned_hopper_terminal_04",
+   "files": 1,
+   "bytes": 6131823,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_hopper_terminal_04/SOURCE.md"
+  },
+  {
+   "id": "abandoned_parking",
+   "title": "Abandoned Parking",
+   "genre": "hdri",
+   "genres": [
+    "hdri"
+   ],
+   "tags": [
+    "outdoor",
+    "skies",
+    "urban",
+    "midday",
+    "partly cloudy",
+    "high contrast",
+    "natural light"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Sergej Majboroda",
+   "source_page": "https://polyhaven.com/a/abandoned_parking",
+   "path": "hdri/abandoned_parking",
+   "files": 1,
+   "bytes": 6449449,
+   "by_extension": {
+    ".hdr": 1
+   },
+   "counts": {
+    "images": 0,
+    "audio": 0,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "hdri/abandoned_parking/SOURCE.md"
+  },
+  {
+   "id": "Asphalt023S",
+   "title": "Asphalt023S",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt023S",
+   "path": "materials/Asphalt023S",
+   "files": 11,
+   "bytes": 9457083,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Asphalt023S/SOURCE.md"
+  },
+  {
+   "id": "Asphalt025C",
+   "title": "Asphalt025C",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt025C",
+   "path": "materials/Asphalt025C",
+   "files": 11,
+   "bytes": 8422817,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Asphalt025C/SOURCE.md"
+  },
+  {
+   "id": "Asphalt031",
+   "title": "Asphalt031",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt031",
+   "path": "materials/Asphalt031",
+   "files": 11,
+   "bytes": 8697119,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Asphalt031/SOURCE.md"
+  },
+  {
+   "id": "Asphalt033",
+   "title": "Asphalt033",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "asphalt"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Asphalt033",
+   "path": "materials/Asphalt033",
+   "files": 11,
+   "bytes": 9720473,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Asphalt033/SOURCE.md"
+  },
+  {
+   "id": "Bricks097",
+   "title": "Bricks097",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks097",
+   "path": "materials/Bricks097",
+   "files": 11,
+   "bytes": 5169826,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Bricks097/SOURCE.md"
+  },
+  {
+   "id": "Bricks101",
+   "title": "Bricks101",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks101",
+   "path": "materials/Bricks101",
+   "files": 11,
+   "bytes": 7818587,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Bricks101/SOURCE.md"
+  },
+  {
+   "id": "Bricks102",
+   "title": "Bricks102",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks102",
+   "path": "materials/Bricks102",
+   "files": 11,
+   "bytes": 4886526,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Bricks102/SOURCE.md"
+  },
+  {
+   "id": "Bricks104",
+   "title": "Bricks104",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "bricks"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Bricks104",
+   "path": "materials/Bricks104",
+   "files": 11,
+   "bytes": 4250206,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Bricks104/SOURCE.md"
+  },
+  {
+   "id": "Concrete034",
+   "title": "Concrete034",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete034",
+   "path": "materials/Concrete034",
+   "files": 10,
+   "bytes": 3655655,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Concrete034/SOURCE.md"
+  },
+  {
+   "id": "Concrete046",
+   "title": "Concrete046",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete046",
+   "path": "materials/Concrete046",
+   "files": 10,
+   "bytes": 5987553,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Concrete046/SOURCE.md"
+  },
+  {
+   "id": "Concrete047A",
+   "title": "Concrete047A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete047A",
+   "path": "materials/Concrete047A",
+   "files": 11,
+   "bytes": 8611896,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Concrete047A/SOURCE.md"
+  },
+  {
+   "id": "Concrete048",
+   "title": "Concrete048",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "concrete"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Concrete048",
+   "path": "materials/Concrete048",
+   "files": 12,
+   "bytes": 7534348,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 7,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 8,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Concrete048/SOURCE.md"
+  },
+  {
+   "id": "Fabric061",
+   "title": "Fabric061",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric061",
+   "path": "materials/Fabric061",
+   "files": 11,
+   "bytes": 8982668,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Fabric061/SOURCE.md"
+  },
+  {
+   "id": "Fabric066",
+   "title": "Fabric066",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric066",
+   "path": "materials/Fabric066",
+   "files": 11,
+   "bytes": 9673972,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Fabric066/SOURCE.md"
+  },
+  {
+   "id": "Fabric081C",
+   "title": "Fabric081C",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric081C",
+   "path": "materials/Fabric081C",
+   "files": 11,
+   "bytes": 5038941,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Fabric081C/SOURCE.md"
+  },
+  {
+   "id": "Fabric083",
+   "title": "Fabric083",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "fabric"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Fabric083",
+   "path": "materials/Fabric083",
+   "files": 10,
+   "bytes": 8062224,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Fabric083/SOURCE.md"
+  },
+  {
+   "id": "Grass001",
+   "title": "Grass001",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass001",
+   "path": "materials/Grass001",
+   "files": 11,
+   "bytes": 10708129,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Grass001/SOURCE.md"
+  },
+  {
+   "id": "Grass004",
+   "title": "Grass004",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass004",
+   "path": "materials/Grass004",
+   "files": 11,
+   "bytes": 11000979,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Grass004/SOURCE.md"
+  },
+  {
+   "id": "Grass005",
+   "title": "Grass005",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass005",
+   "path": "materials/Grass005",
+   "files": 11,
+   "bytes": 10440517,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Grass005/SOURCE.md"
+  },
+  {
+   "id": "Grass008",
+   "title": "Grass008",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "grass"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Grass008",
+   "path": "materials/Grass008",
+   "files": 11,
+   "bytes": 10045750,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Grass008/SOURCE.md"
+  },
+  {
+   "id": "Ground037",
+   "title": "Ground037",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground037",
+   "path": "materials/Ground037",
+   "files": 11,
+   "bytes": 10572858,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Ground037/SOURCE.md"
+  },
+  {
+   "id": "Ground054",
+   "title": "Ground054",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground054",
+   "path": "materials/Ground054",
+   "files": 11,
+   "bytes": 8672929,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Ground054/SOURCE.md"
+  },
+  {
+   "id": "Ground068",
+   "title": "Ground068",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground068",
+   "path": "materials/Ground068",
+   "files": 11,
+   "bytes": 10146879,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Ground068/SOURCE.md"
+  },
+  {
+   "id": "Ground103",
+   "title": "Ground103",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "ground"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Ground103",
+   "path": "materials/Ground103",
+   "files": 11,
+   "bytes": 9594519,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Ground103/SOURCE.md"
+  },
+  {
+   "id": "Leather026",
+   "title": "Leather026",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather026",
+   "path": "materials/Leather026",
+   "files": 10,
+   "bytes": 6839217,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Leather026/SOURCE.md"
+  },
+  {
+   "id": "Leather030",
+   "title": "Leather030",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather030",
+   "path": "materials/Leather030",
+   "files": 10,
+   "bytes": 7524738,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Leather030/SOURCE.md"
+  },
+  {
+   "id": "Leather037",
+   "title": "Leather037",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather037",
+   "path": "materials/Leather037",
+   "files": 10,
+   "bytes": 7321610,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Leather037/SOURCE.md"
+  },
+  {
+   "id": "Leather038",
+   "title": "Leather038",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "leather"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Leather038",
+   "path": "materials/Leather038",
+   "files": 10,
+   "bytes": 6470584,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Leather038/SOURCE.md"
+  },
+  {
+   "id": "Marble006",
+   "title": "Marble006",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble006",
+   "path": "materials/Marble006",
+   "files": 10,
+   "bytes": 4680603,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Marble006/SOURCE.md"
+  },
+  {
+   "id": "Marble012",
+   "title": "Marble012",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble012",
+   "path": "materials/Marble012",
+   "files": 10,
+   "bytes": 4671026,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Marble012/SOURCE.md"
+  },
+  {
+   "id": "Marble016",
+   "title": "Marble016",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble016",
+   "path": "materials/Marble016",
+   "files": 10,
+   "bytes": 4350365,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Marble016/SOURCE.md"
+  },
+  {
+   "id": "Marble021",
+   "title": "Marble021",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "marble"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Marble021",
+   "path": "materials/Marble021",
+   "files": 10,
+   "bytes": 4139724,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Marble021/SOURCE.md"
+  },
+  {
+   "id": "Metal046B",
+   "title": "Metal046B",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal046B",
+   "path": "materials/Metal046B",
+   "files": 11,
+   "bytes": 6825089,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Metal046B/SOURCE.md"
+  },
+  {
+   "id": "Metal049A",
+   "title": "Metal049A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal049A",
+   "path": "materials/Metal049A",
+   "files": 11,
+   "bytes": 2742514,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Metal049A/SOURCE.md"
+  },
+  {
+   "id": "Metal055A",
+   "title": "Metal055A",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal055A",
+   "path": "materials/Metal055A",
+   "files": 11,
+   "bytes": 4278213,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Metal055A/SOURCE.md"
+  },
+  {
+   "id": "Metal063",
+   "title": "Metal063",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "metal"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Metal063",
+   "path": "materials/Metal063",
+   "files": 11,
+   "bytes": 5618543,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Metal063/SOURCE.md"
+  },
+  {
+   "id": "PavingStones128",
+   "title": "PavingStones128",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones128",
+   "path": "materials/PavingStones128",
+   "files": 11,
+   "bytes": 8380137,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/PavingStones128/SOURCE.md"
+  },
+  {
+   "id": "PavingStones138",
+   "title": "PavingStones138",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones138",
+   "path": "materials/PavingStones138",
+   "files": 11,
+   "bytes": 4903063,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/PavingStones138/SOURCE.md"
+  },
+  {
+   "id": "PavingStones150",
+   "title": "PavingStones150",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones150",
+   "path": "materials/PavingStones150",
+   "files": 11,
+   "bytes": 5334683,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/PavingStones150/SOURCE.md"
+  },
+  {
+   "id": "PavingStones151",
+   "title": "PavingStones151",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "paving stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=PavingStones151",
+   "path": "materials/PavingStones151",
+   "files": 11,
+   "bytes": 8733720,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/PavingStones151/SOURCE.md"
+  },
+  {
+   "id": "Plaster001",
+   "title": "Plaster001",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster001",
+   "path": "materials/Plaster001",
+   "files": 10,
+   "bytes": 7412254,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Plaster001/SOURCE.md"
+  },
+  {
+   "id": "Plaster002",
+   "title": "Plaster002",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster002",
+   "path": "materials/Plaster002",
+   "files": 10,
+   "bytes": 7517174,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Plaster002/SOURCE.md"
+  },
+  {
+   "id": "Plaster003",
+   "title": "Plaster003",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster003",
+   "path": "materials/Plaster003",
+   "files": 10,
+   "bytes": 7877856,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Plaster003/SOURCE.md"
+  },
+  {
+   "id": "Plaster007",
+   "title": "Plaster007",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "plaster"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Plaster007",
+   "path": "materials/Plaster007",
+   "files": 11,
+   "bytes": 8069190,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Plaster007/SOURCE.md"
+  },
+  {
+   "id": "Rock051",
+   "title": "Rock051",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock051",
+   "path": "materials/Rock051",
+   "files": 12,
+   "bytes": 8990768,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 7,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 8,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Rock051/SOURCE.md"
+  },
+  {
+   "id": "Rock058",
+   "title": "Rock058",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock058",
+   "path": "materials/Rock058",
+   "files": 11,
+   "bytes": 8107884,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Rock058/SOURCE.md"
+  },
+  {
+   "id": "Rock063",
+   "title": "Rock063",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock063",
+   "path": "materials/Rock063",
+   "files": 11,
+   "bytes": 4977401,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Rock063/SOURCE.md"
+  },
+  {
+   "id": "Rock064",
+   "title": "Rock064",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Rock064",
+   "path": "materials/Rock064",
+   "files": 11,
+   "bytes": 8203490,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 6,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 7,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Rock064/SOURCE.md"
+  },
+  {
+   "id": "Tiles139",
+   "title": "Tiles139",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles139",
+   "path": "materials/Tiles139",
+   "files": 10,
+   "bytes": 4843269,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Tiles139/SOURCE.md"
+  },
+  {
+   "id": "Tiles140",
+   "title": "Tiles140",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles140",
+   "path": "materials/Tiles140",
+   "files": 10,
+   "bytes": 4880268,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Tiles140/SOURCE.md"
+  },
+  {
+   "id": "Tiles141",
+   "title": "Tiles141",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles141",
+   "path": "materials/Tiles141",
+   "files": 10,
+   "bytes": 4972129,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Tiles141/SOURCE.md"
+  },
+  {
+   "id": "Tiles143",
+   "title": "Tiles143",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Tiles143",
+   "path": "materials/Tiles143",
+   "files": 10,
+   "bytes": 5100315,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Tiles143/SOURCE.md"
+  },
+  {
+   "id": "Wood051",
+   "title": "Wood051",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood051",
+   "path": "materials/Wood051",
+   "files": 10,
+   "bytes": 6710789,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Wood051/SOURCE.md"
+  },
+  {
+   "id": "Wood092",
+   "title": "Wood092",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood092",
+   "path": "materials/Wood092",
+   "files": 10,
+   "bytes": 5163269,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Wood092/SOURCE.md"
+  },
+  {
+   "id": "Wood094",
+   "title": "Wood094",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood094",
+   "path": "materials/Wood094",
+   "files": 10,
+   "bytes": 4164906,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Wood094/SOURCE.md"
+  },
+  {
+   "id": "Wood095",
+   "title": "Wood095",
+   "genre": "materials",
+   "genres": [
+    "materials"
+   ],
+   "tags": [
+    "wood"
+   ],
+   "license": "CC0-1.0",
+   "credit": "ambientCG",
+   "source_page": "https://ambientcg.com/view?id=Wood095",
+   "path": "materials/Wood095",
+   "files": 10,
+   "bytes": 3880463,
+   "by_extension": {
+    ".blend": 1,
+    ".jpg": 5,
+    ".mtlx": 1,
+    ".png": 1,
+    ".tres": 1,
+    ".usdc": 1
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "materials/Wood095/SOURCE.md"
+  },
+  {
+   "id": "blaster-kit",
+   "title": "Blaster Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "blaster",
+    "target",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/blaster-kit",
+   "path": "misc/blaster-kit",
+   "files": 208,
+   "bytes": 4547111,
+   "by_extension": {
+    ".fbx": 40,
+    ".glb": 40,
+    ".html": 1,
+    ".mtl": 40,
+    ".obj": 40,
+    ".png": 46,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 46,
+    "audio": 0,
+    "models": 120,
+    "fonts": 0
+   },
+   "preview": "misc/blaster-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/blaster-kit/SOURCE.md"
+  },
+  {
+   "id": "food-kit",
+   "title": "Food Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "eat",
+    "food",
+    "kitchen"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/food-kit",
+   "path": "misc/food-kit",
+   "files": 1006,
+   "bytes": 13640770,
+   "by_extension": {
+    ".fbx": 200,
+    ".glb": 200,
+    ".html": 1,
+    ".mtl": 200,
+    ".obj": 200,
+    ".png": 204,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 204,
+    "audio": 0,
+    "models": 600,
+    "fonts": 0
+   },
+   "preview": "misc/food-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/food-kit/SOURCE.md"
+  },
+  {
+   "id": "mini-arcade",
+   "title": "Mini Arcade",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "arcade",
+    "game",
+    "machine",
+    "play"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-arcade",
+   "path": "misc/mini-arcade",
+   "files": 111,
+   "bytes": 4316058,
+   "by_extension": {
+    ".fbx": 20,
+    ".glb": 20,
+    ".html": 1,
+    ".mtl": 20,
+    ".obj": 20,
+    ".png": 29,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 29,
+    "audio": 0,
+    "models": 60,
+    "fonts": 0
+   },
+   "preview": "misc/mini-arcade/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/mini-arcade/SOURCE.md"
+  },
+  {
+   "id": "mini-arena",
+   "title": "Mini Arena",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "arena",
+    "battle",
+    "roman"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-arena",
+   "path": "misc/mini-arena",
+   "files": 117,
+   "bytes": 2211456,
+   "by_extension": {
+    ".fbx": 22,
+    ".glb": 22,
+    ".html": 1,
+    ".mtl": 22,
+    ".obj": 22,
+    ".png": 27,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 27,
+    "audio": 0,
+    "models": 66,
+    "fonts": 0
+   },
+   "preview": "misc/mini-arena/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/mini-arena/SOURCE.md"
+  },
+  {
+   "id": "mini-market",
+   "title": "Mini Market",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "market",
+    "shop",
+    "store",
+    "supermarket"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-market",
+   "path": "misc/mini-market",
+   "files": 111,
+   "bytes": 3337445,
+   "by_extension": {
+    ".fbx": 20,
+    ".glb": 20,
+    ".html": 1,
+    ".mtl": 20,
+    ".obj": 20,
+    ".png": 29,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 29,
+    "audio": 0,
+    "models": 60,
+    "fonts": 0
+   },
+   "preview": "misc/mini-market/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/mini-market/SOURCE.md"
+  },
+  {
+   "id": "mini-skate",
+   "title": "Mini Skate",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "park",
+    "skateboard"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-skate",
+   "path": "misc/mini-skate",
+   "files": 108,
+   "bytes": 2710392,
+   "by_extension": {
+    ".fbx": 20,
+    ".glb": 20,
+    ".html": 1,
+    ".mtl": 20,
+    ".obj": 20,
+    ".png": 26,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 26,
+    "audio": 0,
+    "models": 60,
+    "fonts": 0
+   },
+   "preview": "misc/mini-skate/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/mini-skate/SOURCE.md"
+  },
+  {
+   "id": "minigolf-kit",
+   "title": "Minigolf Kit",
+   "genre": "misc",
+   "genres": [
+    "misc"
+   ],
+   "tags": [
+    "course",
+    "golf",
+    "level"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/minigolf-kit",
+   "path": "misc/minigolf-kit",
+   "files": 643,
+   "bytes": 8398813,
+   "by_extension": {
+    ".fbx": 126,
+    ".glb": 126,
+    ".html": 1,
+    ".mtl": 126,
+    ".obj": 126,
+    ".png": 137,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 137,
+    "audio": 0,
+    "models": 378,
+    "fonts": 0
+   },
+   "preview": "misc/minigolf-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "misc/minigolf-kit/SOURCE.md"
+  },
+  {
+   "id": "3d-road-tiles",
+   "title": "3D Road Tiles",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "road",
+    "tile"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/3d-road-tiles",
+   "path": "modern-urban/3d-road-tiles",
+   "files": 911,
+   "bytes": 6872757,
+   "by_extension": {
+    ".gltf": 302,
+    ".mtl": 302,
+    ".obj": 302,
+    ".png": 2,
+    ".txt": 2,
+    ".unitypackage": 1
+   },
+   "counts": {
+    "images": 2,
+    "audio": 0,
+    "models": 604,
+    "fonts": 0
+   },
+   "preview": "modern-urban/3d-road-tiles/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/3d-road-tiles/SOURCE.md"
+  },
+  {
+   "id": "ArmChair_01",
+   "title": "Arm Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "gothic",
+    "vintage",
+    "chair",
+    "furniture",
+    "victorian",
+    "couch",
+    "wood",
+    "varnished"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ArmChair_01",
+   "path": "modern-urban/ArmChair_01",
+   "files": 5,
+   "bytes": 769144,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/ArmChair_01/SOURCE.md"
+  },
+  {
+   "id": "BarberShopChair_01",
+   "title": "Barber Shop Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "chair",
+    "vintage",
+    "wood",
+    "leather",
+    "fancy",
+    "upholstery",
+    "barber",
+    "salon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/BarberShopChair_01",
+   "path": "modern-urban/BarberShopChair_01",
+   "files": 5,
+   "bytes": 879179,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/BarberShopChair_01/SOURCE.md"
+  },
+  {
+   "id": "CashRegister_01",
+   "title": "Cash Register 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "commercial",
+    "store",
+    "vintage",
+    "cash",
+    "transaction",
+    "register",
+    "money",
+    "sales"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joe Seabuhr",
+   "source_page": "https://polyhaven.com/a/CashRegister_01",
+   "path": "modern-urban/CashRegister_01",
+   "files": 8,
+   "bytes": 1039472,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 6
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/CashRegister_01/SOURCE.md"
+  },
+  {
+   "id": "Chandelier_01",
+   "title": "Chandelier 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "hanging",
+    "fixture",
+    "chandelier",
+    "ornate",
+    "vintage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_01",
+   "path": "modern-urban/Chandelier_01",
+   "files": 5,
+   "bytes": 1306295,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/Chandelier_01/SOURCE.md"
+  },
+  {
+   "id": "Chandelier_02",
+   "title": "Chandelier 02",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "decorative",
+    "chandelier",
+    "elegant",
+    "hanging",
+    "ornate",
+    "vintage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_02",
+   "path": "modern-urban/Chandelier_02",
+   "files": 5,
+   "bytes": 1182054,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/Chandelier_02/SOURCE.md"
+  },
+  {
+   "id": "Chandelier_03",
+   "title": "Chandelier 03",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "lighting",
+    "ceiling",
+    "hanging",
+    "fixture",
+    "chandelier",
+    "ornate",
+    "decor",
+    "elegant"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/Chandelier_03",
+   "path": "modern-urban/Chandelier_03",
+   "files": 6,
+   "bytes": 1364013,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 4
+   },
+   "counts": {
+    "images": 4,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/Chandelier_03/SOURCE.md"
+  },
+  {
+   "id": "ClassicConsole_01",
+   "title": "Classic Console 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "gothic",
+    "victorian",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ClassicConsole_01",
+   "path": "modern-urban/ClassicConsole_01",
+   "files": 5,
+   "bytes": 740693,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/ClassicConsole_01/SOURCE.md"
+  },
+  {
+   "id": "ClassicNightstand_01",
+   "title": "Classic Nightstand 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "gothic",
+    "victorian",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/ClassicNightstand_01",
+   "path": "modern-urban/ClassicNightstand_01",
+   "files": 5,
+   "bytes": 444940,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/ClassicNightstand_01/SOURCE.md"
+  },
+  {
+   "id": "CoffeeCart_01",
+   "title": "Coffee Cart 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "table",
+    "metal",
+    "shelf",
+    "plastic",
+    "cart",
+    "coffee",
+    "portable",
+    "wheels"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joe Seabuhr",
+   "source_page": "https://polyhaven.com/a/CoffeeCart_01",
+   "path": "modern-urban/CoffeeCart_01",
+   "files": 8,
+   "bytes": 1835504,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 6
+   },
+   "counts": {
+    "images": 6,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/CoffeeCart_01/SOURCE.md"
+  },
+  {
+   "id": "CoffeeTable_01",
+   "title": "Coffee Table 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "wood",
+    "vintage",
+    "table",
+    "painted",
+    "old",
+    "worn",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/CoffeeTable_01",
+   "path": "modern-urban/CoffeeTable_01",
+   "files": 5,
+   "bytes": 957812,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/CoffeeTable_01/SOURCE.md"
+  },
+  {
+   "id": "GothicBed_01",
+   "title": "Gothic Bed 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "gothic",
+    "furniture",
+    "bed",
+    "wood",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicBed_01",
+   "path": "modern-urban/GothicBed_01",
+   "files": 5,
+   "bytes": 1155213,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/GothicBed_01/SOURCE.md"
+  },
+  {
+   "id": "GothicCabinet_01",
+   "title": "Gothic Cabinet 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "gothic",
+    "furniture",
+    "table",
+    "shelf",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicCabinet_01",
+   "path": "modern-urban/GothicCabinet_01",
+   "files": 5,
+   "bytes": 1015446,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/GothicCabinet_01/SOURCE.md"
+  },
+  {
+   "id": "GothicCommode_01",
+   "title": "Gothic Commode 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "table",
+    "gothic",
+    "shelf",
+    "furniture",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GothicCommode_01",
+   "path": "modern-urban/GothicCommode_01",
+   "files": 5,
+   "bytes": 604161,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/GothicCommode_01/SOURCE.md"
+  },
+  {
+   "id": "GreenChair_01",
+   "title": "Green Chair 01",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "vintage",
+    "wood",
+    "gothic",
+    "furniture",
+    "chair",
+    "fabric",
+    "decorative"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kirill Sannikov",
+   "source_page": "https://polyhaven.com/a/GreenChair_01",
+   "path": "modern-urban/GreenChair_01",
+   "files": 5,
+   "bytes": 608044,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "modern-urban/GreenChair_01/SOURCE.md"
+  },
+  {
+   "id": "brick-kit",
+   "title": "Brick Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "brick",
+    "building",
+    "plastic",
+    "toy"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/brick-kit",
+   "path": "modern-urban/brick-kit",
+   "files": 1487,
+   "bytes": 15286366,
+   "by_extension": {
+    ".fbx": 296,
+    ".glb": 296,
+    ".html": 1,
+    ".mtl": 296,
+    ".obj": 296,
+    ".png": 301,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 301,
+    "audio": 0,
+    "models": 888,
+    "fonts": 0
+   },
+   "preview": "modern-urban/brick-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/brick-kit/SOURCE.md"
+  },
+  {
+   "id": "building-kit",
+   "title": "Building Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "house",
+    "structure"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/building-kit",
+   "path": "modern-urban/building-kit",
+   "files": 404,
+   "bytes": 4526772,
+   "by_extension": {
+    ".fbx": 79,
+    ".glb": 79,
+    ".html": 1,
+    ".mtl": 79,
+    ".obj": 79,
+    ".png": 86,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 86,
+    "audio": 0,
+    "models": 237,
+    "fonts": 0
+   },
+   "preview": "modern-urban/building-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/building-kit/SOURCE.md"
+  },
+  {
+   "id": "city-kit-commercial",
+   "title": "City Kit (Commercial)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "skyscraper"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-commercial",
+   "path": "modern-urban/city-kit-commercial",
+   "files": 216,
+   "bytes": 11190312,
+   "by_extension": {
+    ".fbx": 41,
+    ".glb": 41,
+    ".html": 1,
+    ".mtl": 41,
+    ".obj": 41,
+    ".png": 50,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 50,
+    "audio": 0,
+    "models": 123,
+    "fonts": 0
+   },
+   "preview": "modern-urban/city-kit-commercial/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/city-kit-commercial/SOURCE.md"
+  },
+  {
+   "id": "city-kit-industrial",
+   "title": "City Kit (Industrial)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "factory",
+    "warehouse"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-industrial",
+   "path": "modern-urban/city-kit-industrial",
+   "files": 138,
+   "bytes": 8512580,
+   "by_extension": {
+    ".fbx": 25,
+    ".glb": 25,
+    ".html": 1,
+    ".mtl": 25,
+    ".obj": 25,
+    ".png": 36,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 36,
+    "audio": 0,
+    "models": 75,
+    "fonts": 0
+   },
+   "preview": "modern-urban/city-kit-industrial/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/city-kit-industrial/SOURCE.md"
+  },
+  {
+   "id": "city-kit-roads",
+   "title": "City Kit (Roads)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "city",
+    "road",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-roads",
+   "path": "modern-urban/city-kit-roads",
+   "files": 369,
+   "bytes": 4734525,
+   "by_extension": {
+    ".fbx": 72,
+    ".glb": 72,
+    ".html": 1,
+    ".mtl": 72,
+    ".obj": 72,
+    ".png": 79,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 79,
+    "audio": 0,
+    "models": 216,
+    "fonts": 0
+   },
+   "preview": "modern-urban/city-kit-roads/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/city-kit-roads/SOURCE.md"
+  },
+  {
+   "id": "city-kit-suburban",
+   "title": "City Kit (Suburban)",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "suburban"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/city-kit-suburban",
+   "path": "modern-urban/city-kit-suburban",
+   "files": 213,
+   "bytes": 8069258,
+   "by_extension": {
+    ".fbx": 40,
+    ".glb": 40,
+    ".html": 1,
+    ".mtl": 40,
+    ".obj": 40,
+    ".png": 51,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 51,
+    "audio": 0,
+    "models": 120,
+    "fonts": 0
+   },
+   "preview": "modern-urban/city-kit-suburban/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/city-kit-suburban/SOURCE.md"
+  },
+  {
+   "id": "factory-kit",
+   "title": "Factory Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "belt",
+    "conveyor",
+    "factory",
+    "industrial",
+    "warehouse"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/factory-kit",
+   "path": "modern-urban/factory-kit",
+   "files": 724,
+   "bytes": 12180079,
+   "by_extension": {
+    ".fbx": 143,
+    ".glb": 143,
+    ".html": 1,
+    ".mtl": 143,
+    ".obj": 143,
+    ".png": 150,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 150,
+    "audio": 0,
+    "models": 429,
+    "fonts": 0
+   },
+   "preview": "modern-urban/factory-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/factory-kit/SOURCE.md"
+  },
+  {
+   "id": "furniture-kit",
+   "title": "Furniture Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "bed",
+    "chair",
+    "furniture",
+    "interior",
+    "table"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/furniture-kit",
+   "path": "modern-urban/furniture-kit",
+   "files": 1543,
+   "bytes": 17671250,
+   "by_extension": {
+    ".dae": 140,
+    ".fbx": 140,
+    ".glb": 140,
+    ".mtl": 140,
+    ".obj": 140,
+    ".png": 702,
+    ".stl": 140,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 702,
+    "audio": 0,
+    "models": 560,
+    "fonts": 0
+   },
+   "preview": "modern-urban/furniture-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/furniture-kit/SOURCE.md"
+  },
+  {
+   "id": "hexagon-kit",
+   "title": "Hexagon Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban",
+    "nature",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "building",
+    "hexagon",
+    "terrain"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/hexagon-kit",
+   "path": "modern-urban/hexagon-kit",
+   "files": 371,
+   "bytes": 6370692,
+   "by_extension": {
+    ".fbx": 72,
+    ".glb": 72,
+    ".html": 1,
+    ".mtl": 72,
+    ".obj": 72,
+    ".png": 81,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 81,
+    "audio": 0,
+    "models": 216,
+    "fonts": 0
+   },
+   "preview": "modern-urban/hexagon-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/hexagon-kit/SOURCE.md"
+  },
+  {
+   "id": "modular-buildings",
+   "title": "Modular Buildings",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "house",
+    "modular",
+    "town"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-buildings",
+   "path": "modern-urban/modular-buildings",
+   "files": 551,
+   "bytes": 4924224,
+   "by_extension": {
+    ".fbx": 108,
+    ".glb": 108,
+    ".html": 1,
+    ".mtl": 108,
+    ".obj": 108,
+    ".png": 117,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 117,
+    "audio": 0,
+    "models": 324,
+    "fonts": 0
+   },
+   "preview": "modern-urban/modular-buildings/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/modular-buildings/SOURCE.md"
+  },
+  {
+   "id": "retro-urban-kit",
+   "title": "Retro Urban Kit",
+   "genre": "modern-urban",
+   "genres": [
+    "modern-urban"
+   ],
+   "tags": [
+    "building",
+    "city",
+    "retro",
+    "urban"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/retro-urban-kit",
+   "path": "modern-urban/retro-urban-kit",
+   "files": 690,
+   "bytes": 5476866,
+   "by_extension": {
+    ".fbx": 124,
+    ".glb": 124,
+    ".html": 1,
+    ".mtl": 124,
+    ".obj": 124,
+    ".png": 192,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 192,
+    "audio": 0,
+    "models": 372,
+    "fonts": 0
+   },
+   "preview": "modern-urban/retro-urban-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "modern-urban/retro-urban-kit/SOURCE.md"
+  },
+  {
+   "id": "loops-and-menu-music",
+   "title": "Loops and Menu Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "loop",
+    "menu",
+    "chiptune",
+    "fanfare"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/loops-and-menu-music",
+   "files": 11,
+   "bytes": 19423679,
+   "by_extension": {
+    ".ogg": 11
+   },
+   "counts": {
+    "images": 0,
+    "audio": 11,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/loops-and-menu-music/SOURCE.md",
+   "audio_seconds": 1343.79
+  },
+  {
+   "id": "western-music",
+   "title": "Western Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "western",
+    "desert",
+    "showdown"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/western-music",
+   "files": 7,
+   "bytes": 20973137,
+   "by_extension": {
+    ".ogg": 7
+   },
+   "counts": {
+    "images": 0,
+    "audio": 7,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/western-music/SOURCE.md",
+   "audio_seconds": 1375.81
+  },
+  {
+   "id": "horror-music",
+   "title": "Horror Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "horror",
+    "suspense",
+    "post-apocalyptic",
+    "spooky"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/horror-music",
+   "files": 14,
+   "bytes": 25643311,
+   "by_extension": {
+    ".ogg": 14
+   },
+   "counts": {
+    "images": 0,
+    "audio": 14,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/horror-music/SOURCE.md",
+   "audio_seconds": 1721.59
+  },
+  {
+   "id": "action-music",
+   "title": "Action Music",
+   "genre": "music",
+   "genres": [
+    "music"
+   ],
+   "tags": [
+    "music",
+    "shooter",
+    "action",
+    "combat",
+    "military",
+    "chase"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/action-music",
+   "files": 21,
+   "bytes": 47691832,
+   "by_extension": {
+    ".ogg": 21
+   },
+   "counts": {
+    "images": 0,
+    "audio": 21,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/action-music/SOURCE.md",
+   "audio_seconds": 3094.51
+  },
+  {
+   "id": "sci-fi-music",
+   "title": "Sci-Fi Music",
+   "genre": "music",
+   "genres": [
+    "music",
+    "sci-fi"
+   ],
+   "tags": [
+    "music",
+    "sci-fi",
+    "space",
+    "ambient",
+    "synth"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/sci-fi-music",
+   "files": 16,
+   "bytes": 35204386,
+   "by_extension": {
+    ".ogg": 16
+   },
+   "counts": {
+    "images": 0,
+    "audio": 16,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/sci-fi-music/SOURCE.md",
+   "audio_seconds": 2382.17
+  },
+  {
+   "id": "fantasy-music",
+   "title": "Fantasy Music",
+   "genre": "music",
+   "genres": [
+    "music",
+    "fantasy"
+   ],
+   "tags": [
+    "music",
+    "fantasy",
+    "rpg",
+    "medieval",
+    "epic",
+    "boss battle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "FreePD",
+   "source_page": "https://github.com/SoundSafari/CC0-1.0-Music/tree/main/freepd.com",
+   "path": "music/fantasy-music",
+   "files": 33,
+   "bytes": 78266798,
+   "by_extension": {
+    ".ogg": 33
+   },
+   "counts": {
+    "images": 0,
+    "audio": 33,
+    "models": 0,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "music/fantasy-music/SOURCE.md",
+   "audio_seconds": 5433.51
+  },
+  {
+   "id": "animated-characters-retro",
+   "title": "Animated Characters Retro",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "survival",
+    "survivor",
+    "zombie"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-retro",
+   "path": "nature/animated-characters-retro",
+   "files": 10,
+   "bytes": 2268999,
+   "by_extension": {
+    ".fbx": 4,
+    ".png": 5,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 5,
+    "audio": 0,
+    "models": 4,
+    "fonts": 0
+   },
+   "preview": "nature/animated-characters-retro/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/animated-characters-retro/SOURCE.md"
+  },
+  {
+   "id": "animated-characters-survivors",
+   "title": "Animated Characters Survivors",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "survival",
+    "survivor",
+    "zombie"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/animated-characters-survivors",
+   "path": "nature/animated-characters-survivors",
+   "files": 15,
+   "bytes": 2388133,
+   "by_extension": {
+    ".fbx": 4,
+    ".png": 6,
+    ".svg": 4,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 10,
+    "audio": 0,
+    "models": 4,
+    "fonts": 0
+   },
+   "preview": "nature/animated-characters-survivors/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/animated-characters-survivors/SOURCE.md"
+  },
+  {
+   "id": "anthurium_botany_01",
+   "title": "Anthurium Botany 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "bush",
+    "leaf",
+    "shrub",
+    "leaves",
+    "forest",
+    "plant",
+    "green"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/anthurium_botany_01",
+   "path": "nature/anthurium_botany_01",
+   "files": 5,
+   "bytes": 3240341,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/anthurium_botany_01/SOURCE.md"
+  },
+  {
+   "id": "bark_debris_01",
+   "title": "Bark Debris 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "karoo",
+    "desert",
+    "dry",
+    "dead tree",
+    "stick"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Greg Zaal, Jenelle van Heerden",
+   "source_page": "https://polyhaven.com/a/bark_debris_01",
+   "path": "nature/bark_debris_01",
+   "files": 5,
+   "bytes": 8067781,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/bark_debris_01/SOURCE.md"
+  },
+  {
+   "id": "boulder_01",
+   "title": "Boulder 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "boulder",
+    "lichen",
+    "landscape",
+    "rock",
+    "geology",
+    "formation",
+    "weathered"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/boulder_01",
+   "path": "nature/boulder_01",
+   "files": 5,
+   "bytes": 5771986,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/boulder_01/SOURCE.md"
+  },
+  {
+   "id": "calathea_orbifolia_01",
+   "title": "Calathea Orbifolia 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "bush",
+    "leaf",
+    "shrub",
+    "green",
+    "leaves",
+    "forest",
+    "plant"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/calathea_orbifolia_01",
+   "path": "nature/calathea_orbifolia_01",
+   "files": 5,
+   "bytes": 1876209,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/calathea_orbifolia_01/SOURCE.md"
+  },
+  {
+   "id": "celandine_01",
+   "title": "Celandine 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "field",
+    "nature",
+    "green",
+    "shrub",
+    "plant",
+    "outdoor",
+    "leaf",
+    "botany"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/celandine_01",
+   "path": "nature/celandine_01",
+   "files": 5,
+   "bytes": 1525568,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/celandine_01/SOURCE.md"
+  },
+  {
+   "id": "cheiridopsis_succulent",
+   "title": "Cheiridopsis Succulent",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "karoo",
+    "desert",
+    "south africa",
+    "succulent",
+    "quartz",
+    "tiny",
+    "aloe",
+    "cactus"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / James Ray Cock, Jenelle van Heerden",
+   "source_page": "https://polyhaven.com/a/cheiridopsis_succulent",
+   "path": "nature/cheiridopsis_succulent",
+   "files": 5,
+   "bytes": 4261470,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/cheiridopsis_succulent/SOURCE.md"
+  },
+  {
+   "id": "coast_land_rocks_02",
+   "title": "Coast Land Rocks 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "coastal",
+    "landscape",
+    "formation",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_02",
+   "path": "nature/coast_land_rocks_02",
+   "files": 5,
+   "bytes": 39612026,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_land_rocks_02/SOURCE.md"
+  },
+  {
+   "id": "coast_land_rocks_03",
+   "title": "Coast Land Rocks 03",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "formation",
+    "coastal",
+    "landscape",
+    "seaside",
+    "shore",
+    "geology",
+    "pebbles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_03",
+   "path": "nature/coast_land_rocks_03",
+   "files": 5,
+   "bytes": 33995970,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_land_rocks_03/SOURCE.md"
+  },
+  {
+   "id": "coast_land_rocks_04",
+   "title": "Coast Land Rocks 04",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "landscape",
+    "rocks",
+    "shore",
+    "coastal",
+    "geology",
+    "shoreline",
+    "rock",
+    "stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_land_rocks_04",
+   "path": "nature/coast_land_rocks_04",
+   "files": 5,
+   "bytes": 33617573,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_land_rocks_04/SOURCE.md"
+  },
+  {
+   "id": "coast_line_01",
+   "title": "Coast Line 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "coast",
+    "shoreline",
+    "coastline",
+    "seaside",
+    "shore",
+    "coastal",
+    "geology",
+    "rock"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_line_01",
+   "path": "nature/coast_line_01",
+   "files": 5,
+   "bytes": 17734351,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_line_01/SOURCE.md"
+  },
+  {
+   "id": "coast_line_02",
+   "title": "Coast Line 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "landscape",
+    "rocks",
+    "coastal",
+    "rock",
+    "shoreline",
+    "shore",
+    "geology",
+    "stones"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_line_02",
+   "path": "nature/coast_line_02",
+   "files": 5,
+   "bytes": 23922527,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_line_02/SOURCE.md"
+  },
+  {
+   "id": "coast_rocks_01",
+   "title": "Coast Rocks 01",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "seaside",
+    "shore",
+    "coastal",
+    "stones",
+    "rock",
+    "landscape",
+    "geology"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_01",
+   "path": "nature/coast_rocks_01",
+   "files": 5,
+   "bytes": 21684204,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_rocks_01/SOURCE.md"
+  },
+  {
+   "id": "coast_rocks_02",
+   "title": "Coast Rocks 02",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "seaside",
+    "rocks",
+    "formation",
+    "landscape",
+    "shore",
+    "geology",
+    "coastal",
+    "shoreline"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_02",
+   "path": "nature/coast_rocks_02",
+   "files": 5,
+   "bytes": 38457066,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_rocks_02/SOURCE.md"
+  },
+  {
+   "id": "coast_rocks_03",
+   "title": "Coast Rocks 03",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "rocks",
+    "seaside",
+    "stones",
+    "formation",
+    "landscape",
+    "shore",
+    "rock",
+    "shoreline"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rob Tuytel, Rico Cilliers",
+   "source_page": "https://polyhaven.com/a/coast_rocks_03",
+   "path": "nature/coast_rocks_03",
+   "files": 5,
+   "bytes": 25643007,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "nature/coast_rocks_03/SOURCE.md"
+  },
+  {
+   "id": "holiday-kit",
+   "title": "Holiday Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "cabin",
+    "christmas",
+    "holiday",
+    "tree"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/holiday-kit",
+   "path": "nature/holiday-kit",
+   "files": 506,
+   "bytes": 10599859,
+   "by_extension": {
+    ".fbx": 99,
+    ".glb": 99,
+    ".html": 1,
+    ".mtl": 99,
+    ".obj": 99,
+    ".png": 108,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 108,
+    "audio": 0,
+    "models": 297,
+    "fonts": 0
+   },
+   "preview": "nature/holiday-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/holiday-kit/SOURCE.md"
+  },
+  {
+   "id": "mini-forest",
+   "title": "Mini Forest",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "archer",
+    "base",
+    "forest",
+    "tent"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/mini-forest",
+   "path": "nature/mini-forest",
+   "files": 117,
+   "bytes": 3256869,
+   "by_extension": {
+    ".fbx": 22,
+    ".glb": 22,
+    ".html": 1,
+    ".mtl": 22,
+    ".obj": 22,
+    ".png": 27,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 27,
+    "audio": 0,
+    "models": 66,
+    "fonts": 0
+   },
+   "preview": "nature/mini-forest/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/mini-forest/SOURCE.md"
+  },
+  {
+   "id": "modular-cave-kit",
+   "title": "Modular Cave Kit",
+   "genre": "nature",
+   "genres": [
+    "nature",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "cave",
+    "modular",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-cave-kit",
+   "path": "nature/modular-cave-kit",
+   "files": 211,
+   "bytes": 17468442,
+   "by_extension": {
+    ".fbx": 40,
+    ".glb": 40,
+    ".html": 1,
+    ".mtl": 40,
+    ".obj": 40,
+    ".png": 49,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 49,
+    "audio": 0,
+    "models": 120,
+    "fonts": 0
+   },
+   "preview": "nature/modular-cave-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/modular-cave-kit/SOURCE.md"
+  },
+  {
+   "id": "nature-kit",
+   "title": "Nature Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "foliage",
+    "nature",
+    "rock",
+    "tree"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/nature-kit",
+   "path": "nature/nature-kit",
+   "files": 3615,
+   "bytes": 29442980,
+   "by_extension": {
+    ".dae": 329,
+    ".fbx": 329,
+    ".glb": 329,
+    ".mtl": 329,
+    ".obj": 329,
+    ".png": 1640,
+    ".stl": 329,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 1640,
+    "audio": 0,
+    "models": 1316,
+    "fonts": 0
+   },
+   "preview": "nature/nature-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/nature-kit/SOURCE.md"
+  },
+  {
+   "id": "survival-kit",
+   "title": "Survival Kit",
+   "genre": "nature",
+   "genres": [
+    "nature"
+   ],
+   "tags": [
+    "nature",
+    "survival"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/survival-kit",
+   "path": "nature/survival-kit",
+   "files": 409,
+   "bytes": 5287573,
+   "by_extension": {
+    ".fbx": 80,
+    ".glb": 80,
+    ".html": 1,
+    ".mtl": 80,
+    ".obj": 80,
+    ".png": 87,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 87,
+    "audio": 0,
+    "models": 240,
+    "fonts": 0
+   },
+   "preview": "nature/survival-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "nature/survival-kit/SOURCE.md"
+  },
+  {
+   "id": "Camera_01",
+   "title": "Camera 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "camera",
+    "antique",
+    "ornate",
+    "photography",
+    "photography",
+    "retro",
+    "lens"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rajil Jose Macatangay",
+   "source_page": "https://polyhaven.com/a/Camera_01",
+   "path": "props/Camera_01",
+   "files": 11,
+   "bytes": 2439882,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 9
+   },
+   "counts": {
+    "images": 9,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Camera_01/SOURCE.md"
+  },
+  {
+   "id": "CheeseBox_01",
+   "title": "CheeseBox_01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "box",
+    "wood",
+    "storage",
+    "crate",
+    "wooden",
+    "vintage",
+    "farmhouse",
+    "aged"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Gabriel Radi\u0107",
+   "source_page": "https://polyhaven.com/a/CheeseBox_01",
+   "path": "props/CheeseBox_01",
+   "files": 5,
+   "bytes": 493852,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/CheeseBox_01/SOURCE.md"
+  },
+  {
+   "id": "Drill_01",
+   "title": "Drill 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "metal",
+    "plastic",
+    "tool",
+    "drill",
+    "prop"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fernando Quinn",
+   "source_page": "https://polyhaven.com/a/Drill_01",
+   "path": "props/Drill_01",
+   "files": 5,
+   "bytes": 501066,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Drill_01/SOURCE.md"
+  },
+  {
+   "id": "Lantern_01",
+   "title": "Lantern 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "prop",
+    "metal",
+    "glass",
+    "lantern",
+    "antique",
+    "vintage",
+    "hurricane",
+    "lamp"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rajil Jose Macatangay",
+   "source_page": "https://polyhaven.com/a/Lantern_01",
+   "path": "props/Lantern_01",
+   "files": 5,
+   "bytes": 1420416,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Lantern_01/SOURCE.md"
+  },
+  {
+   "id": "Megaphone_01",
+   "title": "Megaphone 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "plastic",
+    "megaphone",
+    "device",
+    "audio",
+    "amplifier",
+    "loudspeaker",
+    "announcement"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Ethan Simon-Law",
+   "source_page": "https://polyhaven.com/a/Megaphone_01",
+   "path": "props/Megaphone_01",
+   "files": 5,
+   "bytes": 776159,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Megaphone_01/SOURCE.md"
+  },
+  {
+   "id": "Television_01",
+   "title": "Television 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "prop",
+    "furniture",
+    "metal",
+    "wood",
+    "tv",
+    "television",
+    "video"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Gabriel Radi\u0107",
+   "source_page": "https://polyhaven.com/a/Television_01",
+   "path": "props/Television_01",
+   "files": 5,
+   "bytes": 531294,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Television_01/SOURCE.md"
+  },
+  {
+   "id": "Ukulele_01",
+   "title": "Ukulele 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "instrument",
+    "wood",
+    "prop",
+    "guitar",
+    "ukulele",
+    "music"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Joseph Burgan",
+   "source_page": "https://polyhaven.com/a/Ukulele_01",
+   "path": "props/Ukulele_01",
+   "files": 5,
+   "bytes": 807270,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/Ukulele_01/SOURCE.md"
+  },
+  {
+   "id": "WetFloorSign_01",
+   "title": "Wet Floor Sign 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "prop",
+    "plastic",
+    "sign",
+    "safety",
+    "caution",
+    "warning",
+    "yellow",
+    "hazard"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Fran Calvente",
+   "source_page": "https://polyhaven.com/a/WetFloorSign_01",
+   "path": "props/WetFloorSign_01",
+   "files": 5,
+   "bytes": 266447,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/WetFloorSign_01/SOURCE.md"
+  },
+  {
+   "id": "adjustable_wrench",
+   "title": "Adjustable Wrench",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "vintage",
+    "worn",
+    "antique",
+    "aged",
+    "shed",
+    "garage",
+    "hand tool",
+    "rustic"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Mateusz Sadek",
+   "source_page": "https://polyhaven.com/a/adjustable_wrench",
+   "path": "props/adjustable_wrench",
+   "files": 5,
+   "bytes": 2642182,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/adjustable_wrench/SOURCE.md"
+  },
+  {
+   "id": "alarm_clock_01",
+   "title": "Alarm Clock 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "clock",
+    "time",
+    "alarm",
+    "bedside",
+    "old",
+    "90s",
+    "watch",
+    "blue"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, James Ray Cock",
+   "source_page": "https://polyhaven.com/a/alarm_clock_01",
+   "path": "props/alarm_clock_01",
+   "files": 5,
+   "bytes": 1657651,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/alarm_clock_01/SOURCE.md"
+  },
+  {
+   "id": "all_purpose_cleaner",
+   "title": "All Purpose Cleaner",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "shed",
+    "cleaning",
+    "home",
+    "garage",
+    "chemicals",
+    "household",
+    "janitorial",
+    "cleaning supplies"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Kuutti Siitonen",
+   "source_page": "https://polyhaven.com/a/all_purpose_cleaner",
+   "path": "props/all_purpose_cleaner",
+   "files": 5,
+   "bytes": 1055135,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/all_purpose_cleaner/SOURCE.md"
+  },
+  {
+   "id": "american_football",
+   "title": "American Football",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "game",
+    "sports",
+    "sport",
+    "toy",
+    "ball",
+    "soccer",
+    "football",
+    "american"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Riley Queen",
+   "source_page": "https://polyhaven.com/a/american_football",
+   "path": "props/american_football",
+   "files": 5,
+   "bytes": 2670255,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/american_football/SOURCE.md"
+  },
+  {
+   "id": "antique_estoc",
+   "title": "Antique Estoc",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "antique",
+    "vintage",
+    "old",
+    "sword",
+    "historic",
+    "traditional",
+    "ornamental",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / James Ray Cock, Ulan Cabanilla",
+   "source_page": "https://polyhaven.com/a/antique_estoc",
+   "path": "props/antique_estoc",
+   "files": 5,
+   "bytes": 2528092,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/antique_estoc/SOURCE.md"
+  },
+  {
+   "id": "antique_katana_01",
+   "title": "Antique Katana 01",
+   "genre": "props",
+   "genres": [
+    "props"
+   ],
+   "tags": [
+    "antique",
+    "ninja",
+    "katana",
+    "sword",
+    "sharp",
+    "blade",
+    "japanese",
+    "weapon"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Tal Swicegood",
+   "source_page": "https://polyhaven.com/a/antique_katana_01",
+   "path": "props/antique_katana_01",
+   "files": 5,
+   "bytes": 647055,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "props/antique_katana_01/SOURCE.md"
+  },
+  {
+   "id": "Barrel_01",
+   "title": "Barrel_01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "barrel",
+    "oil",
+    "explosive",
+    "radioactive",
+    "metal",
+    "red barrel",
+    "oil barrel",
+    "drums"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jorge Camacho",
+   "source_page": "https://polyhaven.com/a/Barrel_01",
+   "path": "sci-fi/Barrel_01",
+   "files": 5,
+   "bytes": 692947,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/Barrel_01/SOURCE.md"
+  },
+  {
+   "id": "Barrel_02",
+   "title": "Barrel 02",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "barrel",
+    "water",
+    "plastic",
+    "garage",
+    "warehouse",
+    "industrial",
+    "storage",
+    "drums"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Jorge Camacho",
+   "source_page": "https://polyhaven.com/a/Barrel_02",
+   "path": "sci-fi/Barrel_02",
+   "files": 5,
+   "bytes": 421518,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/Barrel_02/SOURCE.md"
+  },
+  {
+   "id": "ammo_box",
+   "title": "Ammo Box",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "old",
+    "vintage",
+    "antique",
+    "metal",
+    "rusted",
+    "army",
+    "military",
+    "box"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / DanKit",
+   "source_page": "https://polyhaven.com/a/ammo_box",
+   "path": "sci-fi/ammo_box",
+   "files": 5,
+   "bytes": 1472675,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/ammo_box/SOURCE.md"
+  },
+  {
+   "id": "barrel_03",
+   "title": "Barrel 03",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "industrial",
+    "barrel",
+    "oil",
+    "fuel",
+    "truck",
+    "painted",
+    "blue"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Serhii Khromov",
+   "source_page": "https://polyhaven.com/a/barrel_03",
+   "path": "sci-fi/barrel_03",
+   "files": 5,
+   "bytes": 574136,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/barrel_03/SOURCE.md"
+  },
+  {
+   "id": "barrel_stove",
+   "title": "Barrel Stove",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "urban",
+    "city",
+    "night",
+    "fire",
+    "heating",
+    "outdoor",
+    "barrel"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / MP",
+   "source_page": "https://polyhaven.com/a/barrel_stove",
+   "path": "sci-fi/barrel_stove",
+   "files": 5,
+   "bytes": 2146911,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/barrel_stove/SOURCE.md"
+  },
+  {
+   "id": "bench_vice_01",
+   "title": "Bench Vice 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "workshop",
+    "garage",
+    "used",
+    "metal",
+    "old",
+    "shed",
+    "woodwork"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, Antanas Kep",
+   "source_page": "https://polyhaven.com/a/bench_vice_01",
+   "path": "sci-fi/bench_vice_01",
+   "files": 5,
+   "bytes": 2439636,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/bench_vice_01/SOURCE.md"
+  },
+  {
+   "id": "bolt_cutters_01",
+   "title": "Bolt Cutters 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "metal",
+    "worn",
+    "used",
+    "large",
+    "workshop",
+    "shed",
+    "garage"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Yann Kervran, Antanas Kep",
+   "source_page": "https://polyhaven.com/a/bolt_cutters_01",
+   "path": "sci-fi/bolt_cutters_01",
+   "files": 5,
+   "bytes": 2497631,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/bolt_cutters_01/SOURCE.md"
+  },
+  {
+   "id": "cardboard_box_01",
+   "title": "Cardboard Box 01",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "warehouse",
+    "shed",
+    "storage",
+    "box",
+    "paper",
+    "worn",
+    "old",
+    "broken"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Rahul Chaudhary",
+   "source_page": "https://polyhaven.com/a/cardboard_box_01",
+   "path": "sci-fi/cardboard_box_01",
+   "files": 5,
+   "bytes": 2168437,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/cardboard_box_01/SOURCE.md"
+  },
+  {
+   "id": "chemistry_set",
+   "title": "Chemistry Set",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "laboratory",
+    "science",
+    "chemistry",
+    "glassware",
+    "equipment",
+    "testing",
+    "lab",
+    "retort stand"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Ji\u0159\u00ed Pt\u00e1\u010dek",
+   "source_page": "https://polyhaven.com/a/chemistry_set",
+   "path": "sci-fi/chemistry_set",
+   "files": 5,
+   "bytes": 3206159,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/chemistry_set/SOURCE.md"
+  },
+  {
+   "id": "circuit_board",
+   "title": "Circuit Board",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "computer",
+    "components",
+    "chip",
+    "motherboard",
+    "pc hardware",
+    "connectors",
+    "wiring",
+    "power supply"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Benny Weimer",
+   "source_page": "https://polyhaven.com/a/circuit_board",
+   "path": "sci-fi/circuit_board",
+   "files": 5,
+   "bytes": 3288693,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/circuit_board/SOURCE.md"
+  },
+  {
+   "id": "classic_laptop",
+   "title": "Classic Laptop",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "old",
+    "vintage",
+    "beige",
+    "notebook",
+    "lcd",
+    "trackball"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Arrangemonk",
+   "source_page": "https://polyhaven.com/a/classic_laptop",
+   "path": "sci-fi/classic_laptop",
+   "files": 5,
+   "bytes": 2184059,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/classic_laptop/SOURCE.md"
+  },
+  {
+   "id": "combination_wrench",
+   "title": "Combination Wrench",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "garage",
+    "workshop",
+    "construction",
+    "scratched"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / BKS",
+   "source_page": "https://polyhaven.com/a/combination_wrench",
+   "path": "sci-fi/combination_wrench",
+   "files": 5,
+   "bytes": 1456881,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/combination_wrench/SOURCE.md"
+  },
+  {
+   "id": "concrete_road_barrier",
+   "title": "Concrete Road Barrier",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "road barrier",
+    "traffic barrier",
+    "safety barrier",
+    "wall",
+    "road",
+    "road block",
+    "blockade",
+    "partition"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Amal Kumar",
+   "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+   "path": "sci-fi/concrete_road_barrier",
+   "files": 5,
+   "bytes": 3750787,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/concrete_road_barrier/SOURCE.md"
+  },
+  {
+   "id": "concrete_road_barrier_02",
+   "title": "Concrete Road Barrier 02",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "road barrier",
+    "traffic barrier",
+    "safety barrier",
+    "wall",
+    "road",
+    "road block",
+    "blockade"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Poly Haven / Amal Kumar",
+   "source_page": "https://polyhaven.com/a/concrete_road_barrier_02",
+   "path": "sci-fi/concrete_road_barrier_02",
+   "files": 5,
+   "bytes": 2928100,
+   "by_extension": {
+    ".bin": 1,
+    ".gltf": 1,
+    ".jpg": 3
+   },
+   "counts": {
+    "images": 3,
+    "audio": 0,
+    "models": 1,
+    "fonts": 0
+   },
+   "preview": null,
+   "sprite_sheets": [],
+   "source_md": "sci-fi/concrete_road_barrier_02/SOURCE.md"
+  },
+  {
+   "id": "modular-space-kit",
+   "title": "Modular Space Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "modular",
+    "sci-fi",
+    "space",
+    "station",
+    "tiles"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/modular-space-kit",
+   "path": "sci-fi/modular-space-kit",
+   "files": 211,
+   "bytes": 21050190,
+   "by_extension": {
+    ".fbx": 40,
+    ".glb": 40,
+    ".html": 1,
+    ".mtl": 40,
+    ".obj": 40,
+    ".png": 49,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 49,
+    "audio": 0,
+    "models": 120,
+    "fonts": 0
+   },
+   "preview": "sci-fi/modular-space-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "sci-fi/modular-space-kit/SOURCE.md"
+  },
+  {
+   "id": "space-kit",
+   "title": "Space Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi",
+    "vehicles"
+   ],
+   "tags": [
+    "planet",
+    "ship",
+    "space"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/space-kit",
+   "path": "sci-fi/space-kit",
+   "files": 1691,
+   "bytes": 18837687,
+   "by_extension": {
+    ".dae": 153,
+    ".fbx": 153,
+    ".glb": 153,
+    ".mtl": 153,
+    ".obj": 153,
+    ".png": 772,
+    ".stl": 153,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 772,
+    "audio": 0,
+    "models": 612,
+    "fonts": 0
+   },
+   "preview": "sci-fi/space-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "sci-fi/space-kit/SOURCE.md"
+  },
+  {
+   "id": "space-station-kit",
+   "title": "Space Station Kit",
+   "genre": "sci-fi",
+   "genres": [
+    "sci-fi"
+   ],
+   "tags": [
+    "interior",
+    "sci-fi",
+    "space",
+    "station"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/space-station-kit",
+   "path": "sci-fi/space-station-kit",
+   "files": 494,
+   "bytes": 5253685,
+   "by_extension": {
+    ".fbx": 97,
+    ".glb": 97,
+    ".html": 1,
+    ".mtl": 97,
+    ".obj": 97,
+    ".png": 104,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 104,
+    "audio": 0,
+    "models": 291,
+    "fonts": 0
+   },
+   "preview": "sci-fi/space-station-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "sci-fi/space-station-kit/SOURCE.md"
+  },
+  {
+   "id": "platformer-kit",
+   "title": "Platformer Kit",
+   "genre": "tiles-terrain",
+   "genres": [
+    "tiles-terrain"
+   ],
+   "tags": [
+    "level",
+    "oopi",
+    "platformer"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/platformer-kit",
+   "path": "tiles-terrain/platformer-kit",
+   "files": 774,
+   "bytes": 13596498,
+   "by_extension": {
+    ".fbx": 153,
+    ".glb": 153,
+    ".html": 1,
+    ".mtl": 153,
+    ".obj": 153,
+    ".png": 160,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 160,
+    "audio": 0,
+    "models": 459,
+    "fonts": 0
+   },
+   "preview": "tiles-terrain/platformer-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "tiles-terrain/platformer-kit/SOURCE.md"
+  },
+  {
+   "id": "superpowers-3d-vehicles",
+   "title": "Superpowers 3D Vehicles",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "vehicle",
+    "car",
+    "lowpoly"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles",
+   "path": "vehicles/superpowers-3d-vehicles",
+   "files": 32,
+   "bytes": 5569521,
+   "by_extension": {
+    ".blend": 6,
+    ".gif": 6,
+    ".md": 1,
+    ".mtl": 12,
+    ".png": 7
+   },
+   "counts": {
+    "images": 13,
+    "audio": 0,
+    "models": 6,
+    "fonts": 0
+   },
+   "preview": "vehicles/superpowers-3d-vehicles/preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/superpowers-3d-vehicles/SOURCE.md"
+  },
+  {
+   "id": "car-kit",
+   "title": "Car Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "car",
+    "oopi",
+    "transportation",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/car-kit",
+   "path": "vehicles/car-kit",
+   "files": 256,
+   "bytes": 14483437,
+   "by_extension": {
+    ".fbx": 50,
+    ".glb": 50,
+    ".html": 1,
+    ".mtl": 50,
+    ".obj": 50,
+    ".png": 54,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 54,
+    "audio": 0,
+    "models": 150,
+    "fonts": 0
+   },
+   "preview": "vehicles/car-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/car-kit/SOURCE.md"
+  },
+  {
+   "id": "coaster-kit",
+   "title": "Coaster Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "attraction",
+    "coaster",
+    "ride",
+    "rollercoaster",
+    "theme park",
+    "track"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/coaster-kit",
+   "path": "vehicles/coaster-kit",
+   "files": 927,
+   "bytes": 20891781,
+   "by_extension": {
+    ".fbx": 183,
+    ".glb": 183,
+    ".html": 1,
+    ".mtl": 183,
+    ".obj": 183,
+    ".png": 193,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 193,
+    "audio": 0,
+    "models": 549,
+    "fonts": 0
+   },
+   "preview": "vehicles/coaster-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/coaster-kit/SOURCE.md"
+  },
+  {
+   "id": "marble-kit",
+   "title": "Marble Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "marble",
+    "track"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/marble-kit",
+   "path": "vehicles/marble-kit",
+   "files": 823,
+   "bytes": 12961647,
+   "by_extension": {
+    ".fbx": 162,
+    ".glb": 162,
+    ".html": 1,
+    ".mtl": 162,
+    ".obj": 162,
+    ".png": 173,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 173,
+    "audio": 0,
+    "models": 486,
+    "fonts": 0
+   },
+   "preview": "vehicles/marble-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/marble-kit/SOURCE.md"
+  },
+  {
+   "id": "prototype-kit",
+   "title": "Prototype Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles",
+    "modern-urban",
+    "characters"
+   ],
+   "tags": [
+    "animal",
+    "building",
+    "character",
+    "prototype",
+    "vehicle",
+    "wall",
+    "wheelchair"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/prototype-kit",
+   "path": "vehicles/prototype-kit",
+   "files": 737,
+   "bytes": 10401029,
+   "by_extension": {
+    ".fbx": 145,
+    ".glb": 145,
+    ".html": 1,
+    ".mtl": 145,
+    ".obj": 145,
+    ".png": 155,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 155,
+    "audio": 0,
+    "models": 435,
+    "fonts": 0
+   },
+   "preview": "vehicles/prototype-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/prototype-kit/SOURCE.md"
+  },
+  {
+   "id": "racing-kit",
+   "title": "Racing Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles",
+    "tiles-terrain"
+   ],
+   "tags": [
+    "car",
+    "racing",
+    "tile",
+    "track",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/racing-kit",
+   "path": "vehicles/racing-kit",
+   "files": 1260,
+   "bytes": 18286426,
+   "by_extension": {
+    ".dae": 112,
+    ".fbx": 112,
+    ".glb": 112,
+    ".mtl": 112,
+    ".obj": 112,
+    ".png": 587,
+    ".stl": 112,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 587,
+    "audio": 0,
+    "models": 448,
+    "fonts": 0
+   },
+   "preview": "vehicles/racing-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/racing-kit/SOURCE.md"
+  },
+  {
+   "id": "toy-car-kit",
+   "title": "Toy Car Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "car",
+    "toy",
+    "track",
+    "vehicle"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/toy-car-kit",
+   "path": "vehicles/toy-car-kit",
+   "files": 801,
+   "bytes": 14333853,
+   "by_extension": {
+    ".fbx": 157,
+    ".glb": 157,
+    ".html": 1,
+    ".mtl": 157,
+    ".obj": 157,
+    ".png": 171,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 171,
+    "audio": 0,
+    "models": 471,
+    "fonts": 0
+   },
+   "preview": "vehicles/toy-car-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/toy-car-kit/SOURCE.md"
+  },
+  {
+   "id": "train-kit",
+   "title": "Train Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "rail",
+    "railroad",
+    "track",
+    "train",
+    "tram",
+    "trolley"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/train-kit",
+   "path": "vehicles/train-kit",
+   "files": 524,
+   "bytes": 18522029,
+   "by_extension": {
+    ".fbx": 103,
+    ".glb": 103,
+    ".html": 1,
+    ".mtl": 103,
+    ".obj": 103,
+    ".png": 110,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 110,
+    "audio": 0,
+    "models": 309,
+    "fonts": 0
+   },
+   "preview": "vehicles/train-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/train-kit/SOURCE.md"
+  },
+  {
+   "id": "watercraft-kit",
+   "title": "Watercraft Kit",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "boat",
+    "ship",
+    "vehicle",
+    "watercraft"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://kenney.nl/assets/watercraft-kit",
+   "path": "vehicles/watercraft-kit",
+   "files": 236,
+   "bytes": 5865406,
+   "by_extension": {
+    ".fbx": 46,
+    ".glb": 46,
+    ".html": 1,
+    ".mtl": 46,
+    ".obj": 46,
+    ".png": 50,
+    ".txt": 1
+   },
+   "counts": {
+    "images": 50,
+    "audio": 0,
+    "models": 138,
+    "fonts": 0
+   },
+   "preview": "vehicles/watercraft-kit/Preview.png",
+   "sprite_sheets": [],
+   "source_md": "vehicles/watercraft-kit/SOURCE.md"
+  }
+ ]
+}
