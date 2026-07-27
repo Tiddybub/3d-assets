@@ -5,3 +5,13 @@
 *.hdr binary
 *.fbx binary
 *.ogg binary
+*.gif binary
+*.wav binary
+*.ttf binary
+*.otf binary
+*.blend binary
+*.bin binary
+*.aseprite binary
+*.ase binary
+*.gltf binary
+*.dae binary

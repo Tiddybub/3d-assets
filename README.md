@@ -1,6 +1,6 @@
 # 3d-assets
 
-A curated, ready-to-use library of **189 free asset packs** - 3D models, 2D sprites and tilesets, PBR materials and HDRIs.
+A curated, ready-to-use library of **210 free asset packs** - 3D models, 2D sprites and sprite sheets, tilesets, sound effects, fonts, PBR materials and HDRIs. Enough to build complete games without leaving the repo.
 
 **Every asset here is CC0 (public domain equivalent):** free for commercial use, no attribution required, no license tracking needed. Nothing in this repo has usage restrictions.
 
@@ -10,9 +10,11 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 | Genre | Packs | What is in it |
 |---|---|---|
-| [`2d/`](2d/) | 11 | sprite sheets, tilesets, UI, board game and puzzle art |
-| [`characters/`](characters/) | 5 | player sprites, enemies, animals, NPCs |
+| [`2d/`](2d/) | 23 | sprite sheets, tilesets, UI, characters, backgrounds |
+| [`audio/`](audio/) | 5 | sound effect and jingle packs (OGG) |
+| [`characters/`](characters/) | 7 | player sprites, enemies, animals, NPCs |
 | [`fantasy/`](fantasy/) | 7 | RPG, medieval, dungeon, roguelike, pirate |
+| [`fonts/`](fonts/) | 1 | pixel and display fonts (TTF) |
 | [`hdri/`](hdri/) | 16 | HDR environment maps for lighting and skyboxes |
 | [`materials/`](materials/) | 56 | seamless PBR textures (colour / normal / roughness / AO) |
 | [`misc/`](misc/) | 7 | everything else |
@@ -21,12 +23,32 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 | [`props/`](props/) | 14 | general-purpose scene props |
 | [`sci-fi/`](sci-fi/) | 17 | space, alien, robot, industrial, futuristic |
 | [`tiles-terrain/`](tiles-terrain/) | 1 | tilesets, platformer kits, isometric, hex |
-| [`vehicles/`](vehicles/) | 8 | cars, tanks, ships, planes, racing |
+| [`vehicles/`](vehicles/) | 9 | cars, tanks, ships, planes, racing |
+
+## Build a game with these
+
+Packs grouped by the themes they suit. Many packs ship a packed sprite sheet next to the individual frames.
+
+- **Fantasy / RPG** (13 packs): [`rpg-battle-system`](2d/rpg-battle-system), [`ninja-adventure-pack`](2d/ninja-adventure-pack), [`medieval-fantasy-pack`](2d/medieval-fantasy-pack), [`rpg-pack`](2d/rpg-pack), [`rpg-sounds`](audio/rpg-sounds), [`superpowers-3d-warriors`](characters/superpowers-3d-warriors), [`castle-kit`](fantasy/castle-kit), [`fantasy-town-kit`](fantasy/fantasy-town-kit), [`mini-dungeon`](fantasy/mini-dungeon), [`modular-dungeon-kit`](fantasy/modular-dungeon-kit), [`pirate-kit`](fantasy/pirate-kit), [`retro-fantasy-kit`](fantasy/retro-fantasy-kit), [`tower-defense-kit`](fantasy/tower-defense-kit)
+- **Sci-fi / space** (21 packs): [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack), [`digital-sounds`](audio/digital-sounds), [`Barrel_01`](sci-fi/Barrel_01), [`Barrel_02`](sci-fi/Barrel_02), [`ammo_box`](sci-fi/ammo_box), [`barrel_03`](sci-fi/barrel_03), [`barrel_stove`](sci-fi/barrel_stove), [`bench_vice_01`](sci-fi/bench_vice_01), [`bolt_cutters_01`](sci-fi/bolt_cutters_01), [`cardboard_box_01`](sci-fi/cardboard_box_01), [`chemistry_set`](sci-fi/chemistry_set), [`circuit_board`](sci-fi/circuit_board), [`classic_laptop`](sci-fi/classic_laptop), [`combination_wrench`](sci-fi/combination_wrench), [`concrete_road_barrier`](sci-fi/concrete_road_barrier), [`concrete_road_barrier_02`](sci-fi/concrete_road_barrier_02), [`modular-space-kit`](sci-fi/modular-space-kit), [`space-kit`](sci-fi/space-kit), [`space-station-kit`](sci-fi/space-station-kit)
+- **Shooter** (4 packs): [`western-fps-pack`](2d/western-fps-pack), [`top-down-shooter-pack`](2d/top-down-shooter-pack), [`space-shooter-sprites`](2d/space-shooter-sprites), [`space-shooter-pack`](2d/space-shooter-pack)
 
 ## Index
 
 ### 2d
 
+- [`parallax-backgrounds/`](2d/parallax-backgrounds/) - **Parallax Backgrounds** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds)) - background, parallax, sky, scenery
+- [`prehistoric-platformer-pack/`](2d/prehistoric-platformer-pack/) - **Prehistoric Platformer Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer)) - platformer, prehistoric, dinosaur, sidescroller, sprite sheet
+- [`western-fps-pack/`](2d/western-fps-pack/) - **Western FPS Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d)) - shooter, fps, western, weapons, sprite sheet
+- [`top-down-shooter-pack/`](2d/top-down-shooter-pack/) - **Top Down Shooter Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter)) - shooter, top-down, weapons, sci-fi, sprite sheet
+- [`space-shooter-sprites/`](2d/space-shooter-sprites/) - **Space Shooter Sprites** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/space-shooter)) - sci-fi, shooter, space, ships, shmup, sprite sheet
+- [`rpg-battle-system/`](2d/rpg-battle-system/) - **RPG Battle System** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/rpg-battle-system)) - fantasy, rpg, battle, monsters, turn-based, sprite sheet
+- [`ninja-adventure-pack/`](2d/ninja-adventure-pack/) - **Ninja Adventure Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure)) - fantasy, rpg, ninja, top-down, monsters, sprite sheet
+- [`medieval-fantasy-pack/`](2d/medieval-fantasy-pack/) - **Medieval Fantasy Pack** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy)) - fantasy, rpg, medieval, monsters, top-down, sprite sheet
+- [`smilies/`](2d/smilies/) - **Smilies** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Smilies%20%2825%20assets%29)) - ui, emoji, face, icons
+- [`medals/`](2d/medals/) - **Medals** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Medals%20%2830%20assets%29)) - ui, medal, achievement, award
+- [`road-textures/`](2d/road-textures/) - **Road Textures** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Road%20textures%20%2880%20assets%29)) - road, tiles, racing, top-down
+- [`platformer-bricks/`](2d/platformer-bricks/) - **Platformer Bricks** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20bricks%20%28150%20assets%29)) - platformer, tiles, bricks, level
 - [`platformer-pack/`](2d/platformer-pack/) - **Platformer Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20%281330%20assets%29)) - platformer, sidescroller, tiles, character, sprites
 - [`pixel-platformer-pack/`](2d/pixel-platformer-pack/) - **Pixel Platformer Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20assets%20pixel%20%28900%20assets%29)) - pixel art, platformer, tiles, retro, sprites
 - [`space-shooter-pack/`](2d/space-shooter-pack/) - **Space Shooter Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Space%20shooter%20assets%20%28300%20assets%29)) - space, shooter, sci-fi, ship, sprites
@@ -39,8 +61,18 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 - [`boardgame-pack/`](2d/boardgame-pack/) - **Boardgame Pack** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Boardgame%20pack%20%28480%20assets%29)) - boardgame, cards, dice, chess, tokens
 - [`tappy-plane/`](2d/tappy-plane/) - **Tappy Plane** ([source](https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Tappy%20Plane%20%2880%20assets%29)) - plane, flappy, arcade, sidescroller
 
+### audio
+
+- [`casino-sounds/`](audio/casino-sounds/) - **Casino Sounds** ([source](https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29)) - sfx, casino, coins, slot
+- [`jingle-sounds/`](audio/jingle-sounds/) - **Jingle Sounds** ([source](https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29)) - sfx, jingle, music, stinger
+- [`digital-sounds/`](audio/digital-sounds/) - **Digital Sounds** ([source](https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29)) - sfx, digital, sci-fi, retro
+- [`ui-sounds/`](audio/ui-sounds/) - **UI Sounds** ([source](https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29)) - sfx, ui, menu, click
+- [`rpg-sounds/`](audio/rpg-sounds/) - **RPG Sounds** ([source](https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29)) - sfx, rpg, fantasy, combat
+
 ### characters
 
+- [`superpowers-3d-warriors/`](characters/superpowers-3d-warriors/) - **Superpowers 3D Warriors** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-warriors)) - character, warrior, fantasy, lowpoly
+- [`superpowers-3d-character/`](characters/superpowers-3d-character/) - **Superpowers 3D Character** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-character)) - character, lowpoly, rigged, animated
 - [`animated-characters-protagonists/`](characters/animated-characters-protagonists/) - **Animated Characters Protagonists** ([source](https://kenney.nl/assets/animated-characters-protagonists)) - character, criminal, cyborg, skater, skating
 - [`blocky-characters/`](characters/blocky-characters/) - **Blocky Characters** ([source](https://kenney.nl/assets/blocky-characters)) - character
 - [`cube-pets/`](characters/cube-pets/) - **Cube Pets** ([source](https://kenney.nl/assets/cube-pets)) - animal, cat, dog, pet
@@ -56,6 +88,10 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 - [`pirate-kit/`](fantasy/pirate-kit/) - **Pirate Kit** ([source](https://kenney.nl/assets/pirate-kit)) - boat, character, island, pirate, ship, tropical
 - [`retro-fantasy-kit/`](fantasy/retro-fantasy-kit/) - **Retro Fantasy Kit** ([source](https://kenney.nl/assets/retro-fantasy-kit)) - building, castle, medieval, retro, town
 - [`tower-defense-kit/`](fantasy/tower-defense-kit/) - **Tower Defense Kit** ([source](https://kenney.nl/assets/tower-defense-kit)) - castle, defense, medieval
+
+### fonts
+
+- [`kenney-pixel-fonts/`](fonts/kenney-pixel-fonts/) - **Kenney Pixel Fonts** ([source](https://github.com/iwenzhou/kenney/tree/master/Fonts%20%2810%20files%29)) - font, pixel art, retro, ui
 
 ### hdri
 
@@ -74,7 +110,7 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 - [`abandoned_hopper_terminal_02/`](hdri/abandoned_hopper_terminal_02/) - **Abandoned Hopper Terminal 02** ([source](https://polyhaven.com/a/abandoned_hopper_terminal_02)) - outdoor, nature, morning-afternoon, clear, high contrast, natural light
 - [`abandoned_hopper_terminal_03/`](hdri/abandoned_hopper_terminal_03/) - **Abandoned Hopper Terminal 03** ([source](https://polyhaven.com/a/abandoned_hopper_terminal_03)) - outdoor, nature, morning-afternoon, partly cloudy, medium contrast, natural light
 - [`abandoned_hopper_terminal_04/`](hdri/abandoned_hopper_terminal_04/) - **Abandoned Hopper Terminal 04** ([source](https://polyhaven.com/a/abandoned_hopper_terminal_04)) - outdoor, nature, midday, clear, high contrast, natural light
-- [`abandoned_parking/`](hdri/abandoned_parking/) - **Abandoned Parking** ([source](https://polyhaven.com/a/abandoned_parking)) - outdoor, skies, urban, midday, partly cloudy, high contrast
+- [`abandoned_parking/`](hdri/abandoned_parking/) - **Abandoned Parking** ([source](https://polyhaven.com/a/abandoned_parking)) - outdoor, skies, urban, midday, partly cloudy, high contrast, natural light
 
 ### materials
 
@@ -148,28 +184,28 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 ### modern-urban
 
 - [`3d-road-tiles/`](modern-urban/3d-road-tiles/) - **3D Road Tiles** ([source](https://kenney.nl/assets/3d-road-tiles)) - road, tile
-- [`ArmChair_01/`](modern-urban/ArmChair_01/) - **Arm Chair 01** ([source](https://polyhaven.com/a/ArmChair_01)) - gothic, vintage, chair, furniture, victorian, couch
-- [`BarberShopChair_01/`](modern-urban/BarberShopChair_01/) - **Barber Shop Chair 01** ([source](https://polyhaven.com/a/BarberShopChair_01)) - chair, vintage, wood, leather, fancy, upholstery
+- [`ArmChair_01/`](modern-urban/ArmChair_01/) - **Arm Chair 01** ([source](https://polyhaven.com/a/ArmChair_01)) - gothic, vintage, chair, furniture, victorian, couch, wood, varnished
+- [`BarberShopChair_01/`](modern-urban/BarberShopChair_01/) - **Barber Shop Chair 01** ([source](https://polyhaven.com/a/BarberShopChair_01)) - chair, vintage, wood, leather, fancy, upholstery, barber, salon
+- [`CashRegister_01/`](modern-urban/CashRegister_01/) - **Cash Register 01** ([source](https://polyhaven.com/a/CashRegister_01)) - commercial, store, vintage, cash, transaction, register, money, sales
+- [`Chandelier_01/`](modern-urban/Chandelier_01/) - **Chandelier 01** ([source](https://polyhaven.com/a/Chandelier_01)) - lighting, ceiling, hanging, fixture, chandelier, ornate, vintage
+- [`Chandelier_02/`](modern-urban/Chandelier_02/) - **Chandelier 02** ([source](https://polyhaven.com/a/Chandelier_02)) - lighting, ceiling, decorative, chandelier, elegant, hanging, ornate, vintage
+- [`Chandelier_03/`](modern-urban/Chandelier_03/) - **Chandelier 03** ([source](https://polyhaven.com/a/Chandelier_03)) - lighting, ceiling, hanging, fixture, chandelier, ornate, decor, elegant
+- [`ClassicConsole_01/`](modern-urban/ClassicConsole_01/) - **Classic Console 01** ([source](https://polyhaven.com/a/ClassicConsole_01)) - wood, vintage, table, gothic, victorian, decorative
+- [`ClassicNightstand_01/`](modern-urban/ClassicNightstand_01/) - **Classic Nightstand 01** ([source](https://polyhaven.com/a/ClassicNightstand_01)) - wood, vintage, table, gothic, victorian, decorative
+- [`CoffeeCart_01/`](modern-urban/CoffeeCart_01/) - **Coffee Cart 01** ([source](https://polyhaven.com/a/CoffeeCart_01)) - table, metal, shelf, plastic, cart, coffee, portable, wheels
+- [`CoffeeTable_01/`](modern-urban/CoffeeTable_01/) - **Coffee Table 01** ([source](https://polyhaven.com/a/CoffeeTable_01)) - wood, vintage, table, painted, old, worn, decorative
+- [`GothicBed_01/`](modern-urban/GothicBed_01/) - **Gothic Bed 01** ([source](https://polyhaven.com/a/GothicBed_01)) - vintage, gothic, furniture, bed, wood, decorative
+- [`GothicCabinet_01/`](modern-urban/GothicCabinet_01/) - **Gothic Cabinet 01** ([source](https://polyhaven.com/a/GothicCabinet_01)) - vintage, wood, gothic, furniture, table, shelf, decorative
+- [`GothicCommode_01/`](modern-urban/GothicCommode_01/) - **Gothic Commode 01** ([source](https://polyhaven.com/a/GothicCommode_01)) - vintage, wood, table, gothic, shelf, furniture, decorative
+- [`GreenChair_01/`](modern-urban/GreenChair_01/) - **Green Chair 01** ([source](https://polyhaven.com/a/GreenChair_01)) - vintage, wood, gothic, furniture, chair, fabric, decorative
 - [`brick-kit/`](modern-urban/brick-kit/) - **Brick Kit** ([source](https://kenney.nl/assets/brick-kit)) - brick, building, plastic, toy
 - [`building-kit/`](modern-urban/building-kit/) - **Building Kit** ([source](https://kenney.nl/assets/building-kit)) - building, house, structure
-- [`CashRegister_01/`](modern-urban/CashRegister_01/) - **Cash Register 01** ([source](https://polyhaven.com/a/CashRegister_01)) - commercial, store, vintage, cash, transaction, register
-- [`Chandelier_01/`](modern-urban/Chandelier_01/) - **Chandelier 01** ([source](https://polyhaven.com/a/Chandelier_01)) - lighting, ceiling, hanging, fixture, chandelier, ornate
-- [`Chandelier_02/`](modern-urban/Chandelier_02/) - **Chandelier 02** ([source](https://polyhaven.com/a/Chandelier_02)) - lighting, ceiling, decorative, chandelier, elegant, hanging
-- [`Chandelier_03/`](modern-urban/Chandelier_03/) - **Chandelier 03** ([source](https://polyhaven.com/a/Chandelier_03)) - lighting, ceiling, hanging, fixture, chandelier, ornate
 - [`city-kit-commercial/`](modern-urban/city-kit-commercial/) - **City Kit (Commercial)** ([source](https://kenney.nl/assets/city-kit-commercial)) - building, city, skyscraper
 - [`city-kit-industrial/`](modern-urban/city-kit-industrial/) - **City Kit (Industrial)** ([source](https://kenney.nl/assets/city-kit-industrial)) - building, city, factory, warehouse
 - [`city-kit-roads/`](modern-urban/city-kit-roads/) - **City Kit (Roads)** ([source](https://kenney.nl/assets/city-kit-roads)) - city, road, town
 - [`city-kit-suburban/`](modern-urban/city-kit-suburban/) - **City Kit (Suburban)** ([source](https://kenney.nl/assets/city-kit-suburban)) - building, city, suburban
-- [`ClassicConsole_01/`](modern-urban/ClassicConsole_01/) - **Classic Console 01** ([source](https://polyhaven.com/a/ClassicConsole_01)) - wood, vintage, table, gothic, victorian, decorative
-- [`ClassicNightstand_01/`](modern-urban/ClassicNightstand_01/) - **Classic Nightstand 01** ([source](https://polyhaven.com/a/ClassicNightstand_01)) - wood, vintage, table, gothic, victorian, decorative
-- [`CoffeeCart_01/`](modern-urban/CoffeeCart_01/) - **Coffee Cart 01** ([source](https://polyhaven.com/a/CoffeeCart_01)) - table, metal, shelf, plastic, cart, coffee
-- [`CoffeeTable_01/`](modern-urban/CoffeeTable_01/) - **Coffee Table 01** ([source](https://polyhaven.com/a/CoffeeTable_01)) - wood, vintage, table, painted, old, worn
 - [`factory-kit/`](modern-urban/factory-kit/) - **Factory Kit** ([source](https://kenney.nl/assets/factory-kit)) - belt, conveyor, factory, industrial, warehouse
 - [`furniture-kit/`](modern-urban/furniture-kit/) - **Furniture Kit** ([source](https://kenney.nl/assets/furniture-kit)) - bed, chair, furniture, interior, table
-- [`GothicBed_01/`](modern-urban/GothicBed_01/) - **Gothic Bed 01** ([source](https://polyhaven.com/a/GothicBed_01)) - vintage, gothic, furniture, bed, wood, decorative
-- [`GothicCabinet_01/`](modern-urban/GothicCabinet_01/) - **Gothic Cabinet 01** ([source](https://polyhaven.com/a/GothicCabinet_01)) - vintage, wood, gothic, furniture, table, shelf
-- [`GothicCommode_01/`](modern-urban/GothicCommode_01/) - **Gothic Commode 01** ([source](https://polyhaven.com/a/GothicCommode_01)) - vintage, wood, table, gothic, shelf, furniture
-- [`GreenChair_01/`](modern-urban/GreenChair_01/) - **Green Chair 01** ([source](https://polyhaven.com/a/GreenChair_01)) - vintage, wood, gothic, furniture, chair, fabric
 - [`hexagon-kit/`](modern-urban/hexagon-kit/) - **Hexagon Kit** ([source](https://kenney.nl/assets/hexagon-kit)) - building, hexagon, terrain
 - [`modular-buildings/`](modern-urban/modular-buildings/) - **Modular Buildings** ([source](https://kenney.nl/assets/modular-buildings)) - building, city, house, modular, town
 - [`retro-urban-kit/`](modern-urban/retro-urban-kit/) - **Retro Urban Kit** ([source](https://kenney.nl/assets/retro-urban-kit)) - building, city, retro, urban
@@ -178,20 +214,20 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 - [`animated-characters-retro/`](nature/animated-characters-retro/) - **Animated Characters Retro** ([source](https://kenney.nl/assets/animated-characters-retro)) - character, survival, survivor, zombie
 - [`animated-characters-survivors/`](nature/animated-characters-survivors/) - **Animated Characters Survivors** ([source](https://kenney.nl/assets/animated-characters-survivors)) - character, survival, survivor, zombie
-- [`anthurium_botany_01/`](nature/anthurium_botany_01/) - **Anthurium Botany 01** ([source](https://polyhaven.com/a/anthurium_botany_01)) - nature, bush, leaf, shrub, leaves, forest
+- [`anthurium_botany_01/`](nature/anthurium_botany_01/) - **Anthurium Botany 01** ([source](https://polyhaven.com/a/anthurium_botany_01)) - nature, bush, leaf, shrub, leaves, forest, plant, green
 - [`bark_debris_01/`](nature/bark_debris_01/) - **Bark Debris 01** ([source](https://polyhaven.com/a/bark_debris_01)) - karoo, desert, dry, dead tree, stick
-- [`boulder_01/`](nature/boulder_01/) - **Boulder 01** ([source](https://polyhaven.com/a/boulder_01)) - rocks, boulder, lichen, landscape, rock, geology
-- [`calathea_orbifolia_01/`](nature/calathea_orbifolia_01/) - **Calathea Orbifolia 01** ([source](https://polyhaven.com/a/calathea_orbifolia_01)) - nature, bush, leaf, shrub, green, leaves
-- [`celandine_01/`](nature/celandine_01/) - **Celandine 01** ([source](https://polyhaven.com/a/celandine_01)) - field, nature, green, shrub, plant, outdoor
-- [`cheiridopsis_succulent/`](nature/cheiridopsis_succulent/) - **Cheiridopsis Succulent** ([source](https://polyhaven.com/a/cheiridopsis_succulent)) - karoo, desert, south africa, succulent, quartz, tiny
-- [`coast_land_rocks_02/`](nature/coast_land_rocks_02/) - **Coast Land Rocks 02** ([source](https://polyhaven.com/a/coast_land_rocks_02)) - rocks, coastal, landscape, formation, seaside, shore
-- [`coast_land_rocks_03/`](nature/coast_land_rocks_03/) - **Coast Land Rocks 03** ([source](https://polyhaven.com/a/coast_land_rocks_03)) - rocks, formation, coastal, landscape, seaside, shore
-- [`coast_land_rocks_04/`](nature/coast_land_rocks_04/) - **Coast Land Rocks 04** ([source](https://polyhaven.com/a/coast_land_rocks_04)) - landscape, rocks, shore, coastal, geology, shoreline
-- [`coast_line_01/`](nature/coast_line_01/) - **Coast Line 01** ([source](https://polyhaven.com/a/coast_line_01)) - coast, shoreline, coastline, seaside, shore, coastal
-- [`coast_line_02/`](nature/coast_line_02/) - **Coast Line 02** ([source](https://polyhaven.com/a/coast_line_02)) - landscape, rocks, coastal, rock, shoreline, shore
-- [`coast_rocks_01/`](nature/coast_rocks_01/) - **Coast Rocks 01** ([source](https://polyhaven.com/a/coast_rocks_01)) - rocks, seaside, shore, coastal, stones, rock
-- [`coast_rocks_02/`](nature/coast_rocks_02/) - **Coast Rocks 02** ([source](https://polyhaven.com/a/coast_rocks_02)) - seaside, rocks, formation, landscape, shore, geology
-- [`coast_rocks_03/`](nature/coast_rocks_03/) - **Coast Rocks 03** ([source](https://polyhaven.com/a/coast_rocks_03)) - rocks, seaside, stones, formation, landscape, shore
+- [`boulder_01/`](nature/boulder_01/) - **Boulder 01** ([source](https://polyhaven.com/a/boulder_01)) - rocks, boulder, lichen, landscape, rock, geology, formation, weathered
+- [`calathea_orbifolia_01/`](nature/calathea_orbifolia_01/) - **Calathea Orbifolia 01** ([source](https://polyhaven.com/a/calathea_orbifolia_01)) - nature, bush, leaf, shrub, green, leaves, forest, plant
+- [`celandine_01/`](nature/celandine_01/) - **Celandine 01** ([source](https://polyhaven.com/a/celandine_01)) - field, nature, green, shrub, plant, outdoor, leaf, botany
+- [`cheiridopsis_succulent/`](nature/cheiridopsis_succulent/) - **Cheiridopsis Succulent** ([source](https://polyhaven.com/a/cheiridopsis_succulent)) - karoo, desert, south africa, succulent, quartz, tiny, aloe, cactus
+- [`coast_land_rocks_02/`](nature/coast_land_rocks_02/) - **Coast Land Rocks 02** ([source](https://polyhaven.com/a/coast_land_rocks_02)) - rocks, coastal, landscape, formation, seaside, shore, geology, pebbles
+- [`coast_land_rocks_03/`](nature/coast_land_rocks_03/) - **Coast Land Rocks 03** ([source](https://polyhaven.com/a/coast_land_rocks_03)) - rocks, formation, coastal, landscape, seaside, shore, geology, pebbles
+- [`coast_land_rocks_04/`](nature/coast_land_rocks_04/) - **Coast Land Rocks 04** ([source](https://polyhaven.com/a/coast_land_rocks_04)) - landscape, rocks, shore, coastal, geology, shoreline, rock, stones
+- [`coast_line_01/`](nature/coast_line_01/) - **Coast Line 01** ([source](https://polyhaven.com/a/coast_line_01)) - coast, shoreline, coastline, seaside, shore, coastal, geology, rock
+- [`coast_line_02/`](nature/coast_line_02/) - **Coast Line 02** ([source](https://polyhaven.com/a/coast_line_02)) - landscape, rocks, coastal, rock, shoreline, shore, geology, stones
+- [`coast_rocks_01/`](nature/coast_rocks_01/) - **Coast Rocks 01** ([source](https://polyhaven.com/a/coast_rocks_01)) - rocks, seaside, shore, coastal, stones, rock, landscape, geology
+- [`coast_rocks_02/`](nature/coast_rocks_02/) - **Coast Rocks 02** ([source](https://polyhaven.com/a/coast_rocks_02)) - seaside, rocks, formation, landscape, shore, geology, coastal, shoreline
+- [`coast_rocks_03/`](nature/coast_rocks_03/) - **Coast Rocks 03** ([source](https://polyhaven.com/a/coast_rocks_03)) - rocks, seaside, stones, formation, landscape, shore, rock, shoreline
 - [`holiday-kit/`](nature/holiday-kit/) - **Holiday Kit** ([source](https://kenney.nl/assets/holiday-kit)) - cabin, christmas, holiday, tree
 - [`mini-forest/`](nature/mini-forest/) - **Mini Forest** ([source](https://kenney.nl/assets/mini-forest)) - archer, base, forest, tent
 - [`modular-cave-kit/`](nature/modular-cave-kit/) - **Modular Cave Kit** ([source](https://kenney.nl/assets/modular-cave-kit)) - cave, modular, tiles
@@ -200,37 +236,37 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 ### props
 
-- [`adjustable_wrench/`](props/adjustable_wrench/) - **Adjustable Wrench** ([source](https://polyhaven.com/a/adjustable_wrench)) - vintage, worn, antique, aged, shed, garage
-- [`alarm_clock_01/`](props/alarm_clock_01/) - **Alarm Clock 01** ([source](https://polyhaven.com/a/alarm_clock_01)) - clock, time, alarm, bedside, old, 90s
-- [`all_purpose_cleaner/`](props/all_purpose_cleaner/) - **All Purpose Cleaner** ([source](https://polyhaven.com/a/all_purpose_cleaner)) - shed, cleaning, home, garage, chemicals, household
-- [`american_football/`](props/american_football/) - **American Football** ([source](https://polyhaven.com/a/american_football)) - game, sports, sport, toy, ball, soccer
-- [`antique_estoc/`](props/antique_estoc/) - **Antique Estoc** ([source](https://polyhaven.com/a/antique_estoc)) - antique, vintage, old, sword, historic, traditional
-- [`antique_katana_01/`](props/antique_katana_01/) - **Antique Katana 01** ([source](https://polyhaven.com/a/antique_katana_01)) - antique, ninja, katana, sword, sharp, blade
-- [`Camera_01/`](props/Camera_01/) - **Camera 01** ([source](https://polyhaven.com/a/Camera_01)) - vintage, camera, antique, ornate, photography, photography
-- [`CheeseBox_01/`](props/CheeseBox_01/) - **CheeseBox_01** ([source](https://polyhaven.com/a/CheeseBox_01)) - box, wood, storage, crate, wooden, vintage
+- [`Camera_01/`](props/Camera_01/) - **Camera 01** ([source](https://polyhaven.com/a/Camera_01)) - vintage, camera, antique, ornate, photography, photography, retro, lens
+- [`CheeseBox_01/`](props/CheeseBox_01/) - **CheeseBox_01** ([source](https://polyhaven.com/a/CheeseBox_01)) - box, wood, storage, crate, wooden, vintage, farmhouse, aged
 - [`Drill_01/`](props/Drill_01/) - **Drill 01** ([source](https://polyhaven.com/a/Drill_01)) - metal, plastic, tool, drill, prop
-- [`Lantern_01/`](props/Lantern_01/) - **Lantern 01** ([source](https://polyhaven.com/a/Lantern_01)) - prop, metal, glass, lantern, antique, vintage
-- [`Megaphone_01/`](props/Megaphone_01/) - **Megaphone 01** ([source](https://polyhaven.com/a/Megaphone_01)) - plastic, megaphone, device, audio, amplifier, loudspeaker
-- [`Television_01/`](props/Television_01/) - **Television 01** ([source](https://polyhaven.com/a/Television_01)) - vintage, prop, furniture, metal, wood, tv
+- [`Lantern_01/`](props/Lantern_01/) - **Lantern 01** ([source](https://polyhaven.com/a/Lantern_01)) - prop, metal, glass, lantern, antique, vintage, hurricane, lamp
+- [`Megaphone_01/`](props/Megaphone_01/) - **Megaphone 01** ([source](https://polyhaven.com/a/Megaphone_01)) - plastic, megaphone, device, audio, amplifier, loudspeaker, announcement
+- [`Television_01/`](props/Television_01/) - **Television 01** ([source](https://polyhaven.com/a/Television_01)) - vintage, prop, furniture, metal, wood, tv, television, video
 - [`Ukulele_01/`](props/Ukulele_01/) - **Ukulele 01** ([source](https://polyhaven.com/a/Ukulele_01)) - instrument, wood, prop, guitar, ukulele, music
-- [`WetFloorSign_01/`](props/WetFloorSign_01/) - **Wet Floor Sign 01** ([source](https://polyhaven.com/a/WetFloorSign_01)) - prop, plastic, sign, safety, caution, warning
+- [`WetFloorSign_01/`](props/WetFloorSign_01/) - **Wet Floor Sign 01** ([source](https://polyhaven.com/a/WetFloorSign_01)) - prop, plastic, sign, safety, caution, warning, yellow, hazard
+- [`adjustable_wrench/`](props/adjustable_wrench/) - **Adjustable Wrench** ([source](https://polyhaven.com/a/adjustable_wrench)) - vintage, worn, antique, aged, shed, garage, hand tool, rustic
+- [`alarm_clock_01/`](props/alarm_clock_01/) - **Alarm Clock 01** ([source](https://polyhaven.com/a/alarm_clock_01)) - clock, time, alarm, bedside, old, 90s, watch, blue
+- [`all_purpose_cleaner/`](props/all_purpose_cleaner/) - **All Purpose Cleaner** ([source](https://polyhaven.com/a/all_purpose_cleaner)) - shed, cleaning, home, garage, chemicals, household, janitorial, cleaning supplies
+- [`american_football/`](props/american_football/) - **American Football** ([source](https://polyhaven.com/a/american_football)) - game, sports, sport, toy, ball, soccer, football, american
+- [`antique_estoc/`](props/antique_estoc/) - **Antique Estoc** ([source](https://polyhaven.com/a/antique_estoc)) - antique, vintage, old, sword, historic, traditional, ornamental, weapon
+- [`antique_katana_01/`](props/antique_katana_01/) - **Antique Katana 01** ([source](https://polyhaven.com/a/antique_katana_01)) - antique, ninja, katana, sword, sharp, blade, japanese, weapon
 
 ### sci-fi
 
-- [`ammo_box/`](sci-fi/ammo_box/) - **Ammo Box** ([source](https://polyhaven.com/a/ammo_box)) - old, vintage, antique, metal, rusted, army
-- [`Barrel_02/`](sci-fi/Barrel_02/) - **Barrel 02** ([source](https://polyhaven.com/a/Barrel_02)) - barrel, water, plastic, garage, warehouse, industrial
-- [`barrel_03/`](sci-fi/barrel_03/) - **Barrel 03** ([source](https://polyhaven.com/a/barrel_03)) - industrial, barrel, oil, fuel, truck, painted
-- [`barrel_stove/`](sci-fi/barrel_stove/) - **Barrel Stove** ([source](https://polyhaven.com/a/barrel_stove)) - urban, city, night, fire, heating, outdoor
-- [`Barrel_01/`](sci-fi/Barrel_01/) - **Barrel_01** ([source](https://polyhaven.com/a/Barrel_01)) - barrel, oil, explosive, radioactive, metal, red barrel
-- [`bench_vice_01/`](sci-fi/bench_vice_01/) - **Bench Vice 01** ([source](https://polyhaven.com/a/bench_vice_01)) - workshop, garage, used, metal, old, shed
-- [`bolt_cutters_01/`](sci-fi/bolt_cutters_01/) - **Bolt Cutters 01** ([source](https://polyhaven.com/a/bolt_cutters_01)) - metal, worn, used, large, workshop, shed
-- [`cardboard_box_01/`](sci-fi/cardboard_box_01/) - **Cardboard Box 01** ([source](https://polyhaven.com/a/cardboard_box_01)) - warehouse, shed, storage, box, paper, worn
-- [`chemistry_set/`](sci-fi/chemistry_set/) - **Chemistry Set** ([source](https://polyhaven.com/a/chemistry_set)) - laboratory, science, chemistry, glassware, equipment, testing
-- [`circuit_board/`](sci-fi/circuit_board/) - **Circuit Board** ([source](https://polyhaven.com/a/circuit_board)) - computer, components, chip, motherboard, pc hardware, connectors
+- [`Barrel_01/`](sci-fi/Barrel_01/) - **Barrel_01** ([source](https://polyhaven.com/a/Barrel_01)) - barrel, oil, explosive, radioactive, metal, red barrel, oil barrel, drums
+- [`Barrel_02/`](sci-fi/Barrel_02/) - **Barrel 02** ([source](https://polyhaven.com/a/Barrel_02)) - barrel, water, plastic, garage, warehouse, industrial, storage, drums
+- [`ammo_box/`](sci-fi/ammo_box/) - **Ammo Box** ([source](https://polyhaven.com/a/ammo_box)) - old, vintage, antique, metal, rusted, army, military, box
+- [`barrel_03/`](sci-fi/barrel_03/) - **Barrel 03** ([source](https://polyhaven.com/a/barrel_03)) - industrial, barrel, oil, fuel, truck, painted, blue
+- [`barrel_stove/`](sci-fi/barrel_stove/) - **Barrel Stove** ([source](https://polyhaven.com/a/barrel_stove)) - urban, city, night, fire, heating, outdoor, barrel
+- [`bench_vice_01/`](sci-fi/bench_vice_01/) - **Bench Vice 01** ([source](https://polyhaven.com/a/bench_vice_01)) - workshop, garage, used, metal, old, shed, woodwork
+- [`bolt_cutters_01/`](sci-fi/bolt_cutters_01/) - **Bolt Cutters 01** ([source](https://polyhaven.com/a/bolt_cutters_01)) - metal, worn, used, large, workshop, shed, garage
+- [`cardboard_box_01/`](sci-fi/cardboard_box_01/) - **Cardboard Box 01** ([source](https://polyhaven.com/a/cardboard_box_01)) - warehouse, shed, storage, box, paper, worn, old, broken
+- [`chemistry_set/`](sci-fi/chemistry_set/) - **Chemistry Set** ([source](https://polyhaven.com/a/chemistry_set)) - laboratory, science, chemistry, glassware, equipment, testing, lab, retort stand
+- [`circuit_board/`](sci-fi/circuit_board/) - **Circuit Board** ([source](https://polyhaven.com/a/circuit_board)) - computer, components, chip, motherboard, pc hardware, connectors, wiring, power supply
 - [`classic_laptop/`](sci-fi/classic_laptop/) - **Classic Laptop** ([source](https://polyhaven.com/a/classic_laptop)) - old, vintage, beige, notebook, lcd, trackball
 - [`combination_wrench/`](sci-fi/combination_wrench/) - **Combination Wrench** ([source](https://polyhaven.com/a/combination_wrench)) - garage, workshop, construction, scratched
-- [`concrete_road_barrier/`](sci-fi/concrete_road_barrier/) - **Concrete Road Barrier** ([source](https://polyhaven.com/a/concrete_road_barrier)) - road barrier, traffic barrier, safety barrier, wall, road, road block
-- [`concrete_road_barrier_02/`](sci-fi/concrete_road_barrier_02/) - **Concrete Road Barrier 02** ([source](https://polyhaven.com/a/concrete_road_barrier_02)) - road barrier, traffic barrier, safety barrier, wall, road, road block
+- [`concrete_road_barrier/`](sci-fi/concrete_road_barrier/) - **Concrete Road Barrier** ([source](https://polyhaven.com/a/concrete_road_barrier)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade, partition
+- [`concrete_road_barrier_02/`](sci-fi/concrete_road_barrier_02/) - **Concrete Road Barrier 02** ([source](https://polyhaven.com/a/concrete_road_barrier_02)) - road barrier, traffic barrier, safety barrier, wall, road, road block, blockade
 - [`modular-space-kit/`](sci-fi/modular-space-kit/) - **Modular Space Kit** ([source](https://kenney.nl/assets/modular-space-kit)) - modular, sci-fi, space, station, tiles
 - [`space-kit/`](sci-fi/space-kit/) - **Space Kit** ([source](https://kenney.nl/assets/space-kit)) - planet, ship, space
 - [`space-station-kit/`](sci-fi/space-station-kit/) - **Space Station Kit** ([source](https://kenney.nl/assets/space-station-kit)) - interior, sci-fi, space, station
@@ -241,10 +277,11 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 
 ### vehicles
 
+- [`superpowers-3d-vehicles/`](vehicles/superpowers-3d-vehicles/) - **Superpowers 3D Vehicles** ([source](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles)) - vehicle, car, lowpoly
 - [`car-kit/`](vehicles/car-kit/) - **Car Kit** ([source](https://kenney.nl/assets/car-kit)) - car, oopi, transportation, vehicle
 - [`coaster-kit/`](vehicles/coaster-kit/) - **Coaster Kit** ([source](https://kenney.nl/assets/coaster-kit)) - attraction, coaster, ride, rollercoaster, theme park, track
 - [`marble-kit/`](vehicles/marble-kit/) - **Marble Kit** ([source](https://kenney.nl/assets/marble-kit)) - marble, track
-- [`prototype-kit/`](vehicles/prototype-kit/) - **Prototype Kit** ([source](https://kenney.nl/assets/prototype-kit)) - animal, building, character, prototype, vehicle, wall
+- [`prototype-kit/`](vehicles/prototype-kit/) - **Prototype Kit** ([source](https://kenney.nl/assets/prototype-kit)) - animal, building, character, prototype, vehicle, wall, wheelchair
 - [`racing-kit/`](vehicles/racing-kit/) - **Racing Kit** ([source](https://kenney.nl/assets/racing-kit)) - car, racing, tile, track, vehicle
 - [`toy-car-kit/`](vehicles/toy-car-kit/) - **Toy Car Kit** ([source](https://kenney.nl/assets/toy-car-kit)) - car, toy, track, vehicle
 - [`train-kit/`](vehicles/train-kit/) - **Train Kit** ([source](https://kenney.nl/assets/train-kit)) - rail, railroad, track, train, tram, trolley
@@ -256,10 +293,11 @@ Assets are sorted into genre folders. Each pack folder holds the original files 
 - [Poly Haven](https://polyhaven.com) - CC0
 - [ambientCG](https://ambientcg.com) - CC0
 - [Kenney Asset Pack 1](https://github.com/iwenzhou/kenney) - CC0 (2D packs, mirror of the original Kenney release)
+- [Superpowers Asset Packs](https://github.com/sparklinlabs/superpowers-asset-packs) - CC0 (2D game packs and low-poly 3D by Pixel-boy, Sparklin Labs)
 
 ## Safety
 
-Every archive was scanned before extraction: path-traversal entries, zip bombs and all executable/script file types (`.exe`, `.dll`, `.bat`, `.ps1`, `.js`, `.vbs`, ...) are rejected or stripped. Only art, model, audio and text files are committed; the 2D packs additionally had their legacy Flash (`.swf`) sources and `Thumbs.db` files stripped. Poly Haven downloads are additionally verified against the publisher's MD5 checksums.
+Every archive was scanned before extraction: path-traversal entries, zip bombs and all executable/script file types (`.exe`, `.dll`, `.bat`, `.ps1`, `.js`, `.vbs`, ...) are rejected or stripped. Only art, model, audio, font and text files are committed; the 2D packs additionally had their legacy Flash (`.swf`) sources and `Thumbs.db` files stripped. Poly Haven downloads are additionally verified against the publisher's MD5 checksums.
 
 ---
 

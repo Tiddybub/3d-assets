@@ -1,7 +1,239 @@
 {
  "repo": "3d-assets",
- "packs": 189,
+ "packs": 210,
  "assets": [
+  {
+   "id": "parallax-backgrounds",
+   "title": "Parallax Backgrounds",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "background",
+    "parallax",
+    "sky",
+    "scenery"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds",
+   "path": "2d/parallax-backgrounds"
+  },
+  {
+   "id": "prehistoric-platformer-pack",
+   "title": "Prehistoric Platformer Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "platformer",
+    "prehistoric",
+    "dinosaur",
+    "sidescroller",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer",
+   "path": "2d/prehistoric-platformer-pack"
+  },
+  {
+   "id": "western-fps-pack",
+   "title": "Western FPS Pack",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "shooter",
+    "fps",
+    "western",
+    "weapons",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d",
+   "path": "2d/western-fps-pack"
+  },
+  {
+   "id": "top-down-shooter-pack",
+   "title": "Top Down Shooter Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "sci-fi"
+   ],
+   "tags": [
+    "shooter",
+    "top-down",
+    "weapons",
+    "sci-fi",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter",
+   "path": "2d/top-down-shooter-pack"
+  },
+  {
+   "id": "space-shooter-sprites",
+   "title": "Space Shooter Sprites",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "sci-fi"
+   ],
+   "tags": [
+    "sci-fi",
+    "shooter",
+    "space",
+    "ships",
+    "shmup",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/space-shooter",
+   "path": "2d/space-shooter-sprites"
+  },
+  {
+   "id": "rpg-battle-system",
+   "title": "RPG Battle System",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "battle",
+    "monsters",
+    "turn-based",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/rpg-battle-system",
+   "path": "2d/rpg-battle-system"
+  },
+  {
+   "id": "ninja-adventure-pack",
+   "title": "Ninja Adventure Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "ninja",
+    "top-down",
+    "monsters",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure",
+   "path": "2d/ninja-adventure-pack"
+  },
+  {
+   "id": "medieval-fantasy-pack",
+   "title": "Medieval Fantasy Pack",
+   "genre": "2d",
+   "genres": [
+    "2d",
+    "fantasy"
+   ],
+   "tags": [
+    "fantasy",
+    "rpg",
+    "medieval",
+    "monsters",
+    "top-down",
+    "sprite sheet"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy",
+   "path": "2d/medieval-fantasy-pack"
+  },
+  {
+   "id": "smilies",
+   "title": "Smilies",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "emoji",
+    "face",
+    "icons"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Smilies%20%2825%20assets%29",
+   "path": "2d/smilies"
+  },
+  {
+   "id": "medals",
+   "title": "Medals",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "ui",
+    "medal",
+    "achievement",
+    "award"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Medals%20%2830%20assets%29",
+   "path": "2d/medals"
+  },
+  {
+   "id": "road-textures",
+   "title": "Road Textures",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "road",
+    "tiles",
+    "racing",
+    "top-down"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Road%20textures%20%2880%20assets%29",
+   "path": "2d/road-textures"
+  },
+  {
+   "id": "platformer-bricks",
+   "title": "Platformer Bricks",
+   "genre": "2d",
+   "genres": [
+    "2d"
+   ],
+   "tags": [
+    "platformer",
+    "tiles",
+    "bricks",
+    "level"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Platformer%20bricks%20%28150%20assets%29",
+   "path": "2d/platformer-bricks"
+  },
   {
    "id": "platformer-pack",
    "title": "Platformer Pack",
@@ -205,6 +437,135 @@
    "credit": "Kenney",
    "source_page": "https://github.com/iwenzhou/kenney/tree/master/Art%20%285190%20files%29/Tappy%20Plane%20%2880%20assets%29",
    "path": "2d/tappy-plane"
+  },
+  {
+   "id": "casino-sounds",
+   "title": "Casino Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "casino",
+    "coins",
+    "slot"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29",
+   "path": "audio/casino-sounds"
+  },
+  {
+   "id": "jingle-sounds",
+   "title": "Jingle Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "jingle",
+    "music",
+    "stinger"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29",
+   "path": "audio/jingle-sounds"
+  },
+  {
+   "id": "digital-sounds",
+   "title": "Digital Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio",
+    "sci-fi"
+   ],
+   "tags": [
+    "sfx",
+    "digital",
+    "sci-fi",
+    "retro"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29",
+   "path": "audio/digital-sounds"
+  },
+  {
+   "id": "ui-sounds",
+   "title": "UI Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio"
+   ],
+   "tags": [
+    "sfx",
+    "ui",
+    "menu",
+    "click"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29",
+   "path": "audio/ui-sounds"
+  },
+  {
+   "id": "rpg-sounds",
+   "title": "RPG Sounds",
+   "genre": "audio",
+   "genres": [
+    "audio",
+    "fantasy"
+   ],
+   "tags": [
+    "sfx",
+    "rpg",
+    "fantasy",
+    "combat"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29",
+   "path": "audio/rpg-sounds"
+  },
+  {
+   "id": "superpowers-3d-warriors",
+   "title": "Superpowers 3D Warriors",
+   "genre": "characters",
+   "genres": [
+    "characters",
+    "fantasy"
+   ],
+   "tags": [
+    "character",
+    "warrior",
+    "fantasy",
+    "lowpoly"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-warriors",
+   "path": "characters/superpowers-3d-warriors"
+  },
+  {
+   "id": "superpowers-3d-character",
+   "title": "Superpowers 3D Character",
+   "genre": "characters",
+   "genres": [
+    "characters"
+   ],
+   "tags": [
+    "character",
+    "lowpoly",
+    "rigged",
+    "animated"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-character",
+   "path": "characters/superpowers-3d-character"
   },
   {
    "id": "animated-characters-protagonists",
@@ -423,6 +784,24 @@
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/tower-defense-kit",
    "path": "fantasy/tower-defense-kit"
+  },
+  {
+   "id": "kenney-pixel-fonts",
+   "title": "Kenney Pixel Fonts",
+   "genre": "fonts",
+   "genres": [
+    "fonts"
+   ],
+   "tags": [
+    "font",
+    "pixel art",
+    "retro",
+    "ui"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Kenney",
+   "source_page": "https://github.com/iwenzhou/kenney/tree/master/Fonts%20%2810%20files%29",
+   "path": "fonts/kenney-pixel-fonts"
   },
   {
    "id": "aarfontein_dirt_road",
@@ -3309,6 +3688,23 @@
    "credit": "Kenney",
    "source_page": "https://kenney.nl/assets/platformer-kit",
    "path": "tiles-terrain/platformer-kit"
+  },
+  {
+   "id": "superpowers-3d-vehicles",
+   "title": "Superpowers 3D Vehicles",
+   "genre": "vehicles",
+   "genres": [
+    "vehicles"
+   ],
+   "tags": [
+    "vehicle",
+    "car",
+    "lowpoly"
+   ],
+   "license": "CC0-1.0",
+   "credit": "Sparklin Labs",
+   "source_page": "https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles",
+   "path": "vehicles/superpowers-3d-vehicles"
   },
   {
    "id": "car-kit",
